@@ -1,0 +1,547 @@
+,Location,Population,Year
+1,Apache Junction city,41739,2018
+2,Avondale city,85835,2018
+3,Benson city,4873,2018
+4,Bisbee city,5209,2018
+5,Buckeye city,74370,2018
+6,Bullhead City city,40421,2018
+7,Camp Verde town,11239,2018
+8,Carefree town,3876,2018
+9,Casa Grande city,57232,2018
+10,Cave Creek town,5760,2018
+11,Chandler city,257165,2018
+12,Chino Valley town,12003,2018
+13,Clarkdale town,4393,2018
+14,Clifton town,3700,2018
+15,Colorado City town,4857,2018
+16,Coolidge city,12993,2018
+17,Cottonwood city,12199,2018
+18,Dewey-Humboldt town,4106,2018
+19,Douglas city,15978,2018
+20,Duncan town,789,2018
+21,Eagar town,4899,2018
+22,El Mirage city,35670,2018
+23,Eloy city,19391,2018
+24,Flagstaff city,73964,2018
+25,Florence town,26419,2018
+26,Fountain Hills town,24987,2018
+27,Fredonia town,1300,2018
+28,Gila Bend town,2094,2018
+29,Gilbert town,248279,2018
+30,Glendale city,250702,2018
+31,Globe city,7346,2018
+32,Goodyear city,82835,2018
+33,Guadalupe town,6597,2018
+34,Hayden town,633,2018
+35,Holbrook city,5093,2018
+36,Huachuca City town,1738,2018
+37,Jerome town,457,2018
+38,Kearny town,2145,2018
+39,Kingman city,30314,2018
+40,Lake Havasu City city,55090,2018
+41,Litchfield Park city,6310,2018
+42,Mammoth town,1650,2018
+43,Marana town,47007,2018
+44,Maricopa city,50024,2018
+45,Mesa city,508958,2018
+46,Miami town,1774,2018
+47,Nogales city,20188,2018
+48,Oro Valley town,45395,2018
+49,Page city,7566,2018
+50,Paradise Valley town,14502,2018
+51,Parker town,3200,2018
+52,Patagonia town,881,2018
+53,Payson town,15710,2018
+54,Peoria city,172259,2018
+55,Phoenix city,1660272,2018
+56,Pima town,2512,2018
+57,Pinetop-Lakeside town,4433,2018
+58,Prescott city,43314,2018
+59,Prescott Valley town,45751,2018
+60,Quartzsite town,3766,2018
+61,Queen Creek town,42503,2018
+62,Safford city,9872,2018
+63,Sahuarita town,30282,2018
+64,St. Johns city,3517,2018
+65,San Luis city,33490,2018
+66,Scottsdale city,255310,2018
+67,Sedona city,10335,2018
+68,Show Low city,11321,2018
+69,Sierra Vista city,44420,2018
+70,Snowflake town,5858,2018
+71,Somerton city,16491,2018
+72,South Tucson city,5697,2018
+73,Springerville town,1982,2018
+74,Star Valley town,2303,2018
+75,Superior town,3141,2018
+76,Surprise city,138161,2018
+77,Taylor town,4262,2018
+78,Tempe city,192364,2018
+79,Thatcher town,5138,2018
+80,Tolleson city,7299,2018
+81,Tombstone city,1300,2018
+82,Tucson city,545975,2018
+83,Tusayan town,587,2018
+84,Wellton town,3030,2018
+85,Wickenburg town,7840,2018
+86,Willcox city,3534,2018
+87,Williams city,3226,2018
+88,Winkelman town,352,2018
+89,Winslow city,9427,2018
+90,Youngtown town,6836,2018
+91,Yuma city,97908,2018
+1,Phoenix city,1626078,2017
+2,Pima town,2513,2017
+3,Pinetop-Lakeside town,4361,2017
+4,Prescott city,42731,2017
+5,Prescott Valley town,44466,2017
+6,Quartzsite town,3694,2017
+7,Queen Creek town,39184,2017
+8,Safford city,9641,2017
+9,Sahuarita town,29318,2017
+10,St. Johns city,3508,2017
+11,San Luis city,32446,2017
+12,Scottsdale city,249950,2017
+13,Sedona city,10336,2017
+14,Show Low city,11098,2017
+15,Sierra Vista city,42912,2017
+16,Snowflake town,5753,2017
+17,Somerton city,16120,2017
+18,South Tucson city,5643,2017
+19,Springerville town,1956,2017
+20,Star Valley town,2287,2017
+21,Superior town,3068,2017
+22,Surprise city,134085,2017
+23,Taylor town,4185,2017
+24,Tempe city,185038,2017
+25,Thatcher town,5021,2017
+26,Tolleson city,7205,2017
+27,Tombstone city,1296,2017
+28,Tucson city,535677,2017
+29,Tusayan town,583,2017
+30,Wellton town,2989,2017
+31,Wickenburg town,7409,2017
+32,Willcox city,3501,2017
+33,Williams city,3158,2017
+34,Winkelman town,347,2017
+35,Winslow city,9402,2017
+36,Youngtown town,6760,2017
+37,Yuma city,95502,2017
+38,Maricopa city,48007,2017
+39,Mesa city,496401,2017
+40,Miami town,1771,2017
+41,Nogales city,20076,2017
+42,Oro Valley town,44350,2017
+43,Page city,7553,2017
+44,Paradise Valley town,14293,2017
+45,Parker town,3059,2017
+46,Patagonia town,880,2017
+47,Payson town,15520,2017
+48,Peoria city,168181,2017
+49,Kingman city,29472,2017
+50,Lake Havasu City city,54411,2017
+51,Litchfield Park city,6009,2017
+52,Mammoth town,1611,2017
+53,Marana town,44792,2017
+54,Bullhead City city,40252,2017
+55,Camp Verde town,11201,2017
+56,Carefree town,3783,2017
+57,Casa Grande city,55477,2017
+58,Cave Creek town,5622,2017
+59,Chandler city,253458,2017
+60,El Mirage city,35216,2017
+61,Eloy city,19168,2017
+62,Flagstaff city,71975,2017
+63,Florence town,26074,2017
+64,Fountain Hills town,24583,2017
+65,Fredonia town,1304,2017
+66,Chino Valley town,11705,2017
+67,Clarkdale town,4330,2017
+68,Clifton town,3680,2017
+69,Colorado City town,4837,2017
+70,Coolidge city,12698,2017
+71,Gila Bend town,2069,2017
+72,Gilbert town,242354,2017
+73,Glendale city,246709,2017
+74,Globe city,7356,2017
+75,Goodyear city,79858,2017
+76,Apache Junction city,40538,2017
+77,Avondale city,84025,2017
+78,Benson city,4837,2017
+79,Bisbee city,5192,2017
+80,Buckeye city,68453,2017
+81,Cottonwood city,12023,2017
+82,Dewey-Humboldt town,4064,2017
+83,Douglas city,16165,2017
+84,Duncan town,788,2017
+85,Eagar town,4881,2017
+86,Guadalupe town,6525,2017
+87,Hayden town,631,2017
+88,Holbrook city,5049,2017
+89,Huachuca City town,1729,2017
+90,Jerome town,455,2017
+91,Kearny town,2095,2017
+1,Camp Verde town,11238,2016
+2,Carefree town,3724,2016
+3,Casa Grande city,54534,2016
+4,Cave Creek town,5476,2016
+5,Chandler city,247477,2016
+6,Chino Valley town,11250,2016
+7,Clarkdale town,4272,2016
+8,Clifton town,3734,2016
+9,Colorado City town,4818,2016
+10,Coolidge city,12528,2016
+11,Cottonwood city,11990,2016
+12,Dewey-Humboldt town,4049,2016
+13,Douglas city,16604,2016
+14,Duncan town,804,2016
+15,Eagar town,4988,2016
+16,El Mirage city,35043,2016
+17,Eloy city,17442,2016
+18,Flagstaff city,71459,2016
+19,Florence town,25779,2016
+20,Fountain Hills town,24482,2016
+21,Fredonia town,1323,2016
+22,Gila Bend town,2071,2016
+23,Gilbert town,237133,2016
+24,Glendale city,245895,2016
+25,Globe city,7376,2016
+26,Goodyear city,77258,2016
+27,Guadalupe town,6336,2016
+28,Hayden town,635,2016
+29,Holbrook city,5074,2016
+30,Huachuca City town,1744,2016
+31,Jerome town,455,2016
+32,Kearny town,2075,2016
+33,Kingman city,29029,2016
+34,Lake Havasu City city,53743,2016
+35,Litchfield Park city,5766,2016
+36,Mammoth town,1519,2016
+37,Marana town,43474,2016
+38,Maricopa city,46903,2016
+39,Mesa city,484587,2016
+40,Miami town,1781,2016
+41,Nogales city,20008,2016
+42,Oro Valley town,43781,2016
+43,Page city,7599,2016
+44,Paradise Valley town,14355,2016
+45,Parker town,3026,2016
+46,Patagonia town,878,2016
+47,Payson town,15476,2016
+48,Peoria city,164173,2016
+49,Phoenix city,1615017,2016
+50,Pima town,2505,2016
+51,Pinetop-Lakeside town,4378,2016
+52,Prescott city,42513,2016
+53,Prescott Valley town,43132,2016
+54,Quartzsite town,3644,2016
+55,Queen Creek town,35524,2016
+56,Safford city,9604,2016
+57,Sahuarita town,28794,2016
+58,St. Johns city,3568,2016
+59,San Luis city,32148,2016
+60,Scottsdale city,246645,2016
+61,Sedona city,10397,2016
+62,Show Low city,11096,2016
+63,Sierra Vista city,43208,2016
+64,Snowflake town,5764,2016
+65,Somerton city,14970,2016
+66,South Tucson city,5645,2016
+67,Springerville town,1995,2016
+68,Star Valley town,2287,2016
+69,Superior town,2999,2016
+70,Surprise city,132677,2016
+71,Taylor town,4217,2016
+72,Tempe city,182498,2016
+73,Thatcher town,5027,2016
+74,Tolleson city,7178,2016
+75,Tombstone city,1300,2016
+76,Tucson city,530706,2016
+77,Tusayan town,591,2016
+78,Wellton town,2968,2016
+79,Wickenburg town,7115,2016
+80,Willcox city,3511,2016
+81,Williams city,3159,2016
+82,Winkelman town,346,2016
+83,Winslow city,9754,2016
+84,Youngtown town,6759,2016
+85,Yuma city,94906,2016
+86,Apache Junction city,39954,2016
+87,Avondale city,82881,2016
+88,Benson city,4870,2016
+89,Bisbee city,5221,2016
+90,Buckeye city,64629,2016
+91,Bullhead City city,39970,2016
+1,Sahuarita town,25707,2015
+2,St. Johns city,3483,2015
+3,San Luis city,31520,2015
+4,Scottsdale city,236839,2015
+5,Sedona city,10388,2015
+6,Show Low city,10860,2015
+7,Sierra Vista city,43355,2015
+8,Snowflake town,5666,2015
+9,Somerton city,15048,2015
+10,South Tucson city,5715,2015
+11,Springerville town,1954,2015
+12,Star Valley town,2277,2015
+13,Superior town,2943,2015
+14,Surprise city,128422,2015
+15,Taylor town,4151,2015
+16,Tempe city,175826,2015
+17,Thatcher town,4992,2015
+18,Tolleson city,7008,2015
+19,Tombstone city,1312,2015
+20,Tucson city,531641,2015
+21,Tusayan town,567,2015
+22,Wellton town,2936,2015
+23,Wickenburg town,6806,2015
+24,Willcox city,3552,2015
+25,Williams city,3122,2015
+26,Winkelman town,346,2015
+27,Winslow city,9600,2015
+28,Youngtown town,6613,2015
+29,Apache Junction city,38074,2015
+30,Yuma city,94139,2015
+31,Avondale city,80684,2015
+32,Benson city,4888,2015
+33,Bisbee city,5208,2015
+34,Buckeye town,62138,2015
+35,Bullhead City city,39445,2015
+36,Camp Verde town,11155,2015
+37,Carefree town,3610,2015
+38,Casa Grande city,51460,2015
+39,Cave Creek town,5341,2015
+40,Chandler city,260828,2015
+41,Chino Valley town,11137,2015
+42,Clarkdale town,4240,2015
+43,Clifton town,3685,2015
+44,Colorado City town,4832,2015
+45,Coolidge city,12297,2015
+46,Cottonwood city,11818,2015
+47,Dewey-Humboldt town,3988,2015
+48,Douglas city,16592,2015
+49,Duncan town,799,2015
+50,Eagar town,4869,2015
+51,El Mirage city,33935,2015
+52,Eloy city,17059,2015
+53,Flagstaff city,70320,2015
+54,Florence town,31110,2015
+55,Fountain Hills town,23899,2015
+56,Fredonia town,1322,2015
+57,Gila Bend town,2025,2015
+58,Gilbert town,247542,2015
+59,Glendale city,240126,2015
+60,Globe city,7396,2015
+61,Goodyear city,79003,2015
+62,Guadalupe town,6177,2015
+63,Hayden town,650,2015
+64,Holbrook city,5019,2015
+65,Huachuca City town,1755,2015
+66,Jerome town,456,2015
+67,Kearny town,2038,2015
+68,Kingman city,28912,2015
+69,Lake Havasu City city,53553,2015
+70,Litchfield Park city,5533,2015
+71,Mammoth town,1487,2015
+72,Marana town,41315,2015
+73,Maricopa city,48602,2015
+74,Mesa city,471825,2015
+75,Miami town,1783,2015
+76,Nogales city,20252,2015
+77,Oro Valley town,43565,2015
+78,Page city,7490,2015
+79,Paradise Valley town,13922,2015
+80,Parker town,3046,2015
+81,Patagonia town,890,2015
+82,Payson town,15345,2015
+83,Peoria city,171237,2015
+84,Phoenix city,1563025,2015
+85,Pima town,2524,2015
+86,Pinetop-Lakeside town,4345,2015
+87,Prescott city,41899,2015
+88,Prescott Valley town,42197,2015
+89,Quartzsite town,3626,2015
+90,Queen Creek town,34614,2015
+91,Safford city,9683,2015
+1,Apache Junction city,38131,2014
+2,Avondale city,79646,2014
+3,Benson city,4927,2014
+4,Bisbee city,5308,2014
+5,Buckeye town,59470,2014
+6,Bullhead City city,39364,2014
+7,Camp Verde town,11097,2014
+8,Carefree town,3526,2014
+9,Casa Grande city,51478,2014
+10,Cave Creek town,5253,2014
+11,Chandler city,254276,2014
+12,Chino Valley town,11019,2014
+13,Clarkdale town,4165,2014
+14,Clifton town,3626,2014
+15,Colorado City town,4792,2014
+16,Coolidge city,12209,2014
+17,Cottonwood city,11595,2014
+18,Dewey-Humboldt town,3971,2014
+19,Douglas city,16744,2014
+20,Duncan town,783,2014
+21,Eagar town,4913,2014
+22,El Mirage city,33532,2014
+23,Eloy city,16738,2014
+24,Flagstaff city,68785,2014
+25,Florence town,26912,2014
+26,Fountain Hills town,23573,2014
+27,Fredonia town,1317,2014
+28,Gila Bend town,2001,2014
+29,Gilbert town,239277,2014
+30,Glendale city,237517,2014
+31,Globe city,7375,2014
+32,Goodyear city,75664,2014
+33,Guadalupe town,6106,2014
+34,Hayden town,648,2014
+35,Holbrook city,5016,2014
+36,Huachuca City town,1775,2014
+37,Jerome town,451,2014
+38,Kearny town,2017,2014
+39,Kingman city,28549,2014
+40,Lake Havasu City city,53103,2014
+41,Litchfield Park city,5392,2014
+42,Mammoth town,1472,2014
+43,Marana town,39888,2014
+44,Maricopa city,47442,2014
+45,Mesa city,464704,2014
+46,Miami town,1781,2014
+47,Nogales city,20407,2014
+48,Oro Valley town,42018,2014
+49,Page city,7440,2014
+50,Paradise Valley town,13663,2014
+51,Parker town,3057,2014
+52,Patagonia town,898,2014
+53,Payson town,15245,2014
+54,Peoria city,166934,2014
+55,Phoenix city,1537058,2014
+56,Pima town,2477,2014
+57,Pinetop-Lakeside town,4318,2014
+58,Prescott city,40958,2014
+59,Prescott Valley town,41075,2014
+60,Quartzsite town,3613,2014
+61,Queen Creek town,32236,2014
+62,Safford city,9744,2014
+63,Sahuarita town,27547,2014
+64,St. Johns city,3497,2014
+65,San Luis city,31091,2014
+66,Scottsdale city,230512,2014
+67,Sedona city,10281,2014
+68,Show Low city,10841,2014
+69,Sierra Vista city,43806,2014
+70,Snowflake town,5644,2014
+71,Somerton city,14912,2014
+72,South Tucson city,5730,2014
+73,Springerville town,1964,2014
+74,Star Valley town,2276,2014
+75,Superior town,2916,2014
+76,Surprise city,126275,2014
+77,Taylor town,4144,2014
+78,Tempe city,172816,2014
+79,Thatcher town,5023,2014
+80,Tolleson city,6929,2014
+81,Tombstone city,1322,2014
+82,Tucson city,527972,2014
+83,Tusayan town,576,2014
+84,Wellton town,2956,2014
+85,Wickenburg town,6685,2014
+86,Willcox city,3607,2014
+87,Williams city,3094,2014
+88,Winkelman town,346,2014
+89,Winslow city,9604,2014
+90,Youngtown town,6542,2014
+91,Yuma city,93400,2014
+1,Apache Junction city,37130,2013
+2,Avondale city,78822,2013
+3,Benson city,5005,2013
+4,Bisbee city,5360,2013
+5,Buckeye town,56683,2013
+6,Bullhead City city,39383,2013
+7,Camp Verde town,11018,2013
+8,Carefree town,3487,2013
+9,Casa Grande city,50111,2013
+10,Cave Creek town,5074,2013
+11,Chandler city,249146,2013
+12,Chino Valley town,10943,2013
+13,Clarkdale town,4122,2013
+14,Clifton town,3501,2013
+15,Colorado City town,4812,2013
+16,Coolidge city,11887,2013
+17,Cottonwood city,11424,2013
+18,Dewey-Humboldt town,3951,2013
+19,Douglas city,16915,2013
+20,Duncan town,750,2013
+21,Eagar town,4916,2013
+22,El Mirage city,32998,2013
+23,Eloy city,16996,2013
+24,Flagstaff city,68667,2013
+25,Florence town,25428,2013
+26,Fountain Hills town,23235,2013
+27,Fredonia town,1307,2013
+28,Gila Bend town,1977,2013
+29,Gilbert town,229972,2013
+30,Glendale city,234632,2013
+31,Globe city,7404,2013
+32,Goodyear city,72864,2013
+33,Guadalupe town,6072,2013
+34,Hayden town,650,2013
+35,Holbrook city,4996,2013
+36,Huachuca City town,1794,2013
+37,Jerome town,448,2013
+38,Kearny town,2030,2013
+39,Kingman city,28393,2013
+40,Lake Havasu City city,52844,2013
+41,Litchfield Park city,5306,2013
+42,Mammoth town,1484,2013
+43,Marana town,38290,2013
+44,Maricopa city,45508,2013
+45,Mesa city,457587,2013
+46,Miami town,1794,2013
+47,Nogales city,20456,2013
+48,Oro Valley town,41627,2013
+49,Page city,7326,2013
+50,Paradise Valley town,13387,2013
+51,Parker town,3073,2013
+52,Patagonia town,896,2013
+53,Payson town,15245,2013
+54,Peoria city,162592,2013
+55,Phoenix city,1513367,2013
+56,Pima town,2466,2013
+57,Pinetop-Lakeside town,4297,2013
+58,Prescott city,40590,2013
+59,Prescott Valley town,39791,2013
+60,Quartzsite town,3643,2013
+61,Queen Creek town,29673,2013
+62,Safford city,9602,2013
+63,Sahuarita town,26870,2013
+64,St. Johns city,3503,2013
+65,San Luis city,31180,2013
+66,Scottsdale city,226918,2013
+67,Sedona city,10111,2013
+68,Show Low city,10730,2013
+69,Sierra Vista city,45129,2013
+70,Snowflake town,5576,2013
+71,Somerton city,14994,2013
+72,South Tucson city,5696,2013
+73,Springerville town,1967,2013
+74,Star Valley town,2278,2013
+75,Superior town,2896,2013
+76,Surprise city,123546,2013
+77,Taylor town,4115,2013
+78,Tempe city,168228,2013
+79,Thatcher town,4957,2013
+80,Tolleson city,6756,2013
+81,Tombstone city,1338,2013
+82,Tucson city,526116,2013
+83,Tusayan town,573,2013
+84,Wellton town,2908,2013
+85,Wickenburg town,6604,2013
+86,Willcox city,3641,2013
+87,Williams city,3001,2013
+88,Winkelman town,347,2013
+89,Winslow city,9479,2013
+90,Youngtown town,6331,2013
+91,Yuma city,91923,2013
