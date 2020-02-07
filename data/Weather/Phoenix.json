@@ -1,0 +1,1852 @@
+[
+    {
+    id: 5308655,
+    name: "Phoenix",
+    coord: {
+    lat: 33.45,
+    lon: -112.07
+    },
+    main: {
+    temp: 282.23,
+    feels_like: 278.47,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5317071,
+    name: "Tempe Junction",
+    coord: {
+    lat: 33.41,
+    lon: -111.94
+    },
+    main: {
+    temp: 282.2,
+    feels_like: 278.44,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5296962,
+    name: "Guadalupe",
+    coord: {
+    lat: 33.37,
+    lon: -111.96
+    },
+    main: {
+    temp: 282.36,
+    feels_like: 278.61,
+    temp_min: 279.26,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5295985,
+    name: "Glendale",
+    coord: {
+    lat: 33.54,
+    lon: -112.19
+    },
+    main: {
+    temp: 282.24,
+    feels_like: 278.48,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5308049,
+    name: "Paradise Valley",
+    coord: {
+    lat: 33.53,
+    lon: -111.94
+    },
+    main: {
+    temp: 282.19,
+    feels_like: 278.8,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1018,
+    humidity: 27
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 0.59,
+    deg: 120
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5317058,
+    name: "Tempe",
+    coord: {
+    lat: 33.41,
+    lon: -111.91
+    },
+    main: {
+    temp: 282.2,
+    feels_like: 278.44,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5313457,
+    name: "Scottsdale",
+    coord: {
+    lat: 33.51,
+    lon: -111.9
+    },
+    main: {
+    temp: 282.18,
+    feels_like: 278.79,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1018,
+    humidity: 27
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 0.59,
+    deg: 120
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5317663,
+    name: "Tolleson",
+    coord: {
+    lat: 33.45,
+    lon: -112.26
+    },
+    main: {
+    temp: 282.32,
+    feels_like: 278.57,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5301242,
+    name: "Komatke",
+    coord: {
+    lat: 33.29,
+    lon: -112.18
+    },
+    main: {
+    temp: 282.24,
+    feels_like: 278.48,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5308480,
+    name: "Peoria",
+    coord: {
+    lat: 33.58,
+    lon: -112.24
+    },
+    main: {
+    temp: 282.36,
+    feels_like: 278.62,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5304391,
+    name: "Mesa",
+    coord: {
+    lat: 33.42,
+    lon: -111.82
+    },
+    main: {
+    temp: 282.17,
+    feels_like: 278.41,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5312845,
+    name: "San Carlos",
+    coord: {
+    lat: 33.35,
+    lon: -111.85
+    },
+    main: {
+    temp: 282.18,
+    feels_like: 278.42,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5302611,
+    name: "Lone Butte Ranch",
+    coord: {
+    lat: 33.23,
+    lon: -112.05
+    },
+    main: {
+    temp: 282.36,
+    feels_like: 278.39,
+    temp_min: 279.26,
+    temp_max: 285.37,
+    pressure: 1019,
+    humidity: 39
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 80
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5316201,
+    name: "Sun City",
+    coord: {
+    lat: 33.6,
+    lon: -112.27
+    },
+    main: {
+    temp: 282.36,
+    feels_like: 278.62,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5552301,
+    name: "Avondale",
+    coord: {
+    lat: 33.44,
+    lon: -112.35
+    },
+    main: {
+    temp: 282.39,
+    feels_like: 278.65,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048936,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5289282,
+    name: "Chandler",
+    coord: {
+    lat: 33.31,
+    lon: -111.84
+    },
+    main: {
+    temp: 282.18,
+    feels_like: 278.42,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5296266,
+    name: "Goodyear",
+    coord: {
+    lat: 33.44,
+    lon: -112.36
+    },
+    main: {
+    temp: 282.39,
+    feels_like: 278.65,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5322027,
+    name: "Youngtown",
+    coord: {
+    lat: 33.59,
+    lon: -112.3
+    },
+    main: {
+    temp: 282.39,
+    feels_like: 278.65,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5302053,
+    name: "Litchfield Park",
+    coord: {
+    lat: 33.49,
+    lon: -112.36
+    },
+    main: {
+    temp: 282.41,
+    feels_like: 278.67,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5302052,
+    name: "Litchfield Junction",
+    coord: {
+    lat: 33.42,
+    lon: -112.36
+    },
+    main: {
+    temp: 282.39,
+    feels_like: 278.65,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5295903,
+    name: "Gilbert",
+    coord: {
+    lat: 33.35,
+    lon: -111.79
+    },
+    main: {
+    temp: 282.16,
+    feels_like: 278.4,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5293996,
+    name: "El Mirage",
+    coord: {
+    lat: 33.61,
+    lon: -112.32
+    },
+    main: {
+    temp: 282.44,
+    feels_like: 278.71,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5320055,
+    name: "Webb",
+    coord: {
+    lat: 33.55,
+    lon: -112.37
+    },
+    main: {
+    temp: 282.46,
+    feels_like: 278.73,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5316428,
+    name: "Surprise",
+    coord: {
+    lat: 33.63,
+    lon: -112.33
+    },
+    main: {
+    temp: 282.44,
+    feels_like: 278.71,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5316209,
+    name: "Sun Lakes",
+    coord: {
+    lat: 33.21,
+    lon: -111.88
+    },
+    main: {
+    temp: 282.18,
+    feels_like: 278.19,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1019,
+    humidity: 39
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 80
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5316205,
+    name: "Sun City West",
+    coord: {
+    lat: 33.66,
+    lon: -112.34
+    },
+    main: {
+    temp: 282.44,
+    feels_like: 278.71,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5289961,
+    name: "Citrus Park",
+    coord: {
+    lat: 33.55,
+    lon: -112.44
+    },
+    main: {
+    temp: 282.46,
+    feels_like: 278.73,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5295177,
+    name: "Fountain Hills",
+    coord: {
+    lat: 33.61,
+    lon: -111.72
+    },
+    main: {
+    temp: 282.09,
+    feels_like: 278.32,
+    temp_min: 278.15,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5301878,
+    name: "Liberty",
+    coord: {
+    lat: 33.38,
+    lon: -112.49
+    },
+    main: {
+    temp: 282.59,
+    feels_like: 278.87,
+    temp_min: 279.82,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5303754,
+    name: "Maricopa County",
+    coord: {
+    lat: 33.5,
+    lon: -112.5
+    },
+    main: {
+    temp: 282.61,
+    feels_like: 278.9,
+    temp_min: 279.82,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5288629,
+    name: "Casa Blanca",
+    coord: {
+    lat: 33.12,
+    lon: -111.89
+    },
+    main: {
+    temp: 282.47,
+    feels_like: 278.51,
+    temp_min: 279.26,
+    temp_max: 285.37,
+    pressure: 1019,
+    humidity: 39
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 80
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5295796,
+    name: "Germann",
+    coord: {
+    lat: 33.28,
+    lon: -111.67
+    },
+    main: {
+    temp: 282.14,
+    feels_like: 278.38,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5303752,
+    name: "Maricopa",
+    coord: {
+    lat: 33.06,
+    lon: -112.05
+    },
+    main: {
+    temp: 282.52,
+    feels_like: 278.56,
+    temp_min: 279.82,
+    temp_max: 285.37,
+    pressure: 1019,
+    humidity: 39
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 80
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5288523,
+    name: "Carefree",
+    coord: {
+    lat: 33.82,
+    lon: -111.92
+    },
+    main: {
+    temp: 282.02,
+    feels_like: 278.64,
+    temp_min: 277.59,
+    temp_max: 286.15,
+    pressure: 1018,
+    humidity: 27
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 0.56,
+    deg: 58
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5288858,
+    name: "Cave Creek",
+    coord: {
+    lat: 33.83,
+    lon: -111.95
+    },
+    main: {
+    temp: 282.06,
+    feels_like: 278.68,
+    temp_min: 277.59,
+    temp_max: 286.15,
+    pressure: 1018,
+    humidity: 27
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 0.56,
+    deg: 58
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5288856,
+    name: "Cave Creek",
+    coord: {
+    lat: 33.83,
+    lon: -111.95
+    },
+    main: {
+    temp: 282.06,
+    feels_like: 278.68,
+    temp_min: 277.59,
+    temp_max: 286.15,
+    pressure: 1018,
+    humidity: 27
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 0.56,
+    deg: 58
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5310193,
+    name: "Queen Creek",
+    coord: {
+    lat: 33.25,
+    lon: -111.63
+    },
+    main: {
+    temp: 282.01,
+    feels_like: 278.23,
+    temp_min: 278.15,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5551498,
+    name: "Anthem",
+    coord: {
+    lat: 33.87,
+    lon: -112.15
+    },
+    main: {
+    temp: 282.17,
+    feels_like: 278.4,
+    temp_min: 277.59,
+    temp_max: 286.15,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048936,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5311414,
+    name: "Rio Verde",
+    coord: {
+    lat: 33.72,
+    lon: -111.68
+    },
+    main: {
+    temp: 281.93,
+    feels_like: 278.19,
+    temp_min: 277.59,
+    temp_max: 286.15,
+    pressure: 1018,
+    humidity: 27
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.06,
+    deg: 104
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5551535,
+    name: "Apache Junction",
+    coord: {
+    lat: 33.42,
+    lon: -111.55
+    },
+    main: {
+    temp: 281.74,
+    feels_like: 277.94,
+    temp_min: 277.59,
+    temp_max: 285.37,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048936,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5287262,
+    name: "Buckeye",
+    coord: {
+    lat: 33.37,
+    lon: -112.58
+    },
+    main: {
+    temp: 282.62,
+    feels_like: 278.91,
+    temp_min: 280.37,
+    temp_max: 285.15,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5312393,
+    name: "Sacaton",
+    coord: {
+    lat: 33.08,
+    lon: -111.74
+    },
+    main: {
+    temp: 282.31,
+    feels_like: 278.33,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1019,
+    humidity: 39
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 80
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5306523,
+    name: "New River",
+    coord: {
+    lat: 33.92,
+    lon: -112.14
+    },
+    main: {
+    temp: 282.1,
+    feels_like: 278.73,
+    temp_min: 277.59,
+    temp_max: 286.15,
+    pressure: 1018,
+    humidity: 27
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 0.56,
+    deg: 58
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5290551,
+    name: "Conger",
+    coord: {
+    lat: 33.37,
+    lon: -112.66
+    },
+    main: {
+    temp: 282.58,
+    feels_like: 278.86,
+    temp_min: 280.37,
+    temp_max: 285.15,
+    pressure: 1017,
+    humidity: 45
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 350
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 7310164,
+    name: "San Tan Valley",
+    coord: {
+    lat: 33.19,
+    lon: -111.53
+    },
+    main: {
+    temp: 281.38,
+    feels_like: 277.31,
+    temp_min: 277.59,
+    temp_max: 284.82,
+    pressure: 1017,
+    humidity: 39
+    },
+    dt: 1581049035,
+    wind: {
+    speed: 2.1,
+    deg: 20
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5285857,
+    name: "Blackwater",
+    coord: {
+    lat: 33.03,
+    lon: -111.58
+    },
+    main: {
+    temp: 281.99,
+    feels_like: 277.98,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1019,
+    humidity: 39
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 80
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5285131,
+    name: "Black Canyon City",
+    coord: {
+    lat: 34.07,
+    lon: -112.15
+    },
+    main: {
+    temp: 280.74,
+    feels_like: 277.28,
+    temp_min: 275.37,
+    temp_max: 284.26,
+    pressure: 1018,
+    humidity: 27
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 0.56,
+    deg: 58
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5288636,
+    name: "Casa Grande",
+    coord: {
+    lat: 32.88,
+    lon: -111.76
+    },
+    main: {
+    temp: 281.88,
+    feels_like: 277.86,
+    temp_min: 278.71,
+    temp_max: 285.37,
+    pressure: 1019,
+    humidity: 39
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 80
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5308916,
+    name: "Pinal County",
+    coord: {
+    lat: 33,
+    lon: -111.52
+    },
+    main: {
+    temp: 281.8,
+    feels_like: 277.77,
+    temp_min: 277.59,
+    temp_max: 286.15,
+    pressure: 1019,
+    humidity: 39
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 2.1,
+    deg: 80
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    },
+    {
+    id: 5296106,
+    name: "Gold Camp",
+    coord: {
+    lat: 33.29,
+    lon: -111.3
+    },
+    main: {
+    temp: 281.41,
+    feels_like: 277.58,
+    temp_min: 276.48,
+    temp_max: 286.15,
+    pressure: 1017,
+    humidity: 34
+    },
+    dt: 1581048931,
+    wind: {
+    speed: 1.5,
+    deg: 70
+    },
+    sys: {
+    country: "US"
+    },
+    rain: null,
+    snow: null,
+    clouds: {
+    all: 1
+    },
+    weather: [
+    {
+    id: 800,
+    main: "Clear",
+    description: "clear sky",
+    icon: "01n"
+    }
+    ]
+    }
+    ]
