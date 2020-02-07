@@ -1,0 +1,1857 @@
+{
+message: "accurate",
+cod: "200",
+count: 50,
+list: [
+{
+id: 5315313,
+name: "South Tucson",
+coord: {
+lat: 32.2,
+lon: -110.97
+},
+main: {
+temp: 282.76,
+feels_like: 279.39,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5318313,
+name: "Tucson",
+coord: {
+lat: 32.22,
+lon: -110.93
+},
+main: {
+temp: 282.76,
+feels_like: 279.39,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5294937,
+name: "Flowing Wells",
+coord: {
+lat: 32.29,
+lon: -111.01
+},
+main: {
+temp: 282.75,
+feels_like: 279.22,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5288786,
+name: "Catalina Foothills",
+coord: {
+lat: 32.3,
+lon: -110.92
+},
+main: {
+temp: 282.75,
+feels_like: 279.22,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5293183,
+name: "Drexel Heights",
+coord: {
+lat: 32.14,
+lon: -111.03
+},
+main: {
+temp: 282.73,
+feels_like: 279.36,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5319417,
+name: "Vandenberg Village",
+coord: {
+lat: 32.18,
+lon: -110.87
+},
+main: {
+temp: 282.72,
+feels_like: 279.35,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 7723146,
+name: "Las Palmes Mobile Home Park",
+coord: {
+lat: 32.12,
+lon: -110.96
+},
+main: {
+temp: 282.6,
+feels_like: 279.22,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041846,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5288661,
+name: "Casas Adobes",
+coord: {
+lat: 32.32,
+lon: -111
+},
+main: {
+temp: 282.75,
+feels_like: 279.22,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5318320,
+name: "Tucson Estates",
+coord: {
+lat: 32.19,
+lon: -111.09
+},
+main: {
+temp: 282.76,
+feels_like: 279.39,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 7262440,
+name: "Valencia West",
+coord: {
+lat: 32.13,
+lon: -111.11
+},
+main: {
+temp: 282.61,
+feels_like: 279.23,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041828,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5316172,
+name: "Summit",
+coord: {
+lat: 32.07,
+lon: -110.95
+},
+main: {
+temp: 282.72,
+feels_like: 279.35,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5307540,
+name: "Oro Valley",
+coord: {
+lat: 32.39,
+lon: -110.97
+},
+main: {
+temp: 282.73,
+feels_like: 279.2,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5317867,
+name: "Tortolita",
+coord: {
+lat: 32.41,
+lon: -111.02
+},
+main: {
+temp: 282.68,
+feels_like: 279.15,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5316890,
+name: "Tanque Verde",
+coord: {
+lat: 32.25,
+lon: -110.74
+},
+main: {
+temp: 282.73,
+feels_like: 277.72,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 2.85,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5312544,
+name: "Sahuarita",
+coord: {
+lat: 31.96,
+lon: -110.96
+},
+main: {
+temp: 282.73,
+feels_like: 279.36,
+temp_min: 279.15,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.51,
+deg: 277
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5308778,
+name: "Picture Rocks",
+coord: {
+lat: 32.35,
+lon: -111.25
+},
+main: {
+temp: 282.7,
+feels_like: 279.17,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5319311,
+name: "Vail",
+coord: {
+lat: 32.05,
+lon: -110.71
+},
+main: {
+temp: 282.28,
+feels_like: 277.21,
+temp_min: 277.59,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041724,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5293796,
+name: "East Sahuarita",
+coord: {
+lat: 31.94,
+lon: -110.93
+},
+main: {
+temp: 282.64,
+feels_like: 277.61,
+temp_min: 279.15,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041724,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5288784,
+name: "Catalina",
+coord: {
+lat: 32.51,
+lon: -110.92
+},
+main: {
+temp: 282.64,
+feels_like: 279.11,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5290925,
+name: "Corona de Tucson",
+coord: {
+lat: 31.97,
+lon: -110.78
+},
+main: {
+temp: 282.36,
+feels_like: 277.3,
+temp_min: 277.59,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041723,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5303705,
+name: "Marana",
+coord: {
+lat: 32.44,
+lon: -111.23
+},
+main: {
+temp: 282.69,
+feels_like: 279.16,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5317377,
+name: "Three Points",
+coord: {
+lat: 32.08,
+lon: -111.31
+},
+main: {
+temp: 282.84,
+feels_like: 278.65,
+temp_min: 279.26,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 1.68,
+deg: 310
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5307464,
+name: "Oracle Junction",
+coord: {
+lat: 32.56,
+lon: -110.93
+},
+main: {
+temp: 282.63,
+feels_like: 279.1,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5552323,
+name: "Avra Valley",
+coord: {
+lat: 32.44,
+lon: -111.32
+},
+main: {
+temp: 282.68,
+feels_like: 278.01,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041728,
+wind: {
+speed: 2.36,
+deg: 5
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5296802,
+name: "Green Valley",
+coord: {
+lat: 31.85,
+lon: -110.99
+},
+main: {
+temp: 282.59,
+feels_like: 277.55,
+temp_min: 277.59,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041724,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5297410,
+name: "Harrington Place",
+coord: {
+lat: 32.04,
+lon: -110.55
+},
+main: {
+temp: 281.5,
+feels_like: 276.36,
+temp_min: 277.04,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041724,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5307460,
+name: "Oracle",
+coord: {
+lat: 32.61,
+lon: -110.77
+},
+main: {
+temp: 282.61,
+feels_like: 279.07,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 0.73,
+deg: 104
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5312933,
+name: "San Manuel",
+coord: {
+lat: 32.6,
+lon: -110.63
+},
+main: {
+temp: 282.64,
+feels_like: 278.32,
+temp_min: 278.71,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 1.85,
+deg: 341
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5551650,
+name: "Arivaca Junction",
+coord: {
+lat: 31.73,
+lon: -111.06
+},
+main: {
+temp: 282.53,
+feels_like: 277.48,
+temp_min: 279.15,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041728,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5288663,
+name: "Cascabel",
+coord: {
+lat: 32.29,
+lon: -110.38
+},
+main: {
+temp: 281.85,
+feels_like: 276.53,
+temp_min: 277.59,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 23
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 290
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5304488,
+name: "Mescal",
+coord: {
+lat: 31.99,
+lon: -110.44
+},
+main: {
+temp: 281.26,
+feels_like: 272.8,
+temp_min: 277.04,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 36
+},
+dt: 1581041724,
+wind: {
+speed: 8.2,
+deg: 280
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5303587,
+name: "Mammoth",
+coord: {
+lat: 32.72,
+lon: -110.64
+},
+main: {
+temp: 282.42,
+feels_like: 278.09,
+temp_min: 278.15,
+temp_max: 285.15,
+pressure: 1016,
+humidity: 25
+},
+dt: 1581041724,
+wind: {
+speed: 1.85,
+deg: 341
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5320513,
+name: "Whetstone",
+coord: {
+lat: 31.96,
+lon: -110.34
+},
+main: {
+temp: 280.74,
+feels_like: 272.24,
+temp_min: 277.04,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 36
+},
+dt: 1581041724,
+wind: {
+speed: 8.2,
+deg: 280
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5318288,
+name: "Tubac",
+coord: {
+lat: 31.61,
+lon: -111.05
+},
+main: {
+temp: 281.51,
+feels_like: 276.37,
+temp_min: 277.04,
+temp_max: 287.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041724,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5553284,
+name: "Benson",
+coord: {
+lat: 31.97,
+lon: -110.29
+},
+main: {
+temp: 280.64,
+feels_like: 272.13,
+temp_min: 277.04,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 36
+},
+dt: 1581041728,
+wind: {
+speed: 8.2,
+deg: 280
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5312572,
+name: "Saint David",
+coord: {
+lat: 31.9,
+lon: -110.21
+},
+main: {
+temp: 279.55,
+feels_like: 270.95,
+temp_min: 277.04,
+temp_max: 283.15,
+pressure: 1017,
+humidity: 36
+},
+dt: 1581041724,
+wind: {
+speed: 8.2,
+deg: 280
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5313135,
+name: "Santa Cruz County",
+coord: {
+lat: 31.58,
+lon: -110.58
+},
+main: {
+temp: 279.37,
+feels_like: 274.04,
+temp_min: 277.04,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041724,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5294167,
+name: "Eloy",
+coord: {
+lat: 32.76,
+lon: -111.55
+},
+main: {
+temp: 283.85,
+feels_like: 279.12,
+temp_min: 280.37,
+temp_max: 287.59,
+pressure: 1018,
+humidity: 34
+},
+dt: 1581041723,
+wind: {
+speed: 3.1,
+deg: 360
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 40
+},
+weather: [
+{
+id: 802,
+main: "Clouds",
+description: "scattered clouds",
+icon: "03n"
+}
+]
+},
+{
+id: 7262527,
+name: "Whetstone",
+coord: {
+lat: 31.7,
+lon: -110.34
+},
+main: {
+temp: 279.3,
+feels_like: 270.68,
+temp_min: 276.48,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 36
+},
+dt: 1581041828,
+wind: {
+speed: 8.2,
+deg: 280
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5311433,
+name: "Rio Rico",
+coord: {
+lat: 31.47,
+lon: -110.98
+},
+main: {
+temp: 280.26,
+feels_like: 275,
+temp_min: 277.04,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041724,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5551665,
+name: "Arizona City",
+coord: {
+lat: 32.76,
+lon: -111.67
+},
+main: {
+temp: 284.44,
+feels_like: 279.77,
+temp_min: 282.59,
+temp_max: 287.59,
+pressure: 1018,
+humidity: 34
+},
+dt: 1581041728,
+wind: {
+speed: 3.1,
+deg: 360
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 40
+},
+weather: [
+{
+id: 802,
+main: "Clouds",
+description: "scattered clouds",
+icon: "03n"
+}
+]
+},
+{
+id: 5298978,
+name: "Huachuca City",
+coord: {
+lat: 31.63,
+lon: -110.33
+},
+main: {
+temp: 279.18,
+feels_like: 270.55,
+temp_min: 277.04,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 36
+},
+dt: 1581041724,
+wind: {
+speed: 8.2,
+deg: 280
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5313737,
+name: "Sells",
+coord: {
+lat: 31.91,
+lon: -111.88
+},
+main: {
+temp: 283.3,
+feels_like: 278.98,
+temp_min: 282.59,
+temp_max: 284.26,
+pressure: 1018,
+humidity: 32
+},
+dt: 1581041724,
+wind: {
+speed: 2.32,
+deg: 335
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 0
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5553366,
+name: "Beyerville",
+coord: {
+lat: 31.39,
+lon: -110.88
+},
+main: {
+temp: 280.19,
+feels_like: 274.93,
+temp_min: 277.04,
+temp_max: 285.15,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041728,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5300854,
+name: "Kearny",
+coord: {
+lat: 33.06,
+lon: -110.91
+},
+main: {
+temp: 279.79,
+feels_like: 272.83,
+temp_min: 273.71,
+temp_max: 283.71,
+pressure: 1007,
+humidity: 44
+},
+dt: 1581041724,
+wind: {
+speed: 6.26,
+deg: 27
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 0
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5304873,
+name: "Miles Manor",
+coord: {
+lat: 31.56,
+lon: -110.34
+},
+main: {
+temp: 279.19,
+feels_like: 270.56,
+temp_min: 277.04,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 36
+},
+dt: 1581041724,
+wind: {
+speed: 8.2,
+deg: 280
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5314328,
+name: "Sierra Vista",
+coord: {
+lat: 31.55,
+lon: -110.3
+},
+main: {
+temp: 279.31,
+feels_like: 270.69,
+temp_min: 277.04,
+temp_max: 283.15,
+pressure: 1017,
+humidity: 36
+},
+dt: 1581041724,
+wind: {
+speed: 8.2,
+deg: 280
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5306611,
+name: "Nogales",
+coord: {
+lat: 31.34,
+lon: -110.93
+},
+main: {
+temp: 279.38,
+feels_like: 274.05,
+temp_min: 277.04,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 38
+},
+dt: 1581041724,
+wind: {
+speed: 3.6,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5294902,
+name: "Florence",
+coord: {
+lat: 33.03,
+lon: -111.39
+},
+main: {
+temp: 284.33,
+feels_like: 279.65,
+temp_min: 279.82,
+temp_max: 288.15,
+pressure: 1018,
+humidity: 34
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 360
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 40
+},
+weather: [
+{
+id: 802,
+main: "Clouds",
+description: "scattered clouds",
+icon: "03n"
+}
+]
+},
+{
+id: 5290663,
+name: "Coolidge",
+coord: {
+lat: 32.98,
+lon: -111.52
+},
+main: {
+temp: 284.64,
+feels_like: 279.99,
+temp_min: 281.48,
+temp_max: 287.59,
+pressure: 1018,
+humidity: 34
+},
+dt: 1581041723,
+wind: {
+speed: 3.1,
+deg: 360
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 40
+},
+weather: [
+{
+id: 802,
+main: "Clouds",
+description: "scattered clouds",
+icon: "03n"
+}
+]
+}
+]
+}

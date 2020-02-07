@@ -1,0 +1,1850 @@
+{
+message: "accurate",
+cod: "200",
+count: 50,
+list: [
+{
+id: 5294810,
+name: "Flagstaff",
+coord: {
+lat: 35.2,
+lon: -111.65
+},
+main: {
+temp: 277.52,
+feels_like: 273.46,
+temp_min: 273.71,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 64
+},
+dt: 1581041724,
+wind: {
+speed: 2.6,
+deg: 230
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5293685,
+name: "East Flagstaff",
+coord: {
+lat: 35.21,
+lon: -111.61
+},
+main: {
+temp: 277.12,
+feels_like: 273.01,
+temp_min: 273.71,
+temp_max: 280.93,
+pressure: 1017,
+humidity: 64
+},
+dt: 1581041724,
+wind: {
+speed: 2.6,
+deg: 230
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5300735,
+name: "Kachina Village",
+coord: {
+lat: 35.1,
+lon: -111.69
+},
+main: {
+temp: 277.6,
+feels_like: 273.55,
+temp_min: 273.71,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 64
+},
+dt: 1581041724,
+wind: {
+speed: 2.6,
+deg: 230
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5305714,
+name: "Mountainaire",
+coord: {
+lat: 35.09,
+lon: -111.67
+},
+main: {
+temp: 277.6,
+feels_like: 273.55,
+temp_min: 273.71,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 64
+},
+dt: 1581041724,
+wind: {
+speed: 2.6,
+deg: 230
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5291014,
+name: "Cosnino",
+coord: {
+lat: 35.21,
+lon: -111.47
+},
+main: {
+temp: 276.58,
+feels_like: 272.41,
+temp_min: 273.71,
+temp_max: 280.15,
+pressure: 1017,
+humidity: 64
+},
+dt: 1581041724,
+wind: {
+speed: 2.6,
+deg: 230
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5308164,
+name: "Parks",
+coord: {
+lat: 35.26,
+lon: -111.95
+},
+main: {
+temp: 277.6,
+feels_like: 273.55,
+temp_min: 273.71,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 64
+},
+dt: 1581041724,
+wind: {
+speed: 2.6,
+deg: 230
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5309082,
+name: "Pine Tank",
+coord: {
+lat: 35.24,
+lon: -112.07
+},
+main: {
+temp: 277.91,
+feels_like: 273.9,
+temp_min: 273.71,
+temp_max: 282.59,
+pressure: 1017,
+humidity: 64
+},
+dt: 1581041724,
+wind: {
+speed: 2.6,
+deg: 230
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5313667,
+name: "Sedona",
+coord: {
+lat: 34.87,
+lon: -111.76
+},
+main: {
+temp: 277.83,
+feels_like: 272.84,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5550192,
+name: "West Sedona",
+coord: {
+lat: 34.87,
+lon: -111.81
+},
+main: {
+temp: 277.89,
+feels_like: 272.91,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041728,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 7260892,
+name: "Village of Oak Creek (Big Park)",
+coord: {
+lat: 34.78,
+lon: -111.76
+},
+main: {
+temp: 277.92,
+feels_like: 272.94,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041728,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5553533,
+name: "Big Park",
+coord: {
+lat: 34.78,
+lon: -111.76
+},
+main: {
+temp: 277.92,
+feels_like: 272.94,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041728,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5321098,
+name: "Williams",
+coord: {
+lat: 35.25,
+lon: -112.19
+},
+main: {
+temp: 278.23,
+feels_like: 274,
+temp_min: 273.71,
+temp_max: 283.15,
+pressure: 1017,
+humidity: 55
+},
+dt: 1581041724,
+wind: {
+speed: 2.6,
+deg: 290
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5290912,
+name: "Cornville",
+coord: {
+lat: 34.72,
+lon: -111.92
+},
+main: {
+temp: 277.86,
+feels_like: 272.87,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5290007,
+name: "Clarkdale",
+coord: {
+lat: 34.77,
+lon: -112.06
+},
+main: {
+temp: 277.94,
+feels_like: 272.96,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5291033,
+name: "Cottonwood",
+coord: {
+lat: 34.74,
+lon: -112.01
+},
+main: {
+temp: 277.92,
+feels_like: 272.94,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 7176038,
+name: "Verde Village",
+coord: {
+lat: 34.71,
+lon: -112.01
+},
+main: {
+temp: 277.79,
+feels_like: 272.8,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041828,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5301407,
+name: "Lake Montezuma",
+coord: {
+lat: 34.63,
+lon: -111.78
+},
+main: {
+temp: 277.68,
+feels_like: 272.68,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5288261,
+name: "Camp Verde",
+coord: {
+lat: 34.56,
+lon: -111.85
+},
+main: {
+temp: 277.73,
+feels_like: 272.73,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041723,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5290059,
+name: "Clear Creek",
+coord: {
+lat: 34.52,
+lon: -111.82
+},
+main: {
+temp: 277.87,
+feels_like: 272.88,
+temp_min: 272.59,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5551752,
+name: "Arizona",
+coord: {
+lat: 34.5,
+lon: -111.5
+},
+main: {
+temp: 277.16,
+feels_like: 272.12,
+temp_min: 272.59,
+temp_max: 282.59,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041728,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5308281,
+name: "Paulden",
+coord: {
+lat: 34.89,
+lon: -112.47
+},
+main: {
+temp: 278.96,
+feels_like: 274.07,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5301692,
+name: "LeChee",
+coord: {
+lat: 35.03,
+lon: -110.75
+},
+main: {
+temp: 282.7,
+feels_like: 275.46,
+temp_min: 279.82,
+temp_max: 284.15,
+pressure: 1014,
+humidity: 37
+},
+dt: 1581041724,
+wind: {
+speed: 6.7,
+deg: 290
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5289658,
+name: "Chino Valley",
+coord: {
+lat: 34.76,
+lon: -112.45
+},
+main: {
+temp: 278.82,
+feels_like: 273.92,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5321473,
+name: "Winslow",
+coord: {
+lat: 35.02,
+lon: -110.7
+},
+main: {
+temp: 282.69,
+feels_like: 275.45,
+temp_min: 279.82,
+temp_max: 284.15,
+pressure: 1014,
+humidity: 37
+},
+dt: 1581041724,
+wind: {
+speed: 6.7,
+deg: 290
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5309858,
+name: "Prescott Valley",
+coord: {
+lat: 34.59,
+lon: -112.33
+},
+main: {
+temp: 278.83,
+feels_like: 273.93,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 7149330,
+name: "Dewey-Humboldt",
+coord: {
+lat: 34.53,
+lon: -112.24
+},
+main: {
+temp: 278.91,
+feels_like: 274.01,
+temp_min: 275.93,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041828,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5316335,
+name: "Sunset City (historical)",
+coord: {
+lat: 35.04,
+lon: -110.65
+},
+main: {
+temp: 282.69,
+feels_like: 275.45,
+temp_min: 279.82,
+temp_max: 284.15,
+pressure: 1014,
+humidity: 37
+},
+dt: 1581041724,
+wind: {
+speed: 6.7,
+deg: 290
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5308938,
+name: "Pine",
+coord: {
+lat: 34.38,
+lon: -111.46
+},
+main: {
+temp: 277.12,
+feels_like: 272.93,
+temp_min: 272.59,
+temp_max: 282.59,
+pressure: 1016,
+humidity: 32
+},
+dt: 1581041724,
+wind: {
+speed: 1.5
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5296477,
+name: "Granite Dells",
+coord: {
+lat: 34.61,
+lon: -112.41
+},
+main: {
+temp: 278.88,
+feels_like: 273.98,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5321135,
+name: "Williamson",
+coord: {
+lat: 34.69,
+lon: -112.54
+},
+main: {
+temp: 278.78,
+feels_like: 271.81,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 34
+},
+dt: 1581041724,
+wind: {
+speed: 5.7,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5309479,
+name: "Poland Junction",
+coord: {
+lat: 34.45,
+lon: -112.27
+},
+main: {
+temp: 278.74,
+feels_like: 273.83,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5321860,
+name: "Yavapai County",
+coord: {
+lat: 34.51,
+lon: -112.38
+},
+main: {
+temp: 278.75,
+feels_like: 273.84,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5304060,
+name: "Mayer",
+coord: {
+lat: 34.4,
+lon: -112.24
+},
+main: {
+temp: 278.77,
+feels_like: 273.86,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5296409,
+name: "Grand Canyon Village",
+coord: {
+lat: 36.05,
+lon: -112.15
+},
+main: {
+temp: 273.8,
+feels_like: 270.19,
+temp_min: 272.15,
+temp_max: 276.48,
+pressure: 1017,
+humidity: 68
+},
+dt: 1581041724,
+wind: {
+speed: 1.5,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5309842,
+name: "Prescott",
+coord: {
+lat: 34.54,
+lon: -112.47
+},
+main: {
+temp: 278.66,
+feels_like: 271.68,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 34
+},
+dt: 1581041724,
+wind: {
+speed: 5.7,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5296391,
+name: "Grand Canyon",
+coord: {
+lat: 36.05,
+lon: -112.14
+},
+main: {
+temp: 273.8,
+feels_like: 270.19,
+temp_min: 272.15,
+temp_max: 276.48,
+pressure: 1017,
+humidity: 68
+},
+dt: 1581041724,
+wind: {
+speed: 1.5,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5292672,
+name: "Diamond Point Summer Homes",
+coord: {
+lat: 34.33,
+lon: -111.19
+},
+main: {
+temp: 276.12,
+feels_like: 271.87,
+temp_min: 272.59,
+temp_max: 279.82,
+pressure: 1016,
+humidity: 32
+},
+dt: 1581041724,
+wind: {
+speed: 1.5
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5315517,
+name: "Spring Valley",
+coord: {
+lat: 34.34,
+lon: -112.16
+},
+main: {
+temp: 279.07,
+feels_like: 274.19,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5290834,
+name: "Cordes Lakes",
+coord: {
+lat: 34.31,
+lon: -112.1
+},
+main: {
+temp: 279.34,
+feels_like: 274.48,
+temp_min: 275.37,
+temp_max: 283.15,
+pressure: 1016,
+humidity: 42
+},
+dt: 1581041724,
+wind: {
+speed: 3.1,
+deg: 140
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5290307,
+name: "Coconino County",
+coord: {
+lat: 36.08,
+lon: -112.13
+},
+main: {
+temp: 273.79,
+feels_like: 270.17,
+temp_min: 272.15,
+temp_max: 276.48,
+pressure: 1017,
+humidity: 68
+},
+dt: 1581041724,
+wind: {
+speed: 1.5,
+deg: 250
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5305191,
+name: "Moenkopi",
+coord: {
+lat: 36.11,
+lon: -111.22
+},
+main: {
+temp: 278.71,
+feels_like: 275.29,
+temp_min: 278.71,
+temp_max: 278.71,
+pressure: 1014,
+humidity: 44
+},
+dt: 1581041724,
+wind: {
+speed: 1.05,
+deg: 297
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 100
+},
+weather: [
+{
+id: 804,
+main: "Clouds",
+description: "overcast clouds",
+icon: "04n"
+}
+]
+},
+{
+id: 5301232,
+name: "Kohls Ranch",
+coord: {
+lat: 34.33,
+lon: -111.09
+},
+main: {
+temp: 276.17,
+feels_like: 271.92,
+temp_min: 272.59,
+temp_max: 279.82,
+pressure: 1016,
+humidity: 32
+},
+dt: 1581041724,
+wind: {
+speed: 1.5
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5318279,
+name: "Tuba City",
+coord: {
+lat: 36.13,
+lon: -111.24
+},
+main: {
+temp: 278.71,
+feels_like: 275.29,
+temp_min: 278.71,
+temp_max: 278.71,
+pressure: 1014,
+humidity: 44
+},
+dt: 1581041724,
+wind: {
+speed: 1.05,
+deg: 297
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 100
+},
+weather: [
+{
+id: 804,
+main: "Clouds",
+description: "overcast clouds",
+icon: "04n"
+}
+]
+},
+{
+id: 5315713,
+name: "Star Valley",
+coord: {
+lat: 34.26,
+lon: -111.26
+},
+main: {
+temp: 276.45,
+feels_like: 272.22,
+temp_min: 272.59,
+temp_max: 279.82,
+pressure: 1016,
+humidity: 32
+},
+dt: 1581041724,
+wind: {
+speed: 1.5
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5316215,
+name: "Sun Valley",
+coord: {
+lat: 34.25,
+lon: -111.26
+},
+main: {
+temp: 276.46,
+feels_like: 272.23,
+temp_min: 272.59,
+temp_max: 279.82,
+pressure: 1016,
+humidity: 32
+},
+dt: 1581041724,
+wind: {
+speed: 1.5
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5308305,
+name: "Payson",
+coord: {
+lat: 34.23,
+lon: -111.33
+},
+main: {
+temp: 276.87,
+feels_like: 272.66,
+temp_min: 272.59,
+temp_max: 282.04,
+pressure: 1016,
+humidity: 32
+},
+dt: 1581041724,
+wind: {
+speed: 1.5
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5292715,
+name: "Dilkon",
+coord: {
+lat: 35.39,
+lon: -110.32
+},
+main: {
+temp: 284.15,
+feels_like: 277.06,
+temp_min: 284.15,
+temp_max: 284.15,
+pressure: 1014,
+humidity: 37
+},
+dt: 1581041723,
+wind: {
+speed: 6.7,
+deg: 290
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5300182,
+name: "Joseph City",
+coord: {
+lat: 34.96,
+lon: -110.33
+},
+main: {
+temp: 281.81,
+feels_like: 274.49,
+temp_min: 279.82,
+temp_max: 284.15,
+pressure: 1014,
+humidity: 37
+},
+dt: 1581041724,
+wind: {
+speed: 6.7,
+deg: 290
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 5295579,
+name: "Gallups",
+coord: {
+lat: 34.08,
+lon: -111.19
+},
+main: {
+temp: 276.12,
+feels_like: 271.87,
+temp_min: 272.59,
+temp_max: 278.71,
+pressure: 1016,
+humidity: 32
+},
+dt: 1581041724,
+wind: {
+speed: 1.5
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+},
+{
+id: 7261418,
+name: "Heber-Overgaard",
+coord: {
+lat: 34.41,
+lon: -110.57
+},
+main: {
+temp: 278.42,
+feels_like: 272.84,
+temp_min: 274.82,
+temp_max: 284.15,
+pressure: 1016,
+humidity: 44
+},
+dt: 1581041828,
+wind: {
+speed: 4.1,
+deg: 190
+},
+sys: {
+country: "US"
+},
+rain: null,
+snow: null,
+clouds: {
+all: 1
+},
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01n"
+}
+]
+}
+]
+}
