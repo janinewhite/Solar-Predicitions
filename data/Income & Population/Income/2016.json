@@ -1,0 +1,172 @@
+[
+    [
+        "NAME",
+        "B19013_001E",
+        "B19013_001M",
+        "B19013_001M",
+        "B19013_001EA",
+        "B19013_001MA",
+        "state",
+        "place"
+    ],
+    [
+        "Avondale city, Arizona",
+        "58404",
+        "7567",
+        "7567",
+        null,
+        null,
+        "04",
+        "04720"
+    ],
+    [
+        "Casas Adobes CDP, Arizona",
+        "63407",
+        "5513",
+        "5513",
+        null,
+        null,
+        "04",
+        "10670"
+    ],
+    [
+        "Chandler city, Arizona",
+        "75369",
+        "3270",
+        "3270",
+        null,
+        null,
+        "04",
+        "12000"
+    ],
+    [
+        "Flagstaff city, Arizona",
+        "59658",
+        "5759",
+        "5759",
+        null,
+        null,
+        "04",
+        "23620"
+    ],
+    [
+        "Gilbert town, Arizona",
+        "91576",
+        "3560",
+        "3560",
+        null,
+        null,
+        "04",
+        "27400"
+    ],
+    [
+        "Glendale city, Arizona",
+        "51022",
+        "3165",
+        "3165",
+        null,
+        null,
+        "04",
+        "27820"
+    ],
+    [
+        "Goodyear city, Arizona",
+        "73960",
+        "5262",
+        "5262",
+        null,
+        null,
+        "04",
+        "28380"
+    ],
+    [
+        "Mesa city, Arizona",
+        "52393",
+        "1375",
+        "1375",
+        null,
+        null,
+        "04",
+        "46000"
+    ],
+    [
+        "Peoria city, Arizona",
+        "68882",
+        "5154",
+        "5154",
+        null,
+        null,
+        "04",
+        "54050"
+    ],
+    [
+        "Phoenix city, Arizona",
+        "52062",
+        "943",
+        "943",
+        null,
+        null,
+        "04",
+        "55000"
+    ],
+    [
+        "San Tan Valley CDP, Arizona",
+        "58608",
+        "3539",
+        "3539",
+        null,
+        null,
+        "04",
+        "64210"
+    ],
+    [
+        "Scottsdale city, Arizona",
+        "81381",
+        "3259",
+        "3259",
+        null,
+        null,
+        "04",
+        "65000"
+    ],
+    [
+        "Surprise city, Arizona",
+        "60521",
+        "2083",
+        "2083",
+        null,
+        null,
+        "04",
+        "71510"
+    ],
+    [
+        "Tempe city, Arizona",
+        "56365",
+        "6096",
+        "6096",
+        null,
+        null,
+        "04",
+        "73000"
+    ],
+    [
+        "Tucson city, Arizona",
+        "40021",
+        "1813",
+        "1813",
+        null,
+        null,
+        "04",
+        "77000"
+    ],
+    [
+        "Yuma city, Arizona",
+        "42731",
+        "4067",
+        "4067",
+        null,
+        null,
+        "04",
+        "85540"
+    ]
+]

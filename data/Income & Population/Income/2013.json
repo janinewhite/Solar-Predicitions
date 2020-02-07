@@ -1,0 +1,172 @@
+[
+    [
+        "GEO_ID",
+        "B19013_001E",
+        "B19013_001M",
+        "NAME",
+        "B19013_001EA",
+        "B19013_001MA",
+        "state",
+        "place"
+    ],
+    [
+        "1600000US0404720",
+        "51206",
+        "4448",
+        "Avondale city, Arizona",
+        null,
+        null,
+        "04",
+        "04720"
+    ],
+    [
+        "1600000US0410670",
+        "53357",
+        "3521",
+        "Casas Adobes CDP, Arizona",
+        null,
+        null,
+        "04",
+        "10670"
+    ],
+    [
+        "1600000US0412000",
+        "71545",
+        "3433",
+        "Chandler city, Arizona",
+        null,
+        null,
+        "04",
+        "12000"
+    ],
+    [
+        "1600000US0423620",
+        "52854",
+        "7578",
+        "Flagstaff city, Arizona",
+        null,
+        null,
+        "04",
+        "23620"
+    ],
+    [
+        "1600000US0427400",
+        "81589",
+        "2951",
+        "Gilbert town, Arizona",
+        null,
+        null,
+        "04",
+        "27400"
+    ],
+    [
+        "1600000US0427820",
+        "41037",
+        "2808",
+        "Glendale city, Arizona",
+        null,
+        null,
+        "04",
+        "27820"
+    ],
+    [
+        "1600000US0428380",
+        "72219",
+        "9542",
+        "Goodyear city, Arizona",
+        null,
+        null,
+        "04",
+        "28380"
+    ],
+    [
+        "1600000US0446000",
+        "47561",
+        "1805",
+        "Mesa city, Arizona",
+        null,
+        null,
+        "04",
+        "46000"
+    ],
+    [
+        "1600000US0454050",
+        "59377",
+        "4208",
+        "Peoria city, Arizona",
+        null,
+        null,
+        "04",
+        "54050"
+    ],
+    [
+        "1600000US0455000",
+        "46601",
+        "1061",
+        "Phoenix city, Arizona",
+        null,
+        null,
+        "04",
+        "55000"
+    ],
+    [
+        "1600000US0464210",
+        "57005",
+        "4662",
+        "San Tan Valley CDP, Arizona",
+        null,
+        null,
+        "04",
+        "64210"
+    ],
+    [
+        "1600000US0465000",
+        "69690",
+        "5449",
+        "Scottsdale city, Arizona",
+        null,
+        null,
+        "04",
+        "65000"
+    ],
+    [
+        "1600000US0471510",
+        "55857",
+        "5396",
+        "Surprise city, Arizona",
+        null,
+        null,
+        "04",
+        "71510"
+    ],
+    [
+        "1600000US0473000",
+        "48565",
+        "4441",
+        "Tempe city, Arizona",
+        null,
+        null,
+        "04",
+        "73000"
+    ],
+    [
+        "1600000US0477000",
+        "35720",
+        "1415",
+        "Tucson city, Arizona",
+        null,
+        null,
+        "04",
+        "77000"
+    ],
+    [
+        "1600000US0485540",
+        "44545",
+        "3732",
+        "Yuma city, Arizona",
+        null,
+        null,
+        "04",
+        "85540"
+    ]
+]

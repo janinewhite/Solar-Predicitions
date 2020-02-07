@@ -1,0 +1,547 @@
+Location,Population,Year
+Apache Junction,41739,2018
+Avondale,85835,2018
+Benson,4873,2018
+Bisbee,5209,2018
+Buckeye,74370,2018
+Bullhead,40421,2018
+Camp Verde,11239,2018
+Carefree,3876,2018
+Casa Grande,57232,2018
+Cave Creek,5760,2018
+Chandler,257165,2018
+Chino Valley,12003,2018
+Clarkdale,4393,2018
+Clifton,3700,2018
+Colorado,4857,2018
+Coolidge,12993,2018
+Cottonwood,12199,2018
+Dewey-Humboldt,4106,2018
+Douglas,15978,2018
+Duncan,789,2018
+Eagar,4899,2018
+El Mirage,35670,2018
+Eloy,19391,2018
+Flagstaff,73964,2018
+Florence,26419,2018
+Fountain Hills,24987,2018
+Fredonia,1300,2018
+Gila Bend,2094,2018
+Gilbert,248279,2018
+Glendale,250702,2018
+Globe,7346,2018
+Goodyear,82835,2018
+Guadalupe,6597,2018
+Hayden,633,2018
+Holbrook,5093,2018
+Huachuca,1738,2018
+Jerome,457,2018
+Kearny,2145,2018
+Kingman,30314,2018
+Lake Havasu,55090,2018
+Litchfield Park,6310,2018
+Mammoth,1650,2018
+Marana,47007,2018
+Maricopa,50024,2018
+Mesa,508958,2018
+Miami,1774,2018
+Nogales,20188,2018
+Oro Valley,45395,2018
+Page,7566,2018
+Paradise Valley,14502,2018
+Parker,3200,2018
+Patagonia,881,2018
+Payson,15710,2018
+Peoria,172259,2018
+Phoenix,1660272,2018
+Pima,2512,2018
+Pinetop-Lakeside,4433,2018
+Prescott,43314,2018
+Prescott Valley,45751,2018
+Quartzsite,3766,2018
+Queen Creek,42503,2018
+Safford,9872,2018
+Sahuarita,30282,2018
+St. Johns,3517,2018
+San Luis,33490,2018
+Scottsdale,255310,2018
+Sedona,10335,2018
+Show Low,11321,2018
+Sierra Vista,44420,2018
+Snowflake,5858,2018
+Somerton,16491,2018
+South Tucson,5697,2018
+Springerville,1982,2018
+Star Valley,2303,2018
+Superior,3141,2018
+Surprise,138161,2018
+Taylor,4262,2018
+Tempe,192364,2018
+Thatcher,5138,2018
+Tolleson,7299,2018
+Tombstone,1300,2018
+Tucson,545975,2018
+Tusayan,587,2018
+Wellton,3030,2018
+Wickenburg,7840,2018
+Willcox,3534,2018
+Williams,3226,2018
+Winkelman,352,2018
+Winslow,9427,2018
+Young,6836,2018
+Yuma,97908,2018
+Phoenix,1626078,2017
+Pima,2513,2017
+Pinetop-Lakeside,4361,2017
+Prescott,42731,2017
+Prescott Valley,44466,2017
+Quartzsite,3694,2017
+Queen Creek,39184,2017
+Safford,9641,2017
+Sahuarita,29318,2017
+St. Johns,3508,2017
+San Luis,32446,2017
+Scottsdale,249950,2017
+Sedona,10336,2017
+Show Low,11098,2017
+Sierra Vista,42912,2017
+Snowflake,5753,2017
+Somerton,16120,2017
+South Tucson,5643,2017
+Springerville,1956,2017
+Star Valley,2287,2017
+Superior,3068,2017
+Surprise,134085,2017
+Taylor,4185,2017
+Tempe,185038,2017
+Thatcher,5021,2017
+Tolleson,7205,2017
+Tombstone,1296,2017
+Tucson,535677,2017
+Tusayan,583,2017
+Wellton,2989,2017
+Wickenburg,7409,2017
+Willcox,3501,2017
+Williams,3158,2017
+Winkelman,347,2017
+Winslow,9402,2017
+Young,6760,2017
+Yuma,95502,2017
+Maricopa,48007,2017
+Mesa,496401,2017
+Miami,1771,2017
+Nogales,20076,2017
+Oro Valley,44350,2017
+Page,7553,2017
+Paradise Valley,14293,2017
+Parker,3059,2017
+Patagonia,880,2017
+Payson,15520,2017
+Peoria,168181,2017
+Kingman,29472,2017
+Lake Havasu,54411,2017
+Litchfield Park,6009,2017
+Mammoth,1611,2017
+Marana,44792,2017
+Bullhead,40252,2017
+Camp Verde,11201,2017
+Carefree,3783,2017
+Casa Grande,55477,2017
+Cave Creek,5622,2017
+Chandler,253458,2017
+El Mirage,35216,2017
+Eloy,19168,2017
+Flagstaff,71975,2017
+Florence,26074,2017
+Fountain Hills,24583,2017
+Fredonia,1304,2017
+Chino Valley,11705,2017
+Clarkdale,4330,2017
+Clifton,3680,2017
+Colorado,4837,2017
+Coolidge,12698,2017
+Gila Bend,2069,2017
+Gilbert,242354,2017
+Glendale,246709,2017
+Globe,7356,2017
+Goodyear,79858,2017
+Apache Junction,40538,2017
+Avondale,84025,2017
+Benson,4837,2017
+Bisbee,5192,2017
+Buckeye,68453,2017
+Cottonwood,12023,2017
+Dewey-Humboldt,4064,2017
+Douglas,16165,2017
+Duncan,788,2017
+Eagar,4881,2017
+Guadalupe,6525,2017
+Hayden,631,2017
+Holbrook,5049,2017
+Huachuca,1729,2017
+Jerome,455,2017
+Kearny,2095,2017
+Camp Verde,11238,2016
+Carefree,3724,2016
+Casa Grande,54534,2016
+Cave Creek,5476,2016
+Chandler,247477,2016
+Chino Valley,11250,2016
+Clarkdale,4272,2016
+Clifton,3734,2016
+Colorado,4818,2016
+Coolidge,12528,2016
+Cottonwood,11990,2016
+Dewey-Humboldt,4049,2016
+Douglas,16604,2016
+Duncan,804,2016
+Eagar,4988,2016
+El Mirage,35043,2016
+Eloy,17442,2016
+Flagstaff,71459,2016
+Florence,25779,2016
+Fountain Hills,24482,2016
+Fredonia,1323,2016
+Gila Bend,2071,2016
+Gilbert,237133,2016
+Glendale,245895,2016
+Globe,7376,2016
+Goodyear,77258,2016
+Guadalupe,6336,2016
+Hayden,635,2016
+Holbrook,5074,2016
+Huachuca,1744,2016
+Jerome,455,2016
+Kearny,2075,2016
+Kingman,29029,2016
+Lake Havasu,53743,2016
+Litchfield Park,5766,2016
+Mammoth,1519,2016
+Marana,43474,2016
+Maricopa,46903,2016
+Mesa,484587,2016
+Miami,1781,2016
+Nogales,20008,2016
+Oro Valley,43781,2016
+Page,7599,2016
+Paradise Valley,14355,2016
+Parker,3026,2016
+Patagonia,878,2016
+Payson,15476,2016
+Peoria,164173,2016
+Phoenix,1615017,2016
+Pima,2505,2016
+Pinetop-Lakeside,4378,2016
+Prescott,42513,2016
+Prescott Valley,43132,2016
+Quartzsite,3644,2016
+Queen Creek,35524,2016
+Safford,9604,2016
+Sahuarita,28794,2016
+St. Johns,3568,2016
+San Luis,32148,2016
+Scottsdale,246645,2016
+Sedona,10397,2016
+Show Low,11096,2016
+Sierra Vista,43208,2016
+Snowflake,5764,2016
+Somerton,14970,2016
+South Tucson,5645,2016
+Springerville,1995,2016
+Star Valley,2287,2016
+Superior,2999,2016
+Surprise,132677,2016
+Taylor,4217,2016
+Tempe,182498,2016
+Thatcher,5027,2016
+Tolleson,7178,2016
+Tombstone,1300,2016
+Tucson,530706,2016
+Tusayan,591,2016
+Wellton,2968,2016
+Wickenburg,7115,2016
+Willcox,3511,2016
+Williams,3159,2016
+Winkelman,346,2016
+Winslow,9754,2016
+Young,6759,2016
+Yuma,94906,2016
+Apache Junction,39954,2016
+Avondale,82881,2016
+Benson,4870,2016
+Bisbee,5221,2016
+Buckeye,64629,2016
+Bullhead,39970,2016
+Sahuarita,25707,2015
+St. Johns,3483,2015
+San Luis,31520,2015
+Scottsdale,236839,2015
+Sedona,10388,2015
+Show Low,10860,2015
+Sierra Vista,43355,2015
+Snowflake,5666,2015
+Somerton,15048,2015
+South Tucson,5715,2015
+Springerville,1954,2015
+Star Valley,2277,2015
+Superior,2943,2015
+Surprise,128422,2015
+Taylor,4151,2015
+Tempe,175826,2015
+Thatcher,4992,2015
+Tolleson,7008,2015
+Tombstone,1312,2015
+Tucson,531641,2015
+Tusayan,567,2015
+Wellton,2936,2015
+Wickenburg,6806,2015
+Willcox,3552,2015
+Williams,3122,2015
+Winkelman,346,2015
+Winslow,9600,2015
+Young,6613,2015
+Apache Junction,38074,2015
+Yuma,94139,2015
+Avondale,80684,2015
+Benson,4888,2015
+Bisbee,5208,2015
+Buckeye,62138,2015
+Bullhead,39445,2015
+Camp Verde,11155,2015
+Carefree,3610,2015
+Casa Grande,51460,2015
+Cave Creek,5341,2015
+Chandler,260828,2015
+Chino Valley,11137,2015
+Clarkdale,4240,2015
+Clifton,3685,2015
+Colorado,4832,2015
+Coolidge,12297,2015
+Cottonwood,11818,2015
+Dewey-Humboldt,3988,2015
+Douglas,16592,2015
+Duncan,799,2015
+Eagar,4869,2015
+El Mirage,33935,2015
+Eloy,17059,2015
+Flagstaff,70320,2015
+Florence,31110,2015
+Fountain Hills,23899,2015
+Fredonia,1322,2015
+Gila Bend,2025,2015
+Gilbert,247542,2015
+Glendale,240126,2015
+Globe,7396,2015
+Goodyear,79003,2015
+Guadalupe,6177,2015
+Hayden,650,2015
+Holbrook,5019,2015
+Huachuca,1755,2015
+Jerome,456,2015
+Kearny,2038,2015
+Kingman,28912,2015
+Lake Havasu,53553,2015
+Litchfield Park,5533,2015
+Mammoth,1487,2015
+Marana,41315,2015
+Maricopa,48602,2015
+Mesa,471825,2015
+Miami,1783,2015
+Nogales,20252,2015
+Oro Valley,43565,2015
+Page,7490,2015
+Paradise Valley,13922,2015
+Parker,3046,2015
+Patagonia,890,2015
+Payson,15345,2015
+Peoria,171237,2015
+Phoenix,1563025,2015
+Pima,2524,2015
+Pinetop-Lakeside,4345,2015
+Prescott,41899,2015
+Prescott Valley,42197,2015
+Quartzsite,3626,2015
+Queen Creek,34614,2015
+Safford,9683,2015
+Apache Junction,38131,2014
+Avondale,79646,2014
+Benson,4927,2014
+Bisbee,5308,2014
+Buckeye,59470,2014
+Bullhead,39364,2014
+Camp Verde,11097,2014
+Carefree,3526,2014
+Casa Grande,51478,2014
+Cave Creek,5253,2014
+Chandler,254276,2014
+Chino Valley,11019,2014
+Clarkdale,4165,2014
+Clifton,3626,2014
+Colorado,4792,2014
+Coolidge,12209,2014
+Cottonwood,11595,2014
+Dewey-Humboldt,3971,2014
+Douglas,16744,2014
+Duncan,783,2014
+Eagar,4913,2014
+El Mirage,33532,2014
+Eloy,16738,2014
+Flagstaff,68785,2014
+Florence,26912,2014
+Fountain Hills,23573,2014
+Fredonia,1317,2014
+Gila Bend,2001,2014
+Gilbert,239277,2014
+Glendale,237517,2014
+Globe,7375,2014
+Goodyear,75664,2014
+Guadalupe,6106,2014
+Hayden,648,2014
+Holbrook,5016,2014
+Huachuca,1775,2014
+Jerome,451,2014
+Kearny,2017,2014
+Kingman,28549,2014
+Lake Havasu,53103,2014
+Litchfield Park,5392,2014
+Mammoth,1472,2014
+Marana,39888,2014
+Maricopa,47442,2014
+Mesa,464704,2014
+Miami,1781,2014
+Nogales,20407,2014
+Oro Valley,42018,2014
+Page,7440,2014
+Paradise Valley,13663,2014
+Parker,3057,2014
+Patagonia,898,2014
+Payson,15245,2014
+Peoria,166934,2014
+Phoenix,1537058,2014
+Pima,2477,2014
+Pinetop-Lakeside,4318,2014
+Prescott,40958,2014
+Prescott Valley,41075,2014
+Quartzsite,3613,2014
+Queen Creek,32236,2014
+Safford,9744,2014
+Sahuarita,27547,2014
+St. Johns,3497,2014
+San Luis,31091,2014
+Scottsdale,230512,2014
+Sedona,10281,2014
+Show Low,10841,2014
+Sierra Vista,43806,2014
+Snowflake,5644,2014
+Somerton,14912,2014
+South Tucson,5730,2014
+Springerville,1964,2014
+Star Valley,2276,2014
+Superior,2916,2014
+Surprise,126275,2014
+Taylor,4144,2014
+Tempe,172816,2014
+Thatcher,5023,2014
+Tolleson,6929,2014
+Tombstone,1322,2014
+Tucson,527972,2014
+Tusayan,576,2014
+Wellton,2956,2014
+Wickenburg,6685,2014
+Willcox,3607,2014
+Williams,3094,2014
+Winkelman,346,2014
+Winslow,9604,2014
+Young,6542,2014
+Yuma,93400,2014
+Apache Junction,37130,2013
+Avondale,78822,2013
+Benson,5005,2013
+Bisbee,5360,2013
+Buckeye,56683,2013
+Bullhead,39383,2013
+Camp Verde,11018,2013
+Carefree,3487,2013
+Casa Grande,50111,2013
+Cave Creek,5074,2013
+Chandler,249146,2013
+Chino Valley,10943,2013
+Clarkdale,4122,2013
+Clifton,3501,2013
+Colorado,4812,2013
+Coolidge,11887,2013
+Cottonwood,11424,2013
+Dewey-Humboldt,3951,2013
+Douglas,16915,2013
+Duncan,750,2013
+Eagar,4916,2013
+El Mirage,32998,2013
+Eloy,16996,2013
+Flagstaff,68667,2013
+Florence,25428,2013
+Fountain Hills,23235,2013
+Fredonia,1307,2013
+Gila Bend,1977,2013
+Gilbert,229972,2013
+Glendale,234632,2013
+Globe,7404,2013
+Goodyear,72864,2013
+Guadalupe,6072,2013
+Hayden,650,2013
+Holbrook,4996,2013
+Huachuca,1794,2013
+Jerome,448,2013
+Kearny,2030,2013
+Kingman,28393,2013
+Lake Havasu,52844,2013
+Litchfield Park,5306,2013
+Mammoth,1484,2013
+Marana,38290,2013
+Maricopa,45508,2013
+Mesa,457587,2013
+Miami,1794,2013
+Nogales,20456,2013
+Oro Valley,41627,2013
+Page,7326,2013
+Paradise Valley,13387,2013
+Parker,3073,2013
+Patagonia,896,2013
+Payson,15245,2013
+Peoria,162592,2013
+Phoenix,1513367,2013
+Pima,2466,2013
+Pinetop-Lakeside,4297,2013
+Prescott,40590,2013
+Prescott Valley,39791,2013
+Quartzsite,3643,2013
+Queen Creek,29673,2013
+Safford,9602,2013
+Sahuarita,26870,2013
+St. Johns,3503,2013
+San Luis,31180,2013
+Scottsdale,226918,2013
+Sedona,10111,2013
+Show Low,10730,2013
+Sierra Vista,45129,2013
+Snowflake,5576,2013
+Somerton,14994,2013
+South Tucson,5696,2013
+Springerville,1967,2013
+Star Valley,2278,2013
+Superior,2896,2013
+Surprise,123546,2013
+Taylor,4115,2013
+Tempe,168228,2013
+Thatcher,4957,2013
+Tolleson,6756,2013
+Tombstone,1338,2013
+Tucson,526116,2013
+Tusayan,573,2013
+Wellton,2908,2013
+Wickenburg,6604,2013
+Willcox,3641,2013
+Williams,3001,2013
+Winkelman,347,2013
+Winslow,9479,2013
+Young,6331,2013
+Yuma,91923,2013

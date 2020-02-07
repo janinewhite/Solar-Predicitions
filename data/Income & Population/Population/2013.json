@@ -1,0 +1,830 @@
+[
+    [
+        "STNAME",
+        "NAME",
+        "CTYNAME",
+        "POP",
+        "DATE_",
+        "state",
+        "place"
+    ],
+    [
+        "Arizona",
+        "Apache Junction city",
+        "N/A",
+        "37130",
+        "6",
+        "04",
+        "02830"
+    ],
+    [
+        "Arizona",
+        "Avondale city",
+        "N/A",
+        "78822",
+        "6",
+        "04",
+        "04720"
+    ],
+    [
+        "Arizona",
+        "Benson city",
+        "N/A",
+        "5005",
+        "6",
+        "04",
+        "05770"
+    ],
+    [
+        "Arizona",
+        "Bisbee city",
+        "N/A",
+        "5360",
+        "6",
+        "04",
+        "06260"
+    ],
+    [
+        "Arizona",
+        "Buckeye town",
+        "N/A",
+        "56683",
+        "6",
+        "04",
+        "07940"
+    ],
+    [
+        "Arizona",
+        "Bullhead City city",
+        "N/A",
+        "39383",
+        "6",
+        "04",
+        "08220"
+    ],
+    [
+        "Arizona",
+        "Camp Verde town",
+        "N/A",
+        "11018",
+        "6",
+        "04",
+        "09690"
+    ],
+    [
+        "Arizona",
+        "Carefree town",
+        "N/A",
+        "3487",
+        "6",
+        "04",
+        "10180"
+    ],
+    [
+        "Arizona",
+        "Casa Grande city",
+        "N/A",
+        "50111",
+        "6",
+        "04",
+        "10530"
+    ],
+    [
+        "Arizona",
+        "Cave Creek town",
+        "N/A",
+        "5074",
+        "6",
+        "04",
+        "11300"
+    ],
+    [
+        "Arizona",
+        "Chandler city",
+        "N/A",
+        "249146",
+        "6",
+        "04",
+        "12000"
+    ],
+    [
+        "Arizona",
+        "Chino Valley town",
+        "N/A",
+        "10943",
+        "6",
+        "04",
+        "12840"
+    ],
+    [
+        "Arizona",
+        "Clarkdale town",
+        "N/A",
+        "4122",
+        "6",
+        "04",
+        "13890"
+    ],
+    [
+        "Arizona",
+        "Clifton town",
+        "N/A",
+        "3501",
+        "6",
+        "04",
+        "14380"
+    ],
+    [
+        "Arizona",
+        "Colorado City town",
+        "N/A",
+        "4812",
+        "6",
+        "04",
+        "14870"
+    ],
+    [
+        "Arizona",
+        "Coolidge city",
+        "N/A",
+        "11887",
+        "6",
+        "04",
+        "15500"
+    ],
+    [
+        "Arizona",
+        "Cottonwood city",
+        "N/A",
+        "11424",
+        "6",
+        "04",
+        "16410"
+    ],
+    [
+        "Arizona",
+        "Dewey-Humboldt town",
+        "N/A",
+        "3951",
+        "6",
+        "04",
+        "19145"
+    ],
+    [
+        "Arizona",
+        "Douglas city",
+        "N/A",
+        "16915",
+        "6",
+        "04",
+        "20050"
+    ],
+    [
+        "Arizona",
+        "Duncan town",
+        "N/A",
+        "750",
+        "6",
+        "04",
+        "20750"
+    ],
+    [
+        "Arizona",
+        "Eagar town",
+        "N/A",
+        "4916",
+        "6",
+        "04",
+        "20960"
+    ],
+    [
+        "Arizona",
+        "El Mirage city",
+        "N/A",
+        "32998",
+        "6",
+        "04",
+        "22220"
+    ],
+    [
+        "Arizona",
+        "Eloy city",
+        "N/A",
+        "16996",
+        "6",
+        "04",
+        "22360"
+    ],
+    [
+        "Arizona",
+        "Flagstaff city",
+        "N/A",
+        "68667",
+        "6",
+        "04",
+        "23620"
+    ],
+    [
+        "Arizona",
+        "Florence town",
+        "N/A",
+        "25428",
+        "6",
+        "04",
+        "23760"
+    ],
+    [
+        "Arizona",
+        "Fountain Hills town",
+        "N/A",
+        "23235",
+        "6",
+        "04",
+        "25300"
+    ],
+    [
+        "Arizona",
+        "Fredonia town",
+        "N/A",
+        "1307",
+        "6",
+        "04",
+        "25720"
+    ],
+    [
+        "Arizona",
+        "Gila Bend town",
+        "N/A",
+        "1977",
+        "6",
+        "04",
+        "27050"
+    ],
+    [
+        "Arizona",
+        "Gilbert town",
+        "N/A",
+        "229972",
+        "6",
+        "04",
+        "27400"
+    ],
+    [
+        "Arizona",
+        "Glendale city",
+        "N/A",
+        "234632",
+        "6",
+        "04",
+        "27820"
+    ],
+    [
+        "Arizona",
+        "Globe city",
+        "N/A",
+        "7404",
+        "6",
+        "04",
+        "28030"
+    ],
+    [
+        "Arizona",
+        "Goodyear city",
+        "N/A",
+        "72864",
+        "6",
+        "04",
+        "28380"
+    ],
+    [
+        "Arizona",
+        "Guadalupe town",
+        "N/A",
+        "6072",
+        "6",
+        "04",
+        "30270"
+    ],
+    [
+        "Arizona",
+        "Hayden town",
+        "N/A",
+        "650",
+        "6",
+        "04",
+        "32020"
+    ],
+    [
+        "Arizona",
+        "Holbrook city",
+        "N/A",
+        "4996",
+        "6",
+        "04",
+        "33280"
+    ],
+    [
+        "Arizona",
+        "Huachuca City town",
+        "N/A",
+        "1794",
+        "6",
+        "04",
+        "34120"
+    ],
+    [
+        "Arizona",
+        "Jerome town",
+        "N/A",
+        "448",
+        "6",
+        "04",
+        "36290"
+    ],
+    [
+        "Arizona",
+        "Kearny town",
+        "N/A",
+        "2030",
+        "6",
+        "04",
+        "37200"
+    ],
+    [
+        "Arizona",
+        "Kingman city",
+        "N/A",
+        "28393",
+        "6",
+        "04",
+        "37620"
+    ],
+    [
+        "Arizona",
+        "Lake Havasu City city",
+        "N/A",
+        "52844",
+        "6",
+        "04",
+        "39370"
+    ],
+    [
+        "Arizona",
+        "Litchfield Park city",
+        "N/A",
+        "5306",
+        "6",
+        "04",
+        "41330"
+    ],
+    [
+        "Arizona",
+        "Mammoth town",
+        "N/A",
+        "1484",
+        "6",
+        "04",
+        "43990"
+    ],
+    [
+        "Arizona",
+        "Marana town",
+        "N/A",
+        "38290",
+        "6",
+        "04",
+        "44270"
+    ],
+    [
+        "Arizona",
+        "Maricopa city",
+        "N/A",
+        "45508",
+        "6",
+        "04",
+        "44410"
+    ],
+    [
+        "Arizona",
+        "Mesa city",
+        "N/A",
+        "457587",
+        "6",
+        "04",
+        "46000"
+    ],
+    [
+        "Arizona",
+        "Miami town",
+        "N/A",
+        "1794",
+        "6",
+        "04",
+        "46350"
+    ],
+    [
+        "Arizona",
+        "Nogales city",
+        "N/A",
+        "20456",
+        "6",
+        "04",
+        "49640"
+    ],
+    [
+        "Arizona",
+        "Oro Valley town",
+        "N/A",
+        "41627",
+        "6",
+        "04",
+        "51600"
+    ],
+    [
+        "Arizona",
+        "Page city",
+        "N/A",
+        "7326",
+        "6",
+        "04",
+        "51810"
+    ],
+    [
+        "Arizona",
+        "Paradise Valley town",
+        "N/A",
+        "13387",
+        "6",
+        "04",
+        "52930"
+    ],
+    [
+        "Arizona",
+        "Parker town",
+        "N/A",
+        "3073",
+        "6",
+        "04",
+        "53070"
+    ],
+    [
+        "Arizona",
+        "Patagonia town",
+        "N/A",
+        "896",
+        "6",
+        "04",
+        "53490"
+    ],
+    [
+        "Arizona",
+        "Payson town",
+        "N/A",
+        "15245",
+        "6",
+        "04",
+        "53700"
+    ],
+    [
+        "Arizona",
+        "Peoria city",
+        "N/A",
+        "162592",
+        "6",
+        "04",
+        "54050"
+    ],
+    [
+        "Arizona",
+        "Phoenix city",
+        "N/A",
+        "1513367",
+        "6",
+        "04",
+        "55000"
+    ],
+    [
+        "Arizona",
+        "Pima town",
+        "N/A",
+        "2466",
+        "6",
+        "04",
+        "55560"
+    ],
+    [
+        "Arizona",
+        "Pinetop-Lakeside town",
+        "N/A",
+        "4297",
+        "6",
+        "04",
+        "55980"
+    ],
+    [
+        "Arizona",
+        "Prescott city",
+        "N/A",
+        "40590",
+        "6",
+        "04",
+        "57380"
+    ],
+    [
+        "Arizona",
+        "Prescott Valley town",
+        "N/A",
+        "39791",
+        "6",
+        "04",
+        "57450"
+    ],
+    [
+        "Arizona",
+        "Quartzsite town",
+        "N/A",
+        "3643",
+        "6",
+        "04",
+        "58010"
+    ],
+    [
+        "Arizona",
+        "Queen Creek town",
+        "N/A",
+        "29673",
+        "6",
+        "04",
+        "58150"
+    ],
+    [
+        "Arizona",
+        "Safford city",
+        "N/A",
+        "9602",
+        "6",
+        "04",
+        "62000"
+    ],
+    [
+        "Arizona",
+        "Sahuarita town",
+        "N/A",
+        "26870",
+        "6",
+        "04",
+        "62140"
+    ],
+    [
+        "Arizona",
+        "St. Johns city",
+        "N/A",
+        "3503",
+        "6",
+        "04",
+        "62350"
+    ],
+    [
+        "Arizona",
+        "San Luis city",
+        "N/A",
+        "31180",
+        "6",
+        "04",
+        "63470"
+    ],
+    [
+        "Arizona",
+        "Scottsdale city",
+        "N/A",
+        "226918",
+        "6",
+        "04",
+        "65000"
+    ],
+    [
+        "Arizona",
+        "Sedona city",
+        "N/A",
+        "10111",
+        "6",
+        "04",
+        "65350"
+    ],
+    [
+        "Arizona",
+        "Show Low city",
+        "N/A",
+        "10730",
+        "6",
+        "04",
+        "66470"
+    ],
+    [
+        "Arizona",
+        "Sierra Vista city",
+        "N/A",
+        "45129",
+        "6",
+        "04",
+        "66820"
+    ],
+    [
+        "Arizona",
+        "Snowflake town",
+        "N/A",
+        "5576",
+        "6",
+        "04",
+        "67800"
+    ],
+    [
+        "Arizona",
+        "Somerton city",
+        "N/A",
+        "14994",
+        "6",
+        "04",
+        "68080"
+    ],
+    [
+        "Arizona",
+        "South Tucson city",
+        "N/A",
+        "5696",
+        "6",
+        "04",
+        "68850"
+    ],
+    [
+        "Arizona",
+        "Springerville town",
+        "N/A",
+        "1967",
+        "6",
+        "04",
+        "68990"
+    ],
+    [
+        "Arizona",
+        "Star Valley town",
+        "N/A",
+        "2278",
+        "6",
+        "04",
+        "69480"
+    ],
+    [
+        "Arizona",
+        "Superior town",
+        "N/A",
+        "2896",
+        "6",
+        "04",
+        "71300"
+    ],
+    [
+        "Arizona",
+        "Surprise city",
+        "N/A",
+        "123546",
+        "6",
+        "04",
+        "71510"
+    ],
+    [
+        "Arizona",
+        "Taylor town",
+        "N/A",
+        "4115",
+        "6",
+        "04",
+        "72420"
+    ],
+    [
+        "Arizona",
+        "Tempe city",
+        "N/A",
+        "168228",
+        "6",
+        "04",
+        "73000"
+    ],
+    [
+        "Arizona",
+        "Thatcher town",
+        "N/A",
+        "4957",
+        "6",
+        "04",
+        "73420"
+    ],
+    [
+        "Arizona",
+        "Tolleson city",
+        "N/A",
+        "6756",
+        "6",
+        "04",
+        "74190"
+    ],
+    [
+        "Arizona",
+        "Tombstone city",
+        "N/A",
+        "1338",
+        "6",
+        "04",
+        "74400"
+    ],
+    [
+        "Arizona",
+        "Tucson city",
+        "N/A",
+        "526116",
+        "6",
+        "04",
+        "77000"
+    ],
+    [
+        "Arizona",
+        "Tusayan town",
+        "N/A",
+        "573",
+        "6",
+        "04",
+        "77490"
+    ],
+    [
+        "Arizona",
+        "Wellton town",
+        "N/A",
+        "2908",
+        "6",
+        "04",
+        "81480"
+    ],
+    [
+        "Arizona",
+        "Wickenburg town",
+        "N/A",
+        "6604",
+        "6",
+        "04",
+        "82740"
+    ],
+    [
+        "Arizona",
+        "Willcox city",
+        "N/A",
+        "3641",
+        "6",
+        "04",
+        "83090"
+    ],
+    [
+        "Arizona",
+        "Williams city",
+        "N/A",
+        "3001",
+        "6",
+        "04",
+        "83160"
+    ],
+    [
+        "Arizona",
+        "Winkelman town",
+        "N/A",
+        "347",
+        "6",
+        "04",
+        "83790"
+    ],
+    [
+        "Arizona",
+        "Winslow city",
+        "N/A",
+        "9479",
+        "6",
+        "04",
+        "83930"
+    ],
+    [
+        "Arizona",
+        "Youngtown town",
+        "N/A",
+        "6331",
+        "6",
+        "04",
+        "85400"
+    ],
+    [
+        "Arizona",
+        "Yuma city",
+        "N/A",
+        "91923",
+        "6",
+        "04",
+        "85540"
+    ]
+]
