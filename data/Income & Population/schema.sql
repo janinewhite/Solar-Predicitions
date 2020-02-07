@@ -10,3 +10,10 @@ create table income(
 	household_income int,
 	year int
 );
+
+create table manufacturer_location(
+	id text,
+	name text,
+	aka text,
+	country text
+);
