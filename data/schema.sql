@@ -10,3 +10,10 @@ create table income(
 	household_income int,
 	year int
 );
+
+create table weather(
+	location text,
+	temperature float,
+	lat float,
+	long float
+);

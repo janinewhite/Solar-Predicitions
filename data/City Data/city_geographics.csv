@@ -1,0 +1,447 @@
+city,state_id,state_name,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+Freedom Acres,AZ,Arizona,4007,Gila,34.3199,-111.3051,113,24,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840027968
+Teec Nos Pos,AZ,Arizona,4001,Apache,36.9221,-109.0753,711,19,polygon,FALSE,FALSE,America/Denver,3,86514,1840019007
+Crozier,AZ,Arizona,4015,Mohave,35.4227,-113.6486,25,9,polygon,FALSE,FALSE,America/Phoenix,3,86437 86434,1840023176
+Avondale,AZ,Arizona,4013,Maricopa,33.3858,-112.3236,217192,716,polygon,FALSE,TRUE,America/Phoenix,2,85323 85392 85329,1840019310
+Alpine,AZ,Arizona,4001,Apache,33.8461,-109.1432,86,55,polygon,FALSE,FALSE,America/Phoenix,3,85920,1840022617
+Elfrida,AZ,Arizona,4003,Cochise,31.6858,-109.6896,347,34,polygon,FALSE,FALSE,America/Phoenix,3,85610,1840023086
+North Fork,AZ,Arizona,4017,Navajo,33.9965,-109.9593,1634,10,polygon,FALSE,TRUE,America/Phoenix,3,85941,1840075412
+Kaibito,AZ,Arizona,4005,Coconino,36.592,-111.1071,1712,41,polygon,FALSE,FALSE,America/Denver,3,86053,1840017664
+Lower Santan Village,AZ,Arizona,4021,Pinal,33.1427,-111.7853,395,36,polygon,FALSE,TRUE,America/Phoenix,3,85147,1840042769
+St. David,AZ,Arizona,4003,Cochise,31.8992,-110.2251,1667,120,polygon,FALSE,FALSE,America/Phoenix,3,85630,1840019493
+Ash Fork,AZ,Arizona,4025,Yavapai,35.2171,-112.4913,824,137,polygon,FALSE,FALSE,America/Phoenix,3,86320,1840017844
+Poston,AZ,Arizona,4012,La Paz,33.9921,-114.4046,312,88,polygon,FALSE,FALSE,America/Phoenix,3,85371,1840019268
+Drysdale,AZ,Arizona,4027,Yuma,32.6452,-114.7067,449,1059,polygon,FALSE,TRUE,America/Phoenix,3,85365,1840075320
+Heber-Overgaard,AZ,Arizona,4017,Navajo,34.4141,-110.5696,2408,135,polygon,FALSE,TRUE,America/Phoenix,3,85933 85928,1840074050
+Three Points,AZ,Arizona,4019,Pima,32.0596,-111.2865,5453,45,polygon,FALSE,FALSE,America/Phoenix,3,85735 85736,1840019486
+Seligman,AZ,Arizona,4025,Yavapai,35.3256,-112.8573,471,28,polygon,FALSE,FALSE,America/Phoenix,3,86337,1840019164
+Sacate Village,AZ,Arizona,4021,Pinal,33.1416,-111.981,177,19,polygon,FALSE,TRUE,America/Phoenix,3,85339 85121,1840042772
+Burnside,AZ,Arizona,4001,Apache,35.7534,-109.6248,629,26,polygon,FALSE,FALSE,America/Denver,3,86505,1840027977
+Tuba City,AZ,Arizona,4005,Coconino,36.125,-111.2467,9022,388,polygon,FALSE,FALSE,America/Denver,3,86045,1840018972
+Roosevelt,AZ,Arizona,4007,Gila,33.6618,-111.1295,60,8,polygon,FALSE,FALSE,America/Phoenix,3,85545,1840022866
+Winslow,AZ,Arizona,4017,Navajo,35.0252,-110.7098,9508,295,polygon,FALSE,TRUE,America/Phoenix,3,86047,1840021583
+Crystal Beach,AZ,Arizona,4015,Mohave,34.5714,-114.3926,135,154,polygon,FALSE,TRUE,America/Los_Angeles,3,86404,1840075284
+Scottsdale,AZ,Arizona,4013,Maricopa,33.6872,-111.8651,249950,524,polygon,FALSE,TRUE,America/Phoenix,2,85259 85258 85251 85250 85257 85255 85254 85266 85262 85260 85252 85261 85267 85271,1840021940
+Mesa,AZ,Arizona,4013,Maricopa,33.4017,-111.7181,496401,1388,polygon,FALSE,TRUE,America/Phoenix,2,85208 85209 85201 85202 85203 85204 85205 85206 85207 85215 85213 85212 85210 85211 85214 85216 85274 85275 85277,1840020566
+Greer,AZ,Arizona,4001,Apache,34.0053,-109.4611,40,29,polygon,FALSE,FALSE,America/Phoenix,3,85927,1840022621
+Kohls Ranch,AZ,Arizona,4007,Gila,34.321,-111.0838,106,34,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840022865
+Tolleson,AZ,Arizona,4013,Maricopa,33.4484,-112.2561,7205,482,polygon,FALSE,TRUE,America/Phoenix,3,85353,1840021943
+Maricopa,AZ,Arizona,4021,Pinal,33.0404,-112.0006,46741,433,polygon,FALSE,TRUE,America/Phoenix,3,85138 85139,1840020629
+Canyon Day,AZ,Arizona,4007,Gila,33.7826,-110.0328,1293,99,polygon,FALSE,FALSE,America/Phoenix,3,85941,1840017945
+Chiawuli Tak,AZ,Arizona,4019,Pima,31.941,-111.7765,0,0,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023067
+Black Canyon City,AZ,Arizona,4025,Yavapai,34.0709,-112.122,2892,46,polygon,FALSE,FALSE,America/Phoenix,3,85324,1840017847
+Hackberry,AZ,Arizona,4015,Mohave,35.3401,-113.7256,101,2,polygon,FALSE,FALSE,America/Phoenix,3,86411 86401,1840023178
+New Kingman-Butler,AZ,Arizona,4015,Mohave,35.2645,-114.0091,13060,1014,polygon,FALSE,TRUE,America/Phoenix,3,86409,1840037118
+Ajo,AZ,Arizona,4019,Pima,32.3923,-112.8839,3525,40,polygon,FALSE,FALSE,America/Phoenix,3,85321,1840018107
+Surprise,AZ,Arizona,4013,Maricopa,33.68,-112.4524,134085,478,polygon,FALSE,TRUE,America/Phoenix,2,85361 85379 85388 85387 85374 85375 85378,1840021941
+Sun City West,AZ,Arizona,4013,Maricopa,33.6693,-112.3575,25085,889,polygon,FALSE,FALSE,America/Phoenix,3,85375 85376,1840019312
+Dolan Springs,AZ,Arizona,4015,Mohave,35.5904,-114.2852,2479,16,polygon,FALSE,FALSE,America/Phoenix,3,86441,1840019744
+Marana,AZ,Arizona,4019,Pima,32.4355,-111.1558,44792,142,polygon,FALSE,TRUE,America/Phoenix,3,85653 85741 85743 85742 85658 85652 85740,1840023057
+San Miguel,AZ,Arizona,4019,Pima,31.6295,-111.7801,297,20,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023076
+Tusayan,AZ,Arizona,4005,Coconino,35.955,-112.1202,583,13,polygon,FALSE,TRUE,America/Phoenix,3,86023,1840018973
+Holbrook,AZ,Arizona,4017,Navajo,34.9044,-110.1672,3797,112,polygon,FALSE,TRUE,America/Phoenix,3,86025,1840020334
+Seven Mile,AZ,Arizona,4017,Navajo,33.7882,-109.9576,748,127,polygon,FALSE,TRUE,America/Phoenix,3,85941 85926,1840027934
+Wet Camp Village,AZ,Arizona,4021,Pinal,33.1413,-111.9004,351,30,polygon,FALSE,TRUE,America/Phoenix,3,85121,1840042806
+Gilbert,AZ,Arizona,4013,Maricopa,33.3103,-111.7463,242354,1374,polygon,FALSE,TRUE,America/Phoenix,2,85233 85234 85297 85296 85295 85298 85236 85299,1840021947
+Winkelman,AZ,Arizona,4007,Gila,32.9853,-110.7651,347,174,polygon,FALSE,TRUE,America/Phoenix,3,85192,1840022859
+Round Rock,AZ,Arizona,4001,Apache,36.5044,-109.4616,725,19,polygon,FALSE,FALSE,America/Denver,3,86547,1840019001
+St. Johns,AZ,Arizona,4001,Apache,34.5018,-109.3784,2571,52,polygon,FALSE,TRUE,America/Phoenix,3,85936,1840021622
+Six Shooter Canyon,AZ,Arizona,4007,Gila,33.3568,-110.772,963,127,polygon,FALSE,TRUE,America/Phoenix,3,85501,1840075490
+Aztec,AZ,Arizona,4027,Yuma,32.8082,-113.4428,0,0,polygon,FALSE,FALSE,America/Phoenix,3,85333,1840022977
+Solomon,AZ,Arizona,4009,Graham,32.8138,-109.6291,424,786,polygon,FALSE,FALSE,America/Phoenix,3,85546 85551,1840022961
+First Mesa,AZ,Arizona,4017,Navajo,35.8389,-110.3665,1928,47,polygon,FALSE,FALSE,America/Phoenix,3,86042,1840027978
+Rock House,AZ,Arizona,4007,Gila,33.6318,-110.9456,61,38,polygon,FALSE,TRUE,America/Phoenix,3,85501,1840038092
+Springerville,AZ,Arizona,4001,Apache,34.156,-109.2989,1956,65,polygon,FALSE,TRUE,America/Phoenix,3,85938,1840022616
+Steamboat,AZ,Arizona,4001,Apache,35.7535,-109.8503,299,48,polygon,FALSE,FALSE,America/Denver,3,86505,1840019006
+Morristown,AZ,Arizona,4013,Maricopa,33.8549,-112.6138,158,75,polygon,FALSE,FALSE,America/Phoenix,3,85342,1840022924
+Snowflake,AZ,Arizona,4017,Navajo,34.5223,-110.0914,6461,66,polygon,FALSE,TRUE,America/Phoenix,3,85937,1840022572
+Corona de Tucson,AZ,Arizona,4019,Pima,31.9495,-110.7836,7583,480,polygon,FALSE,FALSE,America/Phoenix,3,85641,1840018106
+Chuichu,AZ,Arizona,4021,Pinal,32.7403,-111.7821,414,23,polygon,FALSE,FALSE,America/Phoenix,3,85193,1840018028
+Sunizona,AZ,Arizona,4003,Cochise,31.8841,-109.6328,196,8,polygon,FALSE,FALSE,America/Phoenix,3,85625,1840023092
+Fort Valley,AZ,Arizona,4005,Coconino,35.2554,-111.7253,1195,60,polygon,FALSE,TRUE,America/Phoenix,3,86001,1840075372
+Paulden,AZ,Arizona,4025,Yavapai,34.8899,-112.4938,5064,34,polygon,FALSE,FALSE,America/Phoenix,3,86323 86334,1840019162
+Sedona,AZ,Arizona,4005,Coconino,34.8574,-111.7951,6967,209,polygon,FALSE,TRUE,America/Phoenix,3,86336 86339 86340,1840021584
+Kaka,AZ,Arizona,4013,Maricopa,32.5113,-112.3168,114,172,polygon,FALSE,FALSE,America/Phoenix,3,85321,1840022922
+Flowing Springs,AZ,Arizona,4007,Gila,34.3131,-111.3379,44,9,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840027970
+Village of Oak Creek,AZ,Arizona,4025,Yavapai,34.7813,-111.7606,6436,472,polygon,FALSE,TRUE,America/Phoenix,3,86351 86341,1840036808
+Bear Flat,AZ,Arizona,4007,Gila,34.2925,-111.0674,0,0,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840027972
+Concho,AZ,Arizona,4001,Apache,34.4744,-109.6102,146,126,polygon,FALSE,FALSE,America/Phoenix,3,85924,1840022618
+Queen Valley,AZ,Arizona,4021,Pinal,33.283,-111.3049,654,25,polygon,FALSE,FALSE,America/Phoenix,3,85118,1840019360
+Pinon,AZ,Arizona,4017,Navajo,36.0992,-110.2209,830,49,polygon,FALSE,FALSE,America/Denver,3,86510,1840018964
+Beaver Valley,AZ,Arizona,4007,Gila,34.3409,-111.2987,166,42,polygon,FALSE,TRUE,America/Phoenix,3,85541,1840075250
+Vernon,AZ,Arizona,4001,Apache,34.2508,-109.6926,38,25,polygon,FALSE,FALSE,America/Phoenix,3,85940,1840022629
+Pinal,AZ,Arizona,4007,Gila,33.3799,-110.7571,660,621,polygon,FALSE,FALSE,America/Phoenix,3,85501,1840027956
+Lake Havasu City,AZ,Arizona,4015,Mohave,34.5006,-114.3113,55341,453,polygon,FALSE,TRUE,America/Los_Angeles,3,86403 86406 86404 86405,1840021044
+Dripping Springs,AZ,Arizona,4007,Gila,33.105,-110.7552,165,9,polygon,FALSE,TRUE,America/Phoenix,3,85192,1840075316
+Vail,AZ,Arizona,4019,Pima,32.0217,-110.6937,11735,199,polygon,FALSE,FALSE,America/Phoenix,3,85641 85744,1840019487
+Tolani Lake,AZ,Arizona,4005,Coconino,35.4309,-110.8431,330,298,polygon,FALSE,FALSE,America/Denver,3,86047,1840022591
+Parker Strip,AZ,Arizona,4012,La Paz,34.2803,-114.1269,652,80,polygon,FALSE,FALSE,America/Phoenix,3,85344,1840019267
+Woodruff,AZ,Arizona,4017,Navajo,34.7843,-110.0366,126,8,polygon,FALSE,FALSE,America/Phoenix,3,85942 86025,1840022588
+Sonoita,AZ,Arizona,4023,Santa Cruz,31.6645,-110.6426,850,31,polygon,FALSE,FALSE,America/Phoenix,3,85637,1840019536
+Ali Molina,AZ,Arizona,4019,Pima,31.9025,-111.7804,63,31,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023062
+Tacna,AZ,Arizona,4027,Yuma,32.7004,-113.9618,742,149,polygon,FALSE,FALSE,America/Phoenix,3,85352 85347,1840019357
+Whiteriver,AZ,Arizona,4017,Navajo,33.8358,-109.9616,4198,103,polygon,FALSE,FALSE,America/Phoenix,3,85941,1840018966
+Leupp,AZ,Arizona,4005,Coconino,35.2966,-111.0028,1295,36,polygon,FALSE,FALSE,America/Denver,3,86035 86004,1840017665
+Wenden,AZ,Arizona,4012,La Paz,33.8324,-113.5433,360,9,polygon,FALSE,FALSE,America/Phoenix,3,85357,1840019270
+Topawa,AZ,Arizona,4019,Pima,31.8078,-111.8304,143,10,polygon,FALSE,FALSE,America/Phoenix,3,85634 85639,1840023079
+Patagonia,AZ,Arizona,4023,Santa Cruz,31.5436,-110.7477,880,263,polygon,FALSE,TRUE,America/Phoenix,3,85624,1840023118
+Tombstone,AZ,Arizona,4003,Cochise,31.7234,-110.0798,1296,54,polygon,FALSE,TRUE,America/Phoenix,3,85638,1840022104
+Top-of-the-World,AZ,Arizona,4021,Pinal,33.3477,-110.9997,325,20,polygon,FALSE,FALSE,America/Phoenix,3,85539 85501,1840027983
+Rincon Valley,AZ,Arizona,4019,Pima,32.1101,-110.6889,6151,93,polygon,FALSE,TRUE,America/Phoenix,3,85747 85641,1840038089
+Ak Chin,AZ,Arizona,4019,Pima,32.2873,-112.0091,33,24,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023059
+Valencia West,AZ,Arizona,4019,Pima,32.1354,-111.1124,11468,447,polygon,FALSE,TRUE,America/Phoenix,3,85757,1840074666
+Willow Canyon,AZ,Arizona,4019,Pima,32.3881,-110.7009,0,0,polygon,FALSE,FALSE,America/Phoenix,3,85619,1840023083
+Ko Vaya,AZ,Arizona,4019,Pima,32.0815,-111.8959,8,2,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023072
+Dewey-Humboldt,AZ,Arizona,4025,Yavapai,34.5174,-112.2498,4064,84,polygon,FALSE,TRUE,America/Phoenix,3,86329 86327,1840021771
+Mescal,AZ,Arizona,4003,Cochise,31.9674,-110.4367,1509,119,polygon,FALSE,FALSE,America/Phoenix,3,85602,1840023088
+Del Muerto,AZ,Arizona,4001,Apache,36.187,-109.4348,341,132,polygon,FALSE,FALSE,America/Denver,3,86503,1840027931
+Colorado City,AZ,Arizona,4015,Mohave,36.9774,-112.983,8259,180,polygon,FALSE,TRUE,America/Phoenix,3,86021,1840023170
+Morenci,AZ,Arizona,4011,Greenlee,33.0531,-109.3307,1689,678,polygon,FALSE,FALSE,America/Phoenix,3,85540,1840019339
+Fort Apache,AZ,Arizona,4017,Navajo,33.7907,-109.9873,186,63,polygon,FALSE,FALSE,America/Phoenix,3,85926,1840022575
+Nazlini,AZ,Arizona,4001,Apache,35.9156,-109.4726,469,24,polygon,FALSE,FALSE,America/Denver,3,86540,1840018997
+Bylas,AZ,Arizona,4009,Graham,33.1292,-110.1162,1834,169,polygon,FALSE,FALSE,America/Phoenix,3,85530,1840022957
+Picture Rocks,AZ,Arizona,4019,Pima,32.3274,-111.2558,8666,47,polygon,FALSE,FALSE,America/Phoenix,3,85653 85743,1840019482
+Wittmann,AZ,Arizona,4013,Maricopa,33.775,-112.5251,607,242,polygon,FALSE,FALSE,America/Phoenix,3,85361,1840022928
+Wheatfields,AZ,Arizona,4007,Gila,33.4805,-110.8366,466,22,polygon,FALSE,TRUE,America/Phoenix,3,85501,1840075566
+Sun City,AZ,Arizona,4013,Maricopa,33.6165,-112.2819,39000,1044,polygon,FALSE,FALSE,America/Phoenix,3,85351 85373 85372,1840019311
+Tucson,AZ,Arizona,4019,Pima,32.1545,-110.8782,868391,868,polygon,FALSE,TRUE,America/Phoenix,2,85705 85707 85706 85756 85723 85726 85724 85701 85708 85711 85748 85745 85747 85716 85714 85715 85712 85713 85710 85719 85730 85702 85703 85709 85717 85720 85721 85722 85725 85731 85732 85738 85751 85754 85775,1840022101
+Quartzsite,AZ,Arizona,4012,La Paz,33.6675,-114.217,3357,39,polygon,FALSE,TRUE,America/Phoenix,3,85346 85359,1840021913
+Eloy,AZ,Arizona,4021,Pinal,32.747,-111.5991,19168,65,polygon,FALSE,TRUE,America/Phoenix,3,85131 85194 85193 85123,1840020628
+Hotevilla-Bacavi,AZ,Arizona,4017,Navajo,35.9225,-110.6569,1250,41,polygon,FALSE,TRUE,America/Phoenix,3,86030,1840027979
+Second Mesa,AZ,Arizona,4017,Navajo,35.8222,-110.4884,1695,16,polygon,FALSE,FALSE,America/Phoenix,3,86043,1840018965
+Cactus Flats,AZ,Arizona,4009,Graham,32.7642,-109.7205,1423,89,polygon,FALSE,TRUE,America/Phoenix,3,85546 85548,1840001823
+St. Michaels,AZ,Arizona,4001,Apache,35.6606,-109.0962,1245,125,polygon,FALSE,FALSE,America/Denver,3,86511,1840019002
+Phoenix,AZ,Arizona,4013,Maricopa,33.5722,-112.0891,4081849,1212,polygon,FALSE,TRUE,America/Phoenix,1,85008 85009 85006 85007 85004 85083 85086 85087 85085 85383 85033 85304 85306 85308 85020 85021 85022 85023 85024 85027 85028 85029 85353 85019 85018 85013 85012 85015 85014 85017 85016 85254 85003 85044 85045 85042 85043 85040 85041 85048 85054 85037 85035 85034 85032 85031 85307 85310 85051 85050 85053 85001 85002 85005 85010 85011 85026 85030 85036 85038 85046 85060 85061 85062 85063 85064 85065 85066 85067 85068 85069 85070 85071 85072 85073 85074 85075 85076 85078 85079 85080 85082,1840020568
+Cane Beds,AZ,Arizona,4015,Mohave,36.9341,-112.9118,395,18,polygon,FALSE,FALSE,America/Phoenix,3,86022,1840023173
+Kykotsmovi Village,AZ,Arizona,4017,Navajo,35.8576,-110.6338,791,18,polygon,FALSE,FALSE,America/Phoenix,3,86039 86030,1840017660
+Cornville,AZ,Arizona,4025,Yavapai,34.7389,-111.9086,3167,92,polygon,FALSE,FALSE,America/Phoenix,3,86325,1840017842
+Doney Park,AZ,Arizona,4005,Coconino,35.2687,-111.5053,5522,142,polygon,FALSE,TRUE,America/Phoenix,3,86004,1840075310
+Deer Creek,AZ,Arizona,4007,Gila,34.0644,-111.3505,185,40,polygon,FALSE,TRUE,America/Phoenix,3,85541,1840075296
+Catalina,AZ,Arizona,4019,Pima,32.4849,-110.8996,7751,212,polygon,FALSE,FALSE,America/Phoenix,3,85739,1840018109
+Goodyear,AZ,Arizona,4013,Maricopa,33.2614,-112.3622,79858,161,polygon,FALSE,TRUE,America/Phoenix,3,85139 85338 85326 85340 85395,1840020564
+Youngtown,AZ,Arizona,4013,Maricopa,33.5846,-112.3047,6760,1755,polygon,FALSE,TRUE,America/Phoenix,3,85363,1840022917
+Fort Mohave,AZ,Arizona,4015,Mohave,35.0004,-114.5748,14583,337,polygon,FALSE,TRUE,America/Phoenix,3,86426 86427,1840042961
+Payson,AZ,Arizona,4007,Gila,34.2434,-111.3195,14412,309,polygon,FALSE,TRUE,America/Phoenix,3,85541 85547,1840022857
+Wahak Hotrontk,AZ,Arizona,4019,Pima,32.1748,-112.3663,122,30,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023081
+Shongopovi,AZ,Arizona,4017,Navajo,35.8195,-110.5331,1067,259,polygon,FALSE,FALSE,America/Phoenix,3,86043,1840136204
+Pine,AZ,Arizona,4007,Gila,34.3788,-111.4574,1591,18,polygon,FALSE,FALSE,America/Phoenix,3,85544,1840019262
+Indian Wells,AZ,Arizona,4017,Navajo,35.4089,-110.1061,275,10,polygon,FALSE,FALSE,America/Denver,3,86031,1840022577
+Benson,AZ,Arizona,4003,Cochise,31.9157,-110.3256,3824,44,polygon,FALSE,TRUE,America/Phoenix,3,85602 85630,1840019494
+Franklin,AZ,Arizona,4011,Greenlee,32.677,-109.072,37,14,polygon,FALSE,FALSE,America/Phoenix,3,85534,1840022950
+Yarnell,AZ,Arizona,4025,Yavapai,34.2283,-112.7631,658,28,polygon,FALSE,FALSE,America/Phoenix,3,85362,1840019167
+Blackwater,AZ,Arizona,4021,Pinal,33.0396,-111.5798,1653,35,polygon,FALSE,FALSE,America/Phoenix,3,85128,1840018031
+Vicksburg,AZ,Arizona,4012,La Paz,33.7293,-113.8254,963,2,polygon,FALSE,FALSE,America/Phoenix,3,85325 85348,1840022880
+Low Mountain,AZ,Arizona,4017,Navajo,35.9481,-110.0981,623,6,polygon,FALSE,FALSE,America/Denver,3,86520 86510 86034,1840022581
+Wikieup,AZ,Arizona,4015,Mohave,34.6931,-113.5995,134,11,polygon,FALSE,FALSE,America/Phoenix,3,85360,1840023189
+Moccasin,AZ,Arizona,4015,Mohave,36.9099,-112.7546,0,0,polygon,FALSE,FALSE,America/Phoenix,3,86022,1840023183
+Valle,AZ,Arizona,4005,Coconino,35.6245,-112.135,185,0,polygon,FALSE,FALSE,America/Phoenix,3,86046,1840022592
+Pirtleville,AZ,Arizona,4003,Cochise,31.3613,-109.5661,1838,380,polygon,FALSE,FALSE,America/Phoenix,3,85626 85607,1840019492
+Whitecone,AZ,Arizona,4017,Navajo,35.6037,-110.0791,847,7,polygon,FALSE,TRUE,America/Denver,3,86031 86034,1840027881
+Green Valley,AZ,Arizona,4019,Pima,31.8437,-111.0172,21912,262,polygon,FALSE,FALSE,America/Phoenix,3,85622 85614,1840018111
+Beyerville,AZ,Arizona,4023,Santa Cruz,31.3921,-110.8748,219,253,polygon,FALSE,FALSE,America/Phoenix,3,85621,1840023119
+Tubac,AZ,Arizona,4023,Santa Cruz,31.6111,-111.0585,1365,48,polygon,FALSE,FALSE,America/Phoenix,3,85640 85646,1840019537
+San Manuel,AZ,Arizona,4021,Pinal,32.6091,-110.6415,3714,69,polygon,FALSE,FALSE,America/Phoenix,3,85631,1840019362
+Fort Defiance,AZ,Arizona,4001,Apache,35.7469,-109.0685,4118,261,polygon,FALSE,FALSE,America/Denver,3,86504,1840017675
+Cutter,AZ,Arizona,4007,Gila,33.3584,-110.6593,0,0,polygon,FALSE,FALSE,America/Phoenix,3,85550,1840022863
+Tonto Village,AZ,Arizona,4007,Gila,34.3198,-111.1393,368,425,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840022868
+Casa Grande,AZ,Arizona,4021,Pinal,32.9068,-111.7624,58632,193,polygon,FALSE,TRUE,America/Phoenix,3,85194 85193 85122 85130,1840019364
+Star Valley,AZ,Arizona,4007,Gila,34.2611,-111.2197,2287,24,polygon,FALSE,TRUE,America/Phoenix,3,85541,1840022858
+Casa Blanca,AZ,Arizona,4021,Pinal,33.1154,-111.908,1189,29,polygon,FALSE,FALSE,America/Phoenix,3,85121,1840025877
+Cornfields,AZ,Arizona,4001,Apache,35.6513,-109.6759,373,372,polygon,FALSE,FALSE,America/Denver,3,86505,1840022619
+Avenue B and C,AZ,Arizona,4027,Yuma,32.7192,-114.6597,3444,1809,polygon,FALSE,TRUE,America/Phoenix,3,85364,1840075233
+El Mirage,AZ,Arizona,4013,Maricopa,33.5905,-112.3271,35216,1374,polygon,FALSE,TRUE,America/Phoenix,3,85335,1840020562
+Kohatk,AZ,Arizona,4021,Pinal,32.5782,-112.0033,20,78,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840022983
+Summerhaven,AZ,Arizona,4019,Pima,32.4416,-110.7766,189,16,polygon,FALSE,FALSE,America/Phoenix,3,85619,1840023078
+Dennehotso,AZ,Arizona,4001,Apache,36.8209,-109.879,792,30,polygon,FALSE,FALSE,America/Denver,3,86535,1840018995
+Hard Rock,AZ,Arizona,4017,Navajo,36.0309,-110.5048,85,5,polygon,FALSE,TRUE,America/Denver,3,86039,1840075388
+Guadalupe,AZ,Arizona,4013,Maricopa,33.3664,-111.9633,6525,3134,polygon,FALSE,TRUE,America/Phoenix,2,85283,1840021948
+Williams,AZ,Arizona,4005,Coconino,35.2476,-112.1833,2757,27,polygon,FALSE,TRUE,America/Phoenix,3,86046,1840021585
+Wilhoit,AZ,Arizona,4025,Yavapai,34.4083,-112.6156,870,21,polygon,FALSE,FALSE,America/Phoenix,3,86332,1840019165
+Kachina Village,AZ,Arizona,4005,Coconino,35.0949,-111.6927,3013,951,polygon,FALSE,FALSE,America/Phoenix,3,86001,1840017663
+La Paz Valley,AZ,Arizona,4012,La Paz,33.5578,-114.2434,497,6,polygon,FALSE,FALSE,America/Phoenix,3,85346,1840022878
+Theba,AZ,Arizona,4013,Maricopa,32.9181,-112.8903,75,46,polygon,FALSE,FALSE,America/Phoenix,3,85337,1840022925
+Greasewood,AZ,Arizona,4017,Navajo,35.5279,-109.8613,502,36,polygon,FALSE,FALSE,America/Denver,3,86505,1840017656
+Santa Rosa,AZ,Arizona,4019,Pima,32.3326,-112.0464,390,22,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840019484
+Icehouse Canyon,AZ,Arizona,4007,Gila,33.3553,-110.7965,453,35,polygon,FALSE,TRUE,America/Phoenix,3,85501,1840075398
+Sells,AZ,Arizona,4019,Pima,31.9202,-111.8775,2688,109,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840019485
+El Prado Estates,AZ,Arizona,4027,Yuma,32.7062,-114.5215,665,265,polygon,FALSE,TRUE,America/Phoenix,3,85365,1840075355
+Mayer,AZ,Arizona,4025,Yavapai,34.4233,-112.2408,1948,37,polygon,FALSE,FALSE,America/Phoenix,3,86333,1840017848
+Spring Valley,AZ,Arizona,4025,Yavapai,34.3531,-112.1513,1404,51,polygon,FALSE,FALSE,America/Phoenix,3,86333,1840019161
+Tucson Estates,AZ,Arizona,4019,Pima,32.1792,-111.1254,12047,357,polygon,FALSE,FALSE,America/Phoenix,3,85713 85735,1840027929
+San Carlos,AZ,Arizona,4007,Gila,33.35,-110.4654,4395,197,polygon,FALSE,FALSE,America/Phoenix,3,85550,1840019263
+Queen Creek,AZ,Arizona,4013,Maricopa,33.2367,-111.6389,39184,503,polygon,FALSE,TRUE,America/Phoenix,3,85142,1840021944
+Dateland,AZ,Arizona,4027,Yuma,32.8209,-113.5418,356,6,polygon,FALSE,FALSE,America/Phoenix,3,85333 85347,1840022978
+Lake Montezuma,AZ,Arizona,4025,Yavapai,34.6414,-111.796,5013,161,polygon,FALSE,FALSE,America/Phoenix,3,86335 86342,1840017849
+Sacaton Flats Village,AZ,Arizona,4021,Pinal,33.0559,-111.659,457,28,polygon,FALSE,TRUE,America/Phoenix,3,85147 85128,1840042786
+Ventana,AZ,Arizona,4019,Pima,32.4681,-112.2434,87,32,polygon,FALSE,FALSE,America/Phoenix,3,85634 85321,1840023080
+Cedar Creek,AZ,Arizona,4007,Gila,33.903,-110.1929,605,13,polygon,FALSE,FALSE,America/Phoenix,3,85941,1840022861
+Pima,AZ,Arizona,4009,Graham,32.8886,-109.8437,2513,132,polygon,FALSE,TRUE,America/Phoenix,3,85543,1840022954
+San Simon,AZ,Arizona,4003,Cochise,32.2679,-109.2308,132,72,polygon,FALSE,FALSE,America/Phoenix,3,85632,1840023091
+Stotonic Village,AZ,Arizona,4021,Pinal,33.1528,-111.8167,379,29,polygon,FALSE,TRUE,America/Phoenix,3,85248 85147,1840042796
+Jakes Corner,AZ,Arizona,4007,Gila,34.0083,-111.3202,32,8,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840022864
+Tees Toh,AZ,Arizona,4017,Navajo,35.4849,-110.3989,529,12,polygon,FALSE,FALSE,America/Denver,3,86047,1840022585
+Yuma,AZ,Arizona,4027,Yuma,32.5991,-114.5488,138802,304,polygon,FALSE,TRUE,America/Phoenix,2,85365 85364 85369,1840021998
+McNary,AZ,Arizona,4001,Apache,34.0924,-109.8541,673,47,polygon,FALSE,FALSE,America/Phoenix,3,85935 85930,1840018996
+Avra Valley,AZ,Arizona,4019,Pima,32.4195,-111.3393,5227,90,polygon,FALSE,FALSE,America/Phoenix,3,85653,1840027985
+Ak-Chin Village,AZ,Arizona,4021,Pinal,33.0197,-112.0808,1101,40,polygon,FALSE,FALSE,America/Phoenix,3,85139,1840018029
+Verde Village,AZ,Arizona,4025,Yavapai,34.712,-111.994,12584,700,polygon,FALSE,FALSE,America/Phoenix,3,86326,1840017843
+Nogales,AZ,Arizona,4023,Santa Cruz,31.3624,-110.9336,30876,372,polygon,FALSE,TRUE,America/Phoenix,3,85621,1840020823
+Sunwest,AZ,Arizona,4012,La Paz,33.651,-113.4091,22,0,polygon,FALSE,TRUE,America/Phoenix,3,85348,1840038121
+Elgin,AZ,Arizona,4023,Santa Cruz,31.668,-110.5347,112,7,polygon,FALSE,FALSE,America/Phoenix,3,85611,1840018173
+Window Rock,AZ,Arizona,4001,Apache,35.6705,-109.0639,3282,239,polygon,FALSE,FALSE,America/Denver,3,86515,1840019005
+Bryce,AZ,Arizona,4009,Graham,32.9258,-109.8229,69,31,polygon,FALSE,FALSE,America/Phoenix,3,85543,1840022956
+Dilkon,AZ,Arizona,4017,Navajo,35.3606,-110.3155,1320,30,polygon,FALSE,FALSE,America/Denver,3,86047,1840018960
+Bowie,AZ,Arizona,4003,Cochise,32.3247,-109.4842,337,76,polygon,FALSE,FALSE,America/Phoenix,3,85605,1840023084
+Arivaca Junction,AZ,Arizona,4019,Pima,31.739,-111.0738,1187,156,polygon,FALSE,FALSE,America/Phoenix,3,85645,1840023065
+Arizona City,AZ,Arizona,4021,Pinal,32.7506,-111.6707,11030,694,polygon,FALSE,FALSE,America/Phoenix,3,85193 85123,1840018030
+Meadview,AZ,Arizona,4015,Mohave,35.9532,-114.0789,857,10,polygon,FALSE,FALSE,America/Phoenix,3,86444,1840023182
+Walnut Creek,AZ,Arizona,4015,Mohave,35.1312,-114.1267,528,132,polygon,FALSE,TRUE,America/Phoenix,3,86413,1840075545
+Fort Thomas,AZ,Arizona,4009,Graham,33.0222,-109.9665,577,25,polygon,FALSE,FALSE,America/Phoenix,3,85536,1840022959
+Sun Lakes,AZ,Arizona,4013,Maricopa,33.2172,-111.8695,14800,1063,polygon,FALSE,FALSE,America/Phoenix,3,85248,1840019313
+San Jose,AZ,Arizona,4009,Graham,32.8169,-109.5957,599,55,polygon,FALSE,FALSE,America/Phoenix,3,85546,1840022960
+Mead Ranch,AZ,Arizona,4007,Gila,34.3462,-111.1428,0,0,polygon,FALSE,TRUE,America/Phoenix,3,85541,1840075411
+Central,AZ,Arizona,4009,Graham,32.8692,-109.7908,369,85,polygon,FALSE,FALSE,America/Phoenix,3,85531 85543,1840022958
+White Mountain Lake,AZ,Arizona,4017,Navajo,34.3441,-109.9878,2476,39,polygon,FALSE,FALSE,America/Phoenix,3,85912 85901,1840022587
+Ganado,AZ,Arizona,4001,Apache,35.7016,-109.5504,1035,43,polygon,FALSE,FALSE,America/Denver,3,86505,1840017676
+Kino Springs,AZ,Arizona,4023,Santa Cruz,31.3641,-110.8095,400,597,polygon,FALSE,FALSE,America/Phoenix,3,85621,1840023120
+Cibecue,AZ,Arizona,4017,Navajo,34.0332,-110.4854,2218,143,polygon,FALSE,FALSE,America/Phoenix,3,85911,1840017654
+Donovan Estates,AZ,Arizona,4027,Yuma,32.7094,-114.6782,1373,4370,polygon,FALSE,TRUE,America/Tijuana,2,85364,1840075311
+Salome,AZ,Arizona,4012,La Paz,33.7778,-113.6061,1296,15,polygon,FALSE,FALSE,America/Phoenix,3,85348,1840019269
+Tanque Verde,AZ,Arizona,4019,Pima,32.2687,-110.7437,16197,193,polygon,FALSE,FALSE,America/Phoenix,3,85749 85748,1840019489
+Picacho,AZ,Arizona,4021,Pinal,32.709,-111.4907,427,26,polygon,FALSE,FALSE,America/Phoenix,3,85141,1840022984
+Catalina Foothills,AZ,Arizona,4019,Pima,32.3041,-110.8835,50202,463,polygon,FALSE,FALSE,America/Phoenix,3,85718 85750 85715 85728,1840018110
+Taylor,AZ,Arizona,4017,Navajo,34.4393,-110.1018,4185,49,polygon,FALSE,TRUE,America/Phoenix,3,85939,1840022573
+Congress,AZ,Arizona,4025,Yavapai,34.1526,-112.8642,1454,14,polygon,FALSE,FALSE,America/Phoenix,3,85332,1840017840
+Swift Trail Junction,AZ,Arizona,4009,Graham,32.7305,-109.7147,3304,347,polygon,FALSE,FALSE,America/Phoenix,3,85546,1840019341
+Oracle,AZ,Arizona,4021,Pinal,32.6085,-110.7826,3729,91,polygon,FALSE,FALSE,America/Phoenix,3,85623,1840019359
+Supai,AZ,Arizona,4005,Coconino,36.2299,-112.6926,0,0,polygon,FALSE,FALSE,America/Phoenix,3,86435,1840018974
+Truxton,AZ,Arizona,4015,Mohave,35.487,-113.5607,121,12,polygon,FALSE,FALSE,America/Phoenix,3,86411 86434,1840023186
+Nelson,AZ,Arizona,4019,Pima,32.4298,-111.2649,473,383,polygon,FALSE,FALSE,America/Phoenix,3,85653,1840137559
+Stanfield,AZ,Arizona,4021,Pinal,32.8793,-111.9636,405,39,polygon,FALSE,FALSE,America/Phoenix,3,85172,1840019366
+Hunter Creek,AZ,Arizona,4007,Gila,34.3054,-111.0159,19,3,polygon,FALSE,TRUE,America/Phoenix,3,85541,1840075397
+Cameron,AZ,Arizona,4005,Coconino,35.8537,-111.4269,1178,24,polygon,FALSE,FALSE,America/Denver,3,86020,1840017662
+Jerome,AZ,Arizona,4025,Yavapai,34.7466,-112.1072,455,203,polygon,FALSE,TRUE,America/Phoenix,3,86331,1840021773
+Alamo Lake,AZ,Arizona,4012,La Paz,34.2588,-113.5079,3,0,polygon,FALSE,TRUE,America/Phoenix,3,85357,1840075227
+Coolidge,AZ,Arizona,4021,Pinal,32.9395,-111.5261,11725,67,polygon,FALSE,TRUE,America/Phoenix,3,85194 85128,1840019367
+Carefree,AZ,Arizona,4013,Maricopa,33.8234,-111.9161,3783,165,polygon,FALSE,TRUE,America/Phoenix,3,85377,1840022914
+Pinedale,AZ,Arizona,4017,Navajo,34.3208,-110.2599,320,12,polygon,FALSE,FALSE,America/Phoenix,3,85934,1840022582
+Huachuca City,AZ,Arizona,4003,Cochise,31.6308,-110.3422,1729,236,polygon,FALSE,TRUE,America/Phoenix,3,85616,1840022106
+Topock,AZ,Arizona,4015,Mohave,34.7206,-114.478,14,20,polygon,FALSE,FALSE,America/Phoenix,3,86436,1840023185
+Mojave Ranch Estates,AZ,Arizona,4015,Mohave,34.9449,-114.5907,21,10,polygon,FALSE,FALSE,America/Phoenix,3,86440,1840027982
+Wagon Wheel,AZ,Arizona,4017,Navajo,34.1976,-110.0272,1259,191,polygon,FALSE,TRUE,America/Phoenix,3,85929 85901,1840075510
+San Luis,AZ,Arizona,4027,Yuma,32.4911,-114.7089,30647,367,polygon,FALSE,TRUE,America/Phoenix,3,85350 85349,1840021996
+Cottonwood,AZ,Arizona,4025,Yavapai,34.7194,-112.0015,12023,279,polygon,FALSE,TRUE,America/Phoenix,3,86326,1840019168
+Golden Valley,AZ,Arizona,4015,Mohave,35.206,-114.2327,8694,42,polygon,FALSE,FALSE,America/Phoenix,3,86413,1840018339
+Paradise Valley,AZ,Arizona,4013,Maricopa,33.5434,-111.9595,14293,358,polygon,FALSE,TRUE,America/Phoenix,3,85253,1840022913
+Palominas,AZ,Arizona,4003,Cochise,31.3838,-110.1212,249,49,polygon,FALSE,FALSE,America/Phoenix,3,85615,1840023090
+Oak Springs,AZ,Arizona,4001,Apache,35.4759,-109.1319,84,174,polygon,FALSE,FALSE,America/Denver,3,86511,1840027932
+East Verde Estates,AZ,Arizona,4007,Gila,34.2983,-111.3645,167,25,polygon,FALSE,TRUE,America/Phoenix,3,85541,1840075337
+Thatcher,AZ,Arizona,4009,Graham,32.832,-109.7595,5021,296,polygon,FALSE,TRUE,America/Phoenix,3,85552,1840022955
+Florence,AZ,Arizona,4021,Pinal,33.059,-111.4209,16935,160,polygon,FALSE,TRUE,America/Phoenix,3,85132,1840021999
+Charco,AZ,Arizona,4019,Pima,32.2474,-112.6001,12,4,polygon,FALSE,FALSE,America/Phoenix,3,85321,1840023066
+Linden,AZ,Arizona,4017,Navajo,34.2625,-110.1424,2856,36,polygon,FALSE,FALSE,America/Phoenix,3,85901,1840022580
+So-Hi,AZ,Arizona,4015,Mohave,35.2527,-114.1415,223,98,polygon,FALSE,TRUE,America/Phoenix,3,86413,1840075493
+Valle Vista,AZ,Arizona,4015,Mohave,35.4109,-113.8627,1959,63,polygon,FALSE,TRUE,America/Phoenix,3,86401,1840075499
+Rillito,AZ,Arizona,4019,Pima,32.4157,-111.1549,51,243,polygon,FALSE,FALSE,America/Phoenix,3,85654 85653,1840023075
+Safford,AZ,Arizona,4009,Graham,32.8318,-109.7006,19302,435,polygon,FALSE,TRUE,America/Phoenix,3,85546,1840021989
+Rye,AZ,Arizona,4007,Gila,34.0979,-111.3542,108,81,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840022867
+Gisela,AZ,Arizona,4007,Gila,34.1015,-111.2895,642,86,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840017946
+Claypool,AZ,Arizona,4007,Gila,33.406,-110.8421,1428,469,polygon,FALSE,FALSE,America/Phoenix,3,85539,1840017944
+South Tucson,AZ,Arizona,4019,Pima,32.1955,-110.9692,5643,2121,polygon,FALSE,TRUE,America/Phoenix,2,85713,1840022100
+Chilchinbito,AZ,Arizona,4017,Navajo,36.5027,-110.0512,887,14,polygon,FALSE,FALSE,America/Denver,3,86033,1840017655
+Chinle,AZ,Arizona,4001,Apache,36.1504,-109.5793,5698,137,polygon,FALSE,FALSE,America/Denver,3,86503,1840017672
+Rock Point,AZ,Arizona,4001,Apache,36.7173,-109.6287,484,13,polygon,FALSE,FALSE,America/Denver,3,86545,1840018999
+Santa Cruz,AZ,Arizona,4021,Pinal,33.2326,-112.1593,0,0,polygon,FALSE,FALSE,America/Phoenix,3,85339,1840025878
+Peeples Valley,AZ,Arizona,4025,Yavapai,34.2773,-112.7654,474,12,polygon,FALSE,FALSE,America/Phoenix,3,85362 86332,1840019163
+Camp Verde,AZ,Arizona,4025,Yavapai,34.5699,-111.8573,11201,100,polygon,FALSE,TRUE,America/Phoenix,3,86322,1840022752
+Douglas,AZ,Arizona,4003,Cochise,31.3602,-109.5394,16438,624,polygon,FALSE,TRUE,America/Phoenix,3,85608 85607 85655,1840019496
+Beaver Dam,AZ,Arizona,4015,Mohave,36.9071,-113.9363,1587,72,polygon,FALSE,FALSE,America/Phoenix,3,86432,1840023172
+Many Farms,AZ,Arizona,4001,Apache,36.3532,-109.6271,1322,62,polygon,FALSE,FALSE,America/Denver,3,86538 86503,1840017674
+Hayden,AZ,Arizona,4007,Gila,32.9995,-110.7814,631,192,polygon,FALSE,TRUE,America/Phoenix,3,85135 85192,1840021911
+Cibola,AZ,Arizona,4012,La Paz,33.3733,-114.6792,414,8,polygon,FALSE,FALSE,America/Phoenix,3,85334 85328,1840017956
+Pinetop-Lakeside,AZ,Arizona,4017,Navajo,34.1486,-109.9658,4361,150,polygon,FALSE,TRUE,America/Phoenix,3,85935 85929,1840022571
+Pine Lake,AZ,Arizona,4015,Mohave,35.0887,-113.8739,50,11,polygon,FALSE,TRUE,America/Phoenix,3,86401,1840075424
+El Capitan,AZ,Arizona,4007,Gila,33.2383,-110.7833,121,7,polygon,FALSE,TRUE,America/Phoenix,3,85192 85501,1840075340
+Naco,AZ,Arizona,4003,Cochise,31.343,-109.9337,833,97,polygon,FALSE,FALSE,America/Phoenix,3,85603 85620,1840019491
+Valentine,AZ,Arizona,4015,Mohave,35.3886,-113.6591,60,14,polygon,FALSE,FALSE,America/Phoenix,3,86437,1840023187
+Ali Chukson,AZ,Arizona,4019,Pima,31.9114,-111.8018,107,19,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023061
+Arlington,AZ,Arizona,4013,Maricopa,33.3346,-112.7747,97,16,polygon,FALSE,FALSE,America/Phoenix,3,85322,1840022920
+Oljato-Monument Valley,AZ,Arizona,4017,Navajo,36.9867,-110.191,202,6,polygon,FALSE,TRUE,America/Denver,3,84536,1840037122
+Red Mesa,AZ,Arizona,4001,Apache,36.9664,-109.3828,367,11,polygon,FALSE,FALSE,America/Denver,3,86514,1840018998
+Whetstone,AZ,Arizona,4003,Cochise,31.7011,-110.3398,2191,71,polygon,FALSE,FALSE,America/Phoenix,3,85616,1840027991
+Tsaile,AZ,Arizona,4001,Apache,36.3033,-109.2157,1308,84,polygon,FALSE,FALSE,America/Denver,3,86556 86507,1840136753
+Mohave Valley,AZ,Arizona,4015,Mohave,34.9008,-114.5732,2984,82,polygon,FALSE,FALSE,America/Phoenix,3,86440,1840019745
+Prescott,AZ,Arizona,4025,Yavapai,34.585,-112.4475,42731,367,polygon,FALSE,TRUE,America/Phoenix,3,86305 86301 86303 86313 86302 86304,1840020436
+Clay Springs,AZ,Arizona,4017,Navajo,34.3592,-110.3043,392,53,polygon,FALSE,FALSE,America/Phoenix,3,85923,1840022574
+Pinetop Country Club,AZ,Arizona,4017,Navajo,34.1163,-109.891,1677,95,polygon,FALSE,TRUE,America/Phoenix,3,85935,1840075441
+Centennial Park,AZ,Arizona,4015,Mohave,36.9538,-112.9813,1550,275,polygon,FALSE,TRUE,America/Phoenix,3,86021 86022,1840075272
+Somerton,AZ,Arizona,4027,Yuma,32.6009,-114.699,19168,839,polygon,FALSE,TRUE,America/Phoenix,3,85350,1840021997
+Gadsden,AZ,Arizona,4027,Yuma,32.5564,-114.781,502,98,polygon,FALSE,FALSE,America/Phoenix,3,85336,1840018027
+Kayenta,AZ,Arizona,4017,Navajo,36.7144,-110.259,4630,135,polygon,FALSE,FALSE,America/Denver,3,86033,1840017658
+Mammoth,AZ,Arizona,4021,Pinal,32.6853,-110.7292,1611,23,polygon,FALSE,TRUE,America/Phoenix,3,85623,1840022980
+Anthem,AZ,Arizona,4013,Maricopa,33.856,-112.1168,22980,1121,polygon,FALSE,FALSE,America/Phoenix,3,85086,1840022919
+Christopher Creek,AZ,Arizona,4007,Gila,34.3206,-111.0072,86,10,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840022862
+Duncan,AZ,Arizona,4011,Greenlee,32.7344,-109.0972,788,141,polygon,FALSE,TRUE,America/Phoenix,3,85534,1840021986
+Goodyear Village,AZ,Arizona,4021,Pinal,33.1973,-111.8724,236,27,polygon,FALSE,TRUE,America/Phoenix,3,85248 85121,1840042768
+Utting,AZ,Arizona,4012,La Paz,33.8544,-113.9129,83,1,polygon,FALSE,FALSE,America/Phoenix,3,85325,1840022879
+Saddlebrooke,AZ,Arizona,4021,Pinal,32.5385,-110.8582,10300,135,polygon,FALSE,TRUE,America/Phoenix,3,85739,1840075484
+Padre Ranchitos,AZ,Arizona,4027,Yuma,32.6497,-114.6417,253,336,polygon,FALSE,TRUE,America/Phoenix,3,85365,1840075422
+Jeddito,AZ,Arizona,4017,Navajo,35.7697,-110.1305,326,23,polygon,FALSE,FALSE,America/Denver,3,86034,1840017657
+Nutrioso,AZ,Arizona,4001,Apache,33.9515,-109.2058,59,74,polygon,FALSE,FALSE,America/Phoenix,3,85932,1840022624
+New River,AZ,Arizona,4013,Maricopa,33.8835,-112.0858,14847,102,polygon,FALSE,FALSE,America/Phoenix,3,85086 85087,1840019307
+Anegam,AZ,Arizona,4019,Pima,32.3742,-112.035,86,14,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023063
+Joseph City,AZ,Arizona,4017,Navajo,34.9614,-110.3274,1260,65,polygon,FALSE,FALSE,America/Phoenix,3,86032,1840022578
+Whispering Pines,AZ,Arizona,4007,Gila,34.3728,-111.2813,106,95,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840027969
+Tonto Basin,AZ,Arizona,4007,Gila,33.8361,-111.3003,1601,19,polygon,FALSE,FALSE,America/Phoenix,3,85553,1840019264
+Chandler,AZ,Arizona,4013,Maricopa,33.2827,-111.8517,253458,1505,polygon,FALSE,TRUE,America/Phoenix,2,85248 85249 85226 85224 85225 85286 85246,1840019309
+Sanders,AZ,Arizona,4001,Apache,35.2095,-109.3224,541,87,polygon,FALSE,FALSE,America/Denver,3,86512,1840022626
+Clarkdale,AZ,Arizona,4025,Yavapai,34.7501,-112.0549,4330,160,polygon,FALSE,TRUE,America/Phoenix,3,86326 86324,1840022754
+Elephant Head,AZ,Arizona,4019,Pima,31.7659,-110.9921,735,38,polygon,FALSE,TRUE,America/Phoenix,3,85645,1840075344
+Katherine,AZ,Arizona,4015,Mohave,35.2206,-114.5615,80,8,polygon,FALSE,FALSE,America/Phoenix,3,86429,1840023179
+Moenkopi,AZ,Arizona,4005,Coconino,36.1124,-111.2212,1273,326,polygon,FALSE,FALSE,America/Phoenix,3,86045,1840018967
+South Komelik,AZ,Arizona,4019,Pima,31.7145,-111.7744,308,30,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023077
+Oxbow Estates,AZ,Arizona,4007,Gila,34.1824,-111.343,197,154,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840027971
+Oatman,AZ,Arizona,4015,Mohave,35.0273,-114.3839,48,96,polygon,FALSE,FALSE,America/Phoenix,3,86413 86433,1840023184
+Chino Valley,AZ,Arizona,4025,Yavapai,34.7594,-112.4107,11667,71,polygon,FALSE,TRUE,America/Phoenix,3,86323,1840022753
+Buckeye,AZ,Arizona,4013,Maricopa,33.4314,-112.6429,68453,67,polygon,FALSE,TRUE,America/Phoenix,3,85326 85396,1840021939
+Aguila,AZ,Arizona,4013,Maricopa,33.9376,-113.1665,1240,304,polygon,FALSE,FALSE,America/Phoenix,3,85320,1840022918
+Bluewater,AZ,Arizona,4012,La Paz,34.1681,-114.2667,875,162,polygon,FALSE,FALSE,America/Phoenix,3,85344,1840027986
+Klagetoh,AZ,Arizona,4001,Apache,35.5011,-109.5283,203,234,polygon,FALSE,FALSE,America/Denver,3,86502 86505,1840022622
+Yucca,AZ,Arizona,4015,Mohave,34.863,-114.1461,61,10,polygon,FALSE,FALSE,America/Phoenix,3,86438,1840023190
+Haigler Creek,AZ,Arizona,4007,Gila,34.2163,-110.9719,29,6,polygon,FALSE,TRUE,America/Phoenix,3,85554,1840075384
+Wall Lane,AZ,Arizona,4027,Yuma,32.6573,-114.7105,365,322,polygon,FALSE,TRUE,America/Tijuana,3,85365,1840075541
+Gu Oidak,AZ,Arizona,4019,Pima,31.9206,-112.0233,98,5,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023070
+Bullhead City,AZ,Arizona,4015,Mohave,35.1205,-114.546,49531,261,polygon,FALSE,TRUE,America/Phoenix,3,86442 86429 86430 86439,1840019748
+Gold Canyon,AZ,Arizona,4021,Pinal,33.3715,-111.4369,10684,184,polygon,FALSE,FALSE,America/Phoenix,3,85118 85119,1840018032
+Fortuna Foothills,AZ,Arizona,4027,Yuma,32.6616,-114.3973,28200,271,polygon,FALSE,FALSE,America/Phoenix,3,85367,1840027989
+Vaiva Vo,AZ,Arizona,4021,Pinal,32.7167,-111.9269,0,0,polygon,FALSE,FALSE,America/Phoenix,3,85193,1840022988
+Pisinemo,AZ,Arizona,4019,Pima,32.0349,-112.3192,356,60,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840019483
+McNeal,AZ,Arizona,4003,Cochise,31.6079,-109.6699,167,17,polygon,FALSE,FALSE,America/Phoenix,3,85617,1840023087
+Ali Chuk,AZ,Arizona,4019,Pima,31.8169,-112.5584,120,32,polygon,FALSE,FALSE,America/Phoenix,3,85321,1840023060
+Bouse,AZ,Arizona,4012,La Paz,33.8984,-113.9962,927,2,polygon,FALSE,FALSE,America/Phoenix,3,85325,1840017957
+Kearny,AZ,Arizona,4021,Pinal,33.0564,-110.9074,2095,299,polygon,FALSE,TRUE,America/Phoenix,3,85137,1840022000
+Ehrenberg,AZ,Arizona,4012,La Paz,33.6174,-114.4883,844,27,polygon,FALSE,FALSE,America/Phoenix,3,85334 85346,1840017958
+Amado,AZ,Arizona,4023,Santa Cruz,31.6968,-111.0583,104,7,polygon,FALSE,FALSE,America/Phoenix,3,85645 85646,1840018172
+Cave Creek,AZ,Arizona,4013,Maricopa,33.8513,-111.9801,5622,57,polygon,FALSE,TRUE,America/Phoenix,3,85087 85331 85327,1840022915
+Wide Ruins,AZ,Arizona,4001,Apache,35.4175,-109.4994,84,82,polygon,FALSE,FALSE,America/Denver,3,86502,1840022630
+East Globe,AZ,Arizona,4007,Gila,33.3511,-110.7061,258,29,polygon,FALSE,TRUE,America/Phoenix,3,85550,1840075328
+Litchfield Park,AZ,Arizona,4013,Maricopa,33.5024,-112.3586,6009,705,polygon,FALSE,TRUE,America/Phoenix,3,85340,1840020565
+Gila Crossing,AZ,Arizona,4013,Maricopa,33.273,-112.1627,810,359,polygon,FALSE,FALSE,America/Phoenix,3,85339,1840025866
+Kaibab,AZ,Arizona,4015,Mohave,36.8815,-112.7236,162,9,polygon,FALSE,FALSE,America/Phoenix,3,86022,1840018340
+Haivana Nakya,AZ,Arizona,4019,Pima,32.0051,-111.7124,143,29,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023071
+Houck,AZ,Arizona,4001,Apache,35.2714,-109.2236,1030,9,polygon,FALSE,FALSE,America/Denver,3,86512 86506,1840017677
+Rio Rico,AZ,Arizona,4023,Santa Cruz,31.4957,-110.9886,18891,117,polygon,FALSE,FALSE,America/Phoenix,3,85640 85648,1840027004
+Wickenburg,AZ,Arizona,4013,Maricopa,33.9837,-112.7669,4220,110,polygon,FALSE,TRUE,America/Phoenix,3,85390 85358,1840022916
+Buckshot,AZ,Arizona,4027,Yuma,32.7404,-114.4829,27,34,polygon,FALSE,TRUE,America/Phoenix,3,85365,1840075263
+Lake of the Woods,AZ,Arizona,4017,Navajo,34.1547,-109.9936,3975,387,polygon,FALSE,FALSE,America/Phoenix,3,85929,1840022579
+Willcox,AZ,Arizona,4003,Cochise,32.2515,-109.8359,3420,219,polygon,FALSE,TRUE,America/Phoenix,3,85643 85644,1840022105
+Antares,AZ,Arizona,4015,Mohave,35.4229,-113.8083,147,87,polygon,FALSE,FALSE,America/Phoenix,3,86401,1840023171
+Miracle Valley,AZ,Arizona,4003,Cochise,31.3829,-110.1485,759,535,polygon,FALSE,FALSE,America/Phoenix,3,85615,1840023089
+Summit,AZ,Arizona,4019,Pima,32.0619,-110.9483,5349,557,polygon,FALSE,FALSE,America/Phoenix,3,85756,1840019488
+Cienega Springs,AZ,Arizona,4012,La Paz,34.2008,-114.2089,1926,209,polygon,FALSE,FALSE,America/Phoenix,3,85344,1840022877
+Oro Valley,AZ,Arizona,4019,Pima,32.4223,-110.9767,44350,480,polygon,FALSE,TRUE,America/Phoenix,3,85755 85704 85737,1840023058
+Young,AZ,Arizona,4007,Gila,34.1189,-110.9559,421,3,polygon,FALSE,FALSE,America/Phoenix,3,85554,1840019265
+Munds Park,AZ,Arizona,4005,Coconino,34.9382,-111.6318,726,12,polygon,FALSE,FALSE,America/Phoenix,3,86017 86336,1840018969
+Peach Springs,AZ,Arizona,4015,Mohave,35.5315,-113.4319,1228,59,polygon,FALSE,FALSE,America/Phoenix,3,86434,1840019746
+San Tan Valley,AZ,Arizona,4021,Pinal,33.1879,-111.5473,90665,954,polygon,FALSE,FALSE,America/Phoenix,3,85143 85140,1840027990
+Peridot,AZ,Arizona,4007,Gila,33.3015,-110.4554,1648,123,polygon,FALSE,FALSE,America/Phoenix,3,85542,1840019261
+Cowlic,AZ,Arizona,4019,Pima,31.8049,-111.9876,189,91,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023069
+Golden Shores,AZ,Arizona,4015,Mohave,34.7819,-114.4777,1294,61,polygon,FALSE,TRUE,America/Phoenix,3,86440 86436,1840075379
+Arivaca,AZ,Arizona,4019,Pima,31.575,-111.2926,627,8,polygon,FALSE,FALSE,America/Phoenix,3,85601,1840023064
+Dudleyville,AZ,Arizona,4021,Pinal,32.9127,-110.7345,568,32,polygon,FALSE,FALSE,America/Phoenix,3,85192,1840019358
+Lazy Y U,AZ,Arizona,4015,Mohave,35.1369,-113.9685,468,11,polygon,FALSE,TRUE,America/Phoenix,3,86401,1840075406
+Chloride,AZ,Arizona,4015,Mohave,35.4097,-114.1972,297,76,polygon,FALSE,FALSE,America/Phoenix,3,86431,1840023175
+Mesquite Creek,AZ,Arizona,4015,Mohave,34.9606,-114.5714,470,178,polygon,FALSE,FALSE,America/Phoenix,3,86440,1840027981
+Washington Park,AZ,Arizona,4007,Gila,34.3978,-111.2731,137,20,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840022869
+Campo Bonito,AZ,Arizona,4021,Pinal,32.5629,-110.6984,58,5,polygon,FALSE,FALSE,America/Phoenix,3,85623,1840027939
+Nolic,AZ,Arizona,4019,Pima,32.0341,-111.955,63,46,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023074
+Bagdad,AZ,Arizona,4025,Yavapai,34.5771,-113.1771,1737,83,polygon,FALSE,FALSE,America/Phoenix,3,86321,1840017845
+Wintersburg,AZ,Arizona,4013,Maricopa,33.4187,-112.8666,43,33,polygon,FALSE,FALSE,America/Phoenix,3,85354,1840022927
+Komatke,AZ,Arizona,4013,Maricopa,33.2953,-112.1615,1283,221,polygon,FALSE,FALSE,America/Phoenix,3,85339,1840022923
+LeChee,AZ,Arizona,4005,Coconino,36.871,-111.4328,1527,35,polygon,FALSE,FALSE,America/Denver,3,86040,1840027980
+Fredonia,AZ,Arizona,4005,Coconino,36.9617,-112.5195,1304,56,polygon,FALSE,TRUE,America/Phoenix,3,86022,1840021586
+Lukachukai,AZ,Arizona,4001,Apache,36.4112,-109.2267,1660,29,polygon,FALSE,FALSE,America/Denver,3,86507,1840017673
+Comobabi,AZ,Arizona,4019,Pima,32.0539,-111.8029,43,14,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023068
+Cordes Lakes,AZ,Arizona,4025,Yavapai,34.3103,-112.1073,2328,83,polygon,FALSE,FALSE,America/Phoenix,3,86333,1840017841
+Scenic,AZ,Arizona,4015,Mohave,36.7931,-114.0151,1608,37,polygon,FALSE,TRUE,America/Phoenix,3,86432,1840075488
+Sehili,AZ,Arizona,4001,Apache,36.2807,-109.1814,107,63,polygon,FALSE,FALSE,America/Denver,3,86556 86507,1840022627
+Wellton,AZ,Arizona,4027,Yuma,32.6399,-114.214,2989,39,polygon,FALSE,TRUE,America/Phoenix,3,85356,1840022976
+Globe,AZ,Arizona,4007,Gila,33.3869,-110.7514,13198,155,polygon,FALSE,TRUE,America/Phoenix,3,85501 85502 85532,1840020533
+Sahuarita,AZ,Arizona,4019,Pima,31.9328,-110.9654,47229,359,polygon,FALSE,TRUE,America/Phoenix,3,85629 85614,1840022102
+White Hills,AZ,Arizona,4015,Mohave,35.7242,-114.4004,222,1,polygon,FALSE,FALSE,America/Phoenix,3,86445 86441,1840023188
+Tempe,AZ,Arizona,4013,Maricopa,33.3881,-111.9318,185038,1787,polygon,FALSE,TRUE,America/Phoenix,2,85281 85282 85283 85284 85280 85285 85287,1840021942
+Arizona Village,AZ,Arizona,4015,Mohave,34.8548,-114.5893,1129,274,polygon,FALSE,FALSE,America/Phoenix,3,86440,1840018338
+York,AZ,Arizona,4011,Greenlee,32.9175,-109.196,620,128,polygon,FALSE,FALSE,America/Phoenix,3,85534,1840022951
+Tat Momoli,AZ,Arizona,4021,Pinal,32.6012,-111.8862,54,22,polygon,FALSE,FALSE,America/Phoenix,3,85193,1840022987
+Bisbee,AZ,Arizona,4003,Cochise,31.4126,-109.9178,5160,387,polygon,FALSE,TRUE,America/Phoenix,3,85603,1840019495
+Kingman,AZ,Arizona,4015,Mohave,35.217,-114.0105,44212,303,polygon,FALSE,TRUE,America/Phoenix,3,86409 86401,1840021043
+Desert Hills,AZ,Arizona,4015,Mohave,34.5506,-114.3754,2838,254,polygon,FALSE,FALSE,America/Los_Angeles,3,86404,1840027987
+Peoria,AZ,Arizona,4013,Maricopa,33.7844,-112.299,168181,369,polygon,FALSE,TRUE,America/Phoenix,2,85381 85383 85382 85373 85345 85342 85380 85385,1840020567
+Upper Santan Village,AZ,Arizona,4021,Pinal,33.1152,-111.7419,391,21,polygon,FALSE,TRUE,America/Phoenix,3,85147,1840042802
+Grand Canyon Village,AZ,Arizona,4005,Coconino,36.0492,-112.1566,1438,41,polygon,FALSE,TRUE,America/Phoenix,3,86023,1840074025
+Williamson,AZ,Arizona,4025,Yavapai,34.7082,-112.5342,5108,34,polygon,FALSE,FALSE,America/Phoenix,3,86323 86305,1840019166
+Rio Verde,AZ,Arizona,4013,Maricopa,33.7278,-111.674,2028,180,polygon,FALSE,FALSE,America/Phoenix,3,85263,1840019308
+Prescott Valley,AZ,Arizona,4025,Yavapai,34.5982,-112.3178,97066,419,polygon,FALSE,TRUE,America/Phoenix,3,86327 86315 86314 86312,1840021772
+Keams Canyon,AZ,Arizona,4017,Navajo,35.8229,-110.2011,262,6,polygon,FALSE,FALSE,America/Phoenix,3,86034,1840017659
+Parks,AZ,Arizona,4005,Coconino,35.2939,-111.9771,1652,3,polygon,FALSE,FALSE,America/Phoenix,3,86046 86018,1840018970
+Sawmill,AZ,Arizona,4001,Apache,35.8924,-109.1538,706,47,polygon,FALSE,FALSE,America/Denver,3,86504,1840019003
+Tumacacori-Carmen,AZ,Arizona,4023,Santa Cruz,31.5771,-111.0469,281,55,polygon,FALSE,TRUE,America/Phoenix,3,85640,1840074659
+Bitter Springs,AZ,Arizona,4005,Coconino,36.6118,-111.6475,417,20,polygon,FALSE,FALSE,America/Denver,3,86040 86036,1840017661
+Why,AZ,Arizona,4019,Pima,32.259,-112.7307,150,6,polygon,FALSE,FALSE,America/Phoenix,3,85321,1840023082
+Littlefield,AZ,Arizona,4015,Mohave,36.8663,-113.9358,505,16,polygon,FALSE,FALSE,America/Phoenix,3,86432,1840023180
+Carrizo,AZ,Arizona,4007,Gila,33.9867,-110.3314,191,8,polygon,FALSE,FALSE,America/Phoenix,3,85941,1840022860
+Fountain Hills,AZ,Arizona,4013,Maricopa,33.6073,-111.7398,24583,468,polygon,FALSE,TRUE,America/Phoenix,3,85268 85269,1840021945
+Parker,AZ,Arizona,4012,La Paz,34.0286,-114.2224,4730,53,polygon,FALSE,TRUE,America/Phoenix,3,85344 85346,1840022875
+Hondah,AZ,Arizona,4017,Navajo,34.086,-109.9149,991,31,polygon,FALSE,TRUE,America/Phoenix,3,85935 85930,1840075391
+Brenda,AZ,Arizona,4012,La Paz,33.6721,-113.9379,392,21,polygon,FALSE,FALSE,America/Phoenix,3,85348,1840022876
+Seba Dalkai,AZ,Arizona,4017,Navajo,35.4816,-110.4562,144,3,polygon,FALSE,FALSE,America/Denver,3,86047,1840022583
+Rough Rock,AZ,Arizona,4001,Apache,36.4106,-109.8691,585,17,polygon,FALSE,FALSE,America/Denver,3,86503,1840019000
+Tonopah,AZ,Arizona,4013,Maricopa,33.488,-112.9308,65,18,polygon,FALSE,FALSE,America/Phoenix,3,85354,1840022926
+Pinion Pines,AZ,Arizona,4015,Mohave,35.1467,-113.9059,181,46,polygon,FALSE,TRUE,America/Phoenix,3,86401,1840075442
+Show Low,AZ,Arizona,4017,Navajo,34.2671,-110.0384,10837,65,polygon,FALSE,TRUE,America/Phoenix,3,85901 85902,1840021582
+Winslow West,AZ,Arizona,4017,Navajo,34.9923,-110.7069,757,16,polygon,FALSE,FALSE,America/Phoenix,3,86047,1840027984
+Clacks Canyon,AZ,Arizona,4015,Mohave,35.2203,-114.0723,322,37,polygon,FALSE,TRUE,America/Phoenix,3,86413 86409 86402,1840075276
+Tonalea,AZ,Arizona,4005,Coconino,36.3218,-110.9667,335,13,polygon,FALSE,FALSE,America/Denver,3,86044,1840018971
+Glendale,AZ,Arizona,4013,Maricopa,33.5797,-112.2258,246709,1601,polygon,FALSE,TRUE,America/Phoenix,2,85301 85303 85302 85304 85306 85308 85305 85307 85309 85310 85311 85312 85318,1840020563
+McConnico,AZ,Arizona,4015,Mohave,35.1636,-114.0898,0,0,polygon,FALSE,FALSE,America/Phoenix,3,86413 86401,1840023181
+Apache Junction,AZ,Arizona,4021,Pinal,33.3985,-111.5351,40538,446,polygon,FALSE,TRUE,America/Phoenix,3,85119 85120 85117 85178,1840019365
+Strawberry,AZ,Arizona,4007,Gila,34.4018,-111.5002,714,29,polygon,FALSE,FALSE,America/Phoenix,3,85544,1840019266
+Martinez Lake,AZ,Arizona,4027,Yuma,32.9843,-114.4722,81,20,polygon,FALSE,TRUE,America/Phoenix,3,85365,1840075410
+Grand Canyon West,AZ,Arizona,4015,Mohave,35.9998,-113.8103,0,0,polygon,FALSE,TRUE,America/Phoenix,3,86434,1840075383
+Sweet Water Village,AZ,Arizona,4021,Pinal,33.1274,-111.8424,152,73,polygon,FALSE,TRUE,America/Phoenix,3,85121,1840042801
+Superior,AZ,Arizona,4021,Pinal,33.2851,-111.1109,3074,603,polygon,FALSE,TRUE,America/Phoenix,3,85173,1840022981
+Red Rock,AZ,Arizona,4021,Pinal,32.561,-111.3745,3046,24,polygon,FALSE,FALSE,America/Phoenix,3,85131 85145 85658,1840022985
+Sierra Vista,AZ,Arizona,4003,Cochise,31.563,-110.3153,51571,108,polygon,FALSE,TRUE,America/Phoenix,3,85650 85635 85613 85670 85671,1840022103
+Rainbow City,AZ,Arizona,4017,Navajo,33.8731,-109.9763,1114,197,polygon,FALSE,TRUE,America/Phoenix,3,85941,1840038035
+Sierra Vista Southeast,AZ,Arizona,4003,Cochise,31.4525,-110.216,15591,54,polygon,FALSE,TRUE,America/Phoenix,3,85650 85615 85636,1840074401
+Willow Valley,AZ,Arizona,4015,Mohave,34.9296,-114.6159,869,67,polygon,FALSE,FALSE,America/Phoenix,3,86440,1840019747
+Cactus Forest,AZ,Arizona,4021,Pinal,32.9578,-111.317,872,123,polygon,FALSE,FALSE,America/Phoenix,3,85132,1840022982
+East Fork,AZ,Arizona,4017,Navajo,33.8081,-109.9228,699,130,polygon,FALSE,FALSE,America/Phoenix,3,85941,1840018961
+Lupton,AZ,Arizona,4001,Apache,35.3548,-109.0528,19,21,polygon,FALSE,FALSE,America/Denver,3,86508,1840022623
+Gila Bend,AZ,Arizona,4013,Maricopa,32.9662,-112.7155,2069,12,polygon,FALSE,TRUE,America/Phoenix,3,85337,1840021946
+Wellton Hills,AZ,Arizona,4027,Yuma,32.6232,-114.1453,386,233,polygon,FALSE,TRUE,America/Phoenix,3,85356,1840075560
+Citrus Park,AZ,Arizona,4013,Maricopa,33.5304,-112.444,4924,327,polygon,FALSE,FALSE,America/Phoenix,3,85355 85340,1840022921
+Casas Adobes,AZ,Arizona,4019,Pima,32.3423,-111.0114,68919,998,polygon,FALSE,FALSE,America/Phoenix,3,85704 85741 85742 85752,1840018108
+Turkey Creek,AZ,Arizona,4017,Navajo,33.8011,-109.9461,489,229,polygon,FALSE,TRUE,America/Phoenix,3,85941,1840075498
+Mountainaire,AZ,Arizona,4005,Coconino,35.092,-111.6493,993,37,polygon,FALSE,FALSE,America/Phoenix,3,86001,1840018968
+Drexel Heights,AZ,Arizona,4019,Pima,32.1457,-111.0479,28187,559,polygon,FALSE,FALSE,America/Phoenix,3,85757 85746,1840027928
+Central Heights-Midland City,AZ,Arizona,4007,Gila,33.4,-110.8153,2752,555,polygon,FALSE,TRUE,America/Phoenix,3,85501,1840073906
+Maish Vaya,AZ,Arizona,4019,Pima,32.1703,-112.1342,188,17,polygon,FALSE,FALSE,America/Phoenix,3,85634,1840023073
+Toyei,AZ,Arizona,4001,Apache,35.7043,-109.937,0,0,polygon,FALSE,FALSE,America/Denver,3,86505,1840022628
+Sacaton,AZ,Arizona,4021,Pinal,33.0793,-111.7683,2338,111,polygon,FALSE,FALSE,America/Phoenix,3,85147,1840019361
+Miami,AZ,Arizona,4007,Gila,33.3951,-110.8722,1771,779,polygon,FALSE,TRUE,America/Phoenix,3,85539,1840022856
+Sun Valley,AZ,Arizona,4017,Navajo,34.9835,-110.0374,195,2,polygon,FALSE,FALSE,America/Phoenix,3,86029,1840022584
+Rancho Mesa Verde,AZ,Arizona,4027,Yuma,32.5944,-114.6551,909,3125,polygon,FALSE,TRUE,America/Phoenix,2,85350,1840038041
+Page,AZ,Arizona,4005,Coconino,36.9425,-111.5071,6946,76,polygon,FALSE,TRUE,America/Denver,3,86040 86036,1840020336
+Pimaco Two,AZ,Arizona,4019,Pima,31.9666,-110.4663,669,56,polygon,FALSE,FALSE,America/Phoenix,3,85602,1840027975
+Shonto,AZ,Arizona,4017,Navajo,36.5893,-110.6607,543,45,polygon,FALSE,FALSE,America/Denver,3,86054,1840018963
+Geronimo Estates,AZ,Arizona,4007,Gila,34.3695,-111.3617,92,26,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840137528
+Clifton,AZ,Arizona,4011,Greenlee,33.0249,-109.2883,5010,97,polygon,FALSE,TRUE,America/Phoenix,3,85533,1840022949
+Flowing Wells,AZ,Arizona,4019,Pima,32.2937,-111.011,14972,1518,polygon,FALSE,FALSE,America/Phoenix,3,85705,1840027988
+Maricopa Colony,AZ,Arizona,4013,Maricopa,33.3626,-112.2267,791,55,polygon,FALSE,TRUE,America/Phoenix,3,85339,1840042770
+Eagar,AZ,Arizona,4001,Apache,34.1058,-109.2956,6089,167,polygon,FALSE,TRUE,America/Phoenix,3,85938 85925,1840021623
+Mesa del Caballo,AZ,Arizona,4007,Gila,34.286,-111.2952,569,697,polygon,FALSE,FALSE,America/Phoenix,3,85541,1840027967
+Round Valley,AZ,Arizona,4007,Gila,34.1877,-111.3018,832,67,polygon,FALSE,TRUE,America/Phoenix,3,85541,1840075483
+Flagstaff,AZ,Arizona,4005,Coconino,35.1872,-111.6195,78628,420,polygon,FALSE,TRUE,America/Phoenix,3,86001 86011 86004 86002 86005,1840020335
+Dragoon,AZ,Arizona,4003,Cochise,32.0263,-110.0365,48,10,polygon,FALSE,FALSE,America/Phoenix,3,85609,1840023085
+Copper Hill,AZ,Arizona,4007,Gila,33.4379,-110.7516,0,0,polygon,FALSE,FALSE,America/Phoenix,3,85501,1840027973
