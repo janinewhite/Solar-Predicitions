@@ -1,0 +1,554 @@
+[
+    [
+        "GEONAME",
+        "POP",
+        "state",
+        "place"
+    ],
+    [
+        "Camp Verde town, Arizona",
+        "11238",
+        "04",
+        "09690"
+    ],
+    [
+        "Carefree town, Arizona",
+        "3724",
+        "04",
+        "10180"
+    ],
+    [
+        "Casa Grande city, Arizona",
+        "54534",
+        "04",
+        "10530"
+    ],
+    [
+        "Cave Creek town, Arizona",
+        "5476",
+        "04",
+        "11300"
+    ],
+    [
+        "Chandler city, Arizona",
+        "247477",
+        "04",
+        "12000"
+    ],
+    [
+        "Chino Valley town, Arizona",
+        "11250",
+        "04",
+        "12840"
+    ],
+    [
+        "Clarkdale town, Arizona",
+        "4272",
+        "04",
+        "13890"
+    ],
+    [
+        "Clifton town, Arizona",
+        "3734",
+        "04",
+        "14380"
+    ],
+    [
+        "Colorado City town, Arizona",
+        "4818",
+        "04",
+        "14870"
+    ],
+    [
+        "Coolidge city, Arizona",
+        "12528",
+        "04",
+        "15500"
+    ],
+    [
+        "Cottonwood city, Arizona",
+        "11990",
+        "04",
+        "16410"
+    ],
+    [
+        "Dewey-Humboldt town, Arizona",
+        "4049",
+        "04",
+        "19145"
+    ],
+    [
+        "Douglas city, Arizona",
+        "16604",
+        "04",
+        "20050"
+    ],
+    [
+        "Duncan town, Arizona",
+        "804",
+        "04",
+        "20750"
+    ],
+    [
+        "Eagar town, Arizona",
+        "4988",
+        "04",
+        "20960"
+    ],
+    [
+        "El Mirage city, Arizona",
+        "35043",
+        "04",
+        "22220"
+    ],
+    [
+        "Eloy city, Arizona",
+        "17442",
+        "04",
+        "22360"
+    ],
+    [
+        "Flagstaff city, Arizona",
+        "71459",
+        "04",
+        "23620"
+    ],
+    [
+        "Florence town, Arizona",
+        "25779",
+        "04",
+        "23760"
+    ],
+    [
+        "Fountain Hills town, Arizona",
+        "24482",
+        "04",
+        "25300"
+    ],
+    [
+        "Fredonia town, Arizona",
+        "1323",
+        "04",
+        "25720"
+    ],
+    [
+        "Gila Bend town, Arizona",
+        "2071",
+        "04",
+        "27050"
+    ],
+    [
+        "Gilbert town, Arizona",
+        "237133",
+        "04",
+        "27400"
+    ],
+    [
+        "Glendale city, Arizona",
+        "245895",
+        "04",
+        "27820"
+    ],
+    [
+        "Globe city, Arizona",
+        "7376",
+        "04",
+        "28030"
+    ],
+    [
+        "Goodyear city, Arizona",
+        "77258",
+        "04",
+        "28380"
+    ],
+    [
+        "Guadalupe town, Arizona",
+        "6336",
+        "04",
+        "30270"
+    ],
+    [
+        "Hayden town, Arizona",
+        "635",
+        "04",
+        "32020"
+    ],
+    [
+        "Holbrook city, Arizona",
+        "5074",
+        "04",
+        "33280"
+    ],
+    [
+        "Huachuca City town, Arizona",
+        "1744",
+        "04",
+        "34120"
+    ],
+    [
+        "Jerome town, Arizona",
+        "455",
+        "04",
+        "36290"
+    ],
+    [
+        "Kearny town, Arizona",
+        "2075",
+        "04",
+        "37200"
+    ],
+    [
+        "Kingman city, Arizona",
+        "29029",
+        "04",
+        "37620"
+    ],
+    [
+        "Lake Havasu City city, Arizona",
+        "53743",
+        "04",
+        "39370"
+    ],
+    [
+        "Litchfield Park city, Arizona",
+        "5766",
+        "04",
+        "41330"
+    ],
+    [
+        "Mammoth town, Arizona",
+        "1519",
+        "04",
+        "43990"
+    ],
+    [
+        "Marana town, Arizona",
+        "43474",
+        "04",
+        "44270"
+    ],
+    [
+        "Maricopa city, Arizona",
+        "46903",
+        "04",
+        "44410"
+    ],
+    [
+        "Mesa city, Arizona",
+        "484587",
+        "04",
+        "46000"
+    ],
+    [
+        "Miami town, Arizona",
+        "1781",
+        "04",
+        "46350"
+    ],
+    [
+        "Nogales city, Arizona",
+        "20008",
+        "04",
+        "49640"
+    ],
+    [
+        "Oro Valley town, Arizona",
+        "43781",
+        "04",
+        "51600"
+    ],
+    [
+        "Page city, Arizona",
+        "7599",
+        "04",
+        "51810"
+    ],
+    [
+        "Paradise Valley town, Arizona",
+        "14355",
+        "04",
+        "52930"
+    ],
+    [
+        "Parker town, Arizona",
+        "3026",
+        "04",
+        "53070"
+    ],
+    [
+        "Patagonia town, Arizona",
+        "878",
+        "04",
+        "53490"
+    ],
+    [
+        "Payson town, Arizona",
+        "15476",
+        "04",
+        "53700"
+    ],
+    [
+        "Peoria city, Arizona",
+        "164173",
+        "04",
+        "54050"
+    ],
+    [
+        "Phoenix city, Arizona",
+        "1615017",
+        "04",
+        "55000"
+    ],
+    [
+        "Pima town, Arizona",
+        "2505",
+        "04",
+        "55560"
+    ],
+    [
+        "Pinetop-Lakeside town, Arizona",
+        "4378",
+        "04",
+        "55980"
+    ],
+    [
+        "Prescott city, Arizona",
+        "42513",
+        "04",
+        "57380"
+    ],
+    [
+        "Prescott Valley town, Arizona",
+        "43132",
+        "04",
+        "57450"
+    ],
+    [
+        "Quartzsite town, Arizona",
+        "3644",
+        "04",
+        "58010"
+    ],
+    [
+        "Queen Creek town, Arizona",
+        "35524",
+        "04",
+        "58150"
+    ],
+    [
+        "Safford city, Arizona",
+        "9604",
+        "04",
+        "62000"
+    ],
+    [
+        "Sahuarita town, Arizona",
+        "28794",
+        "04",
+        "62140"
+    ],
+    [
+        "St. Johns city, Arizona",
+        "3568",
+        "04",
+        "62350"
+    ],
+    [
+        "San Luis city, Arizona",
+        "32148",
+        "04",
+        "63470"
+    ],
+    [
+        "Scottsdale city, Arizona",
+        "246645",
+        "04",
+        "65000"
+    ],
+    [
+        "Sedona city, Arizona",
+        "10397",
+        "04",
+        "65350"
+    ],
+    [
+        "Show Low city, Arizona",
+        "11096",
+        "04",
+        "66470"
+    ],
+    [
+        "Sierra Vista city, Arizona",
+        "43208",
+        "04",
+        "66820"
+    ],
+    [
+        "Snowflake town, Arizona",
+        "5764",
+        "04",
+        "67800"
+    ],
+    [
+        "Somerton city, Arizona",
+        "14970",
+        "04",
+        "68080"
+    ],
+    [
+        "South Tucson city, Arizona",
+        "5645",
+        "04",
+        "68850"
+    ],
+    [
+        "Springerville town, Arizona",
+        "1995",
+        "04",
+        "68990"
+    ],
+    [
+        "Star Valley town, Arizona",
+        "2287",
+        "04",
+        "69480"
+    ],
+    [
+        "Superior town, Arizona",
+        "2999",
+        "04",
+        "71300"
+    ],
+    [
+        "Surprise city, Arizona",
+        "132677",
+        "04",
+        "71510"
+    ],
+    [
+        "Taylor town, Arizona",
+        "4217",
+        "04",
+        "72420"
+    ],
+    [
+        "Tempe city, Arizona",
+        "182498",
+        "04",
+        "73000"
+    ],
+    [
+        "Thatcher town, Arizona",
+        "5027",
+        "04",
+        "73420"
+    ],
+    [
+        "Tolleson city, Arizona",
+        "7178",
+        "04",
+        "74190"
+    ],
+    [
+        "Tombstone city, Arizona",
+        "1300",
+        "04",
+        "74400"
+    ],
+    [
+        "Tucson city, Arizona",
+        "530706",
+        "04",
+        "77000"
+    ],
+    [
+        "Tusayan town, Arizona",
+        "591",
+        "04",
+        "77490"
+    ],
+    [
+        "Wellton town, Arizona",
+        "2968",
+        "04",
+        "81480"
+    ],
+    [
+        "Wickenburg town, Arizona",
+        "7115",
+        "04",
+        "82740"
+    ],
+    [
+        "Willcox city, Arizona",
+        "3511",
+        "04",
+        "83090"
+    ],
+    [
+        "Williams city, Arizona",
+        "3159",
+        "04",
+        "83160"
+    ],
+    [
+        "Winkelman town, Arizona",
+        "346",
+        "04",
+        "83790"
+    ],
+    [
+        "Winslow city, Arizona",
+        "9754",
+        "04",
+        "83930"
+    ],
+    [
+        "Youngtown town, Arizona",
+        "6759",
+        "04",
+        "85400"
+    ],
+    [
+        "Yuma city, Arizona",
+        "94906",
+        "04",
+        "85540"
+    ],
+    [
+        "Apache Junction city, Arizona",
+        "39954",
+        "04",
+        "02830"
+    ],
+    [
+        "Avondale city, Arizona",
+        "82881",
+        "04",
+        "04720"
+    ],
+    [
+        "Benson city, Arizona",
+        "4870",
+        "04",
+        "05770"
+    ],
+    [
+        "Bisbee city, Arizona",
+        "5221",
+        "04",
+        "06260"
+    ],
+    [
+        "Buckeye city, Arizona",
+        "64629",
+        "04",
+        "07940"
+    ],
+    [
+        "Bullhead City city, Arizona",
+        "39970",
+        "04",
+        "08220"
+    ]
+]

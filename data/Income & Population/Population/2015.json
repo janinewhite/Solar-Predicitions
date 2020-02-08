@@ -1,0 +1,554 @@
+[
+    [
+        "GEONAME",
+        "POP",
+        "state",
+        "place"
+    ],
+    [
+        "Sahuarita town, Arizona, Mountain, West, United States",
+        "25707",
+        "04",
+        "62140"
+    ],
+    [
+        "St. Johns city, Arizona, Mountain, West, United States",
+        "3483",
+        "04",
+        "62350"
+    ],
+    [
+        "San Luis city, Arizona, Mountain, West, United States",
+        "31520",
+        "04",
+        "63470"
+    ],
+    [
+        "Scottsdale city, Arizona, Mountain, West, United States",
+        "236839",
+        "04",
+        "65000"
+    ],
+    [
+        "Sedona city, Arizona, Mountain, West, United States",
+        "10388",
+        "04",
+        "65350"
+    ],
+    [
+        "Show Low city, Arizona, Mountain, West, United States",
+        "10860",
+        "04",
+        "66470"
+    ],
+    [
+        "Sierra Vista city, Arizona, Mountain, West, United States",
+        "43355",
+        "04",
+        "66820"
+    ],
+    [
+        "Snowflake town, Arizona, Mountain, West, United States",
+        "5666",
+        "04",
+        "67800"
+    ],
+    [
+        "Somerton city, Arizona, Mountain, West, United States",
+        "15048",
+        "04",
+        "68080"
+    ],
+    [
+        "South Tucson city, Arizona, Mountain, West, United States",
+        "5715",
+        "04",
+        "68850"
+    ],
+    [
+        "Springerville town, Arizona, Mountain, West, United States",
+        "1954",
+        "04",
+        "68990"
+    ],
+    [
+        "Star Valley town, Arizona, Mountain, West, United States",
+        "2277",
+        "04",
+        "69480"
+    ],
+    [
+        "Superior town, Arizona, Mountain, West, United States",
+        "2943",
+        "04",
+        "71300"
+    ],
+    [
+        "Surprise city, Arizona, Mountain, West, United States",
+        "128422",
+        "04",
+        "71510"
+    ],
+    [
+        "Taylor town, Arizona, Mountain, West, United States",
+        "4151",
+        "04",
+        "72420"
+    ],
+    [
+        "Tempe city, Arizona, Mountain, West, United States",
+        "175826",
+        "04",
+        "73000"
+    ],
+    [
+        "Thatcher town, Arizona, Mountain, West, United States",
+        "4992",
+        "04",
+        "73420"
+    ],
+    [
+        "Tolleson city, Arizona, Mountain, West, United States",
+        "7008",
+        "04",
+        "74190"
+    ],
+    [
+        "Tombstone city, Arizona, Mountain, West, United States",
+        "1312",
+        "04",
+        "74400"
+    ],
+    [
+        "Tucson city, Arizona, Mountain, West, United States",
+        "531641",
+        "04",
+        "77000"
+    ],
+    [
+        "Tusayan town, Arizona, Mountain, West, United States",
+        "567",
+        "04",
+        "77490"
+    ],
+    [
+        "Wellton town, Arizona, Mountain, West, United States",
+        "2936",
+        "04",
+        "81480"
+    ],
+    [
+        "Wickenburg town, Arizona, Mountain, West, United States",
+        "6806",
+        "04",
+        "82740"
+    ],
+    [
+        "Willcox city, Arizona, Mountain, West, United States",
+        "3552",
+        "04",
+        "83090"
+    ],
+    [
+        "Williams city, Arizona, Mountain, West, United States",
+        "3122",
+        "04",
+        "83160"
+    ],
+    [
+        "Winkelman town, Arizona, Mountain, West, United States",
+        "346",
+        "04",
+        "83790"
+    ],
+    [
+        "Winslow city, Arizona, Mountain, West, United States",
+        "9600",
+        "04",
+        "83930"
+    ],
+    [
+        "Youngtown town, Arizona, Mountain, West, United States",
+        "6613",
+        "04",
+        "85400"
+    ],
+    [
+        "Apache Junction city, Arizona, Mountain, West, United States",
+        "38074",
+        "04",
+        "02830"
+    ],
+    [
+        "Yuma city, Arizona, Mountain, West, United States",
+        "94139",
+        "04",
+        "85540"
+    ],
+    [
+        "Avondale city, Arizona, Mountain, West, United States",
+        "80684",
+        "04",
+        "04720"
+    ],
+    [
+        "Benson city, Arizona, Mountain, West, United States",
+        "4888",
+        "04",
+        "05770"
+    ],
+    [
+        "Bisbee city, Arizona, Mountain, West, United States",
+        "5208",
+        "04",
+        "06260"
+    ],
+    [
+        "Buckeye town, Arizona, Mountain, West, United States",
+        "62138",
+        "04",
+        "07940"
+    ],
+    [
+        "Bullhead City city, Arizona, Mountain, West, United States",
+        "39445",
+        "04",
+        "08220"
+    ],
+    [
+        "Camp Verde town, Arizona, Mountain, West, United States",
+        "11155",
+        "04",
+        "09690"
+    ],
+    [
+        "Carefree town, Arizona, Mountain, West, United States",
+        "3610",
+        "04",
+        "10180"
+    ],
+    [
+        "Casa Grande city, Arizona, Mountain, West, United States",
+        "51460",
+        "04",
+        "10530"
+    ],
+    [
+        "Cave Creek town, Arizona, Mountain, West, United States",
+        "5341",
+        "04",
+        "11300"
+    ],
+    [
+        "Chandler city, Arizona, Mountain, West, United States",
+        "260828",
+        "04",
+        "12000"
+    ],
+    [
+        "Chino Valley town, Arizona, Mountain, West, United States",
+        "11137",
+        "04",
+        "12840"
+    ],
+    [
+        "Clarkdale town, Arizona, Mountain, West, United States",
+        "4240",
+        "04",
+        "13890"
+    ],
+    [
+        "Clifton town, Arizona, Mountain, West, United States",
+        "3685",
+        "04",
+        "14380"
+    ],
+    [
+        "Colorado City town, Arizona, Mountain, West, United States",
+        "4832",
+        "04",
+        "14870"
+    ],
+    [
+        "Coolidge city, Arizona, Mountain, West, United States",
+        "12297",
+        "04",
+        "15500"
+    ],
+    [
+        "Cottonwood city, Arizona, Mountain, West, United States",
+        "11818",
+        "04",
+        "16410"
+    ],
+    [
+        "Dewey-Humboldt town, Arizona, Mountain, West, United States",
+        "3988",
+        "04",
+        "19145"
+    ],
+    [
+        "Douglas city, Arizona, Mountain, West, United States",
+        "16592",
+        "04",
+        "20050"
+    ],
+    [
+        "Duncan town, Arizona, Mountain, West, United States",
+        "799",
+        "04",
+        "20750"
+    ],
+    [
+        "Eagar town, Arizona, Mountain, West, United States",
+        "4869",
+        "04",
+        "20960"
+    ],
+    [
+        "El Mirage city, Arizona, Mountain, West, United States",
+        "33935",
+        "04",
+        "22220"
+    ],
+    [
+        "Eloy city, Arizona, Mountain, West, United States",
+        "17059",
+        "04",
+        "22360"
+    ],
+    [
+        "Flagstaff city, Arizona, Mountain, West, United States",
+        "70320",
+        "04",
+        "23620"
+    ],
+    [
+        "Florence town, Arizona, Mountain, West, United States",
+        "31110",
+        "04",
+        "23760"
+    ],
+    [
+        "Fountain Hills town, Arizona, Mountain, West, United States",
+        "23899",
+        "04",
+        "25300"
+    ],
+    [
+        "Fredonia town, Arizona, Mountain, West, United States",
+        "1322",
+        "04",
+        "25720"
+    ],
+    [
+        "Gila Bend town, Arizona, Mountain, West, United States",
+        "2025",
+        "04",
+        "27050"
+    ],
+    [
+        "Gilbert town, Arizona, Mountain, West, United States",
+        "247542",
+        "04",
+        "27400"
+    ],
+    [
+        "Glendale city, Arizona, Mountain, West, United States",
+        "240126",
+        "04",
+        "27820"
+    ],
+    [
+        "Globe city, Arizona, Mountain, West, United States",
+        "7396",
+        "04",
+        "28030"
+    ],
+    [
+        "Goodyear city, Arizona, Mountain, West, United States",
+        "79003",
+        "04",
+        "28380"
+    ],
+    [
+        "Guadalupe town, Arizona, Mountain, West, United States",
+        "6177",
+        "04",
+        "30270"
+    ],
+    [
+        "Hayden town, Arizona, Mountain, West, United States",
+        "650",
+        "04",
+        "32020"
+    ],
+    [
+        "Holbrook city, Arizona, Mountain, West, United States",
+        "5019",
+        "04",
+        "33280"
+    ],
+    [
+        "Huachuca City town, Arizona, Mountain, West, United States",
+        "1755",
+        "04",
+        "34120"
+    ],
+    [
+        "Jerome town, Arizona, Mountain, West, United States",
+        "456",
+        "04",
+        "36290"
+    ],
+    [
+        "Kearny town, Arizona, Mountain, West, United States",
+        "2038",
+        "04",
+        "37200"
+    ],
+    [
+        "Kingman city, Arizona, Mountain, West, United States",
+        "28912",
+        "04",
+        "37620"
+    ],
+    [
+        "Lake Havasu City city, Arizona, Mountain, West, United States",
+        "53553",
+        "04",
+        "39370"
+    ],
+    [
+        "Litchfield Park city, Arizona, Mountain, West, United States",
+        "5533",
+        "04",
+        "41330"
+    ],
+    [
+        "Mammoth town, Arizona, Mountain, West, United States",
+        "1487",
+        "04",
+        "43990"
+    ],
+    [
+        "Marana town, Arizona, Mountain, West, United States",
+        "41315",
+        "04",
+        "44270"
+    ],
+    [
+        "Maricopa city, Arizona, Mountain, West, United States",
+        "48602",
+        "04",
+        "44410"
+    ],
+    [
+        "Mesa city, Arizona, Mountain, West, United States",
+        "471825",
+        "04",
+        "46000"
+    ],
+    [
+        "Miami town, Arizona, Mountain, West, United States",
+        "1783",
+        "04",
+        "46350"
+    ],
+    [
+        "Nogales city, Arizona, Mountain, West, United States",
+        "20252",
+        "04",
+        "49640"
+    ],
+    [
+        "Oro Valley town, Arizona, Mountain, West, United States",
+        "43565",
+        "04",
+        "51600"
+    ],
+    [
+        "Page city, Arizona, Mountain, West, United States",
+        "7490",
+        "04",
+        "51810"
+    ],
+    [
+        "Paradise Valley town, Arizona, Mountain, West, United States",
+        "13922",
+        "04",
+        "52930"
+    ],
+    [
+        "Parker town, Arizona, Mountain, West, United States",
+        "3046",
+        "04",
+        "53070"
+    ],
+    [
+        "Patagonia town, Arizona, Mountain, West, United States",
+        "890",
+        "04",
+        "53490"
+    ],
+    [
+        "Payson town, Arizona, Mountain, West, United States",
+        "15345",
+        "04",
+        "53700"
+    ],
+    [
+        "Peoria city, Arizona, Mountain, West, United States",
+        "171237",
+        "04",
+        "54050"
+    ],
+    [
+        "Phoenix city, Arizona, Mountain, West, United States",
+        "1563025",
+        "04",
+        "55000"
+    ],
+    [
+        "Pima town, Arizona, Mountain, West, United States",
+        "2524",
+        "04",
+        "55560"
+    ],
+    [
+        "Pinetop-Lakeside town, Arizona, Mountain, West, United States",
+        "4345",
+        "04",
+        "55980"
+    ],
+    [
+        "Prescott city, Arizona, Mountain, West, United States",
+        "41899",
+        "04",
+        "57380"
+    ],
+    [
+        "Prescott Valley town, Arizona, Mountain, West, United States",
+        "42197",
+        "04",
+        "57450"
+    ],
+    [
+        "Quartzsite town, Arizona, Mountain, West, United States",
+        "3626",
+        "04",
+        "58010"
+    ],
+    [
+        "Queen Creek town, Arizona, Mountain, West, United States",
+        "34614",
+        "04",
+        "58150"
+    ],
+    [
+        "Safford city, Arizona, Mountain, West, United States",
+        "9683",
+        "04",
+        "62000"
+    ]
+]

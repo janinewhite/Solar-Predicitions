@@ -1,0 +1,202 @@
+id,name,aka,country
+1,Sharp,NULL,Japan
+2,Applied Solar,NULL,US
+3,BP Solar,NULL,Spain
+4,CertainTeed,NULL,US
+5,Global Solar Energy,NULL,US
+6,Solar Integrated Technologies,NULL,US
+7,SunPower,NULL,China
+8,Suntech Power,NULL,China
+9,United Solar Ovonic,NULL,US
+10,Enphase Energy,Enphase Energy Inc.,US
+11,Fronius USA,NULL,US
+12,Open Energy Corporation,NULL,US
+13,Perfect Galaxy,NULL,US
+14,PV Powered,NULL,US
+15,Schneider Electric,Schneider Electric Solar Inverters USA,France
+16,Schuco USA,NULL,US
+17,SMA America,SMA Solar Technology,US
+18,Solectria,Yaskawa Solectria Solar,Brazil
+19,Xantrex Technology,NULL,US
+20,1Soltech,NULL,US
+21,Abound Solar,NULL,US
+22,Advance Solar Hydro Wind Power,NULL,US
+23,Aleo Solar,NULL,Germany
+24,American Solar Wholesale,NULL,US
+25,Amerisolar-Worldwide Energy and Manufacturing USA Co ,NULL,US
+26,Andalay Solar,NULL,US
+27,Antaris Solar,NULL,Germany
+28,Apollo Solar Energy,NULL,China
+29,Astronergy Solarmodule,NULL,Germany
+30,ASUN Energy,NULL,China
+31,Atlantis Energy,NULL,Singapore
+32,AU Optronics,NULL,Taiwan
+33,Auxin Solar,NULL,US
+34,Avancis,NULL,China
+35,Axitec,NULL,Germany
+36,Bluechip Energy,NULL,US
+37,Bosch Solar Energy,NULL,Germany
+38,Boviet Solar Technology,NULL,Vietnam
+39,BYD Company,NULL,China
+40,Canadian Solar,NULL,Canada
+41,Caterpillar,NULL,US
+42,Centrosolar America,NULL,US
+43,CentroSolar Sonnenstromfabrik,NULL,Germany
+44,Changzhou Trina Solar Energy,NULL,China
+45,China Sunergy (Nanjing),NULL,China
+46,Chint Solar (Zhejiang) Co,NULL,China
+47,CNPV Dongying Solar Power,NULL,China
+48,Conergy,NULL,Singapore
+49,CSUN,NULL,US
+50,Day4 Energy,NULL,Canada
+51,DelSolar,NULL,Taiwan
+52,AccuSolar Power,NULL,US
+53,Ecosolargy,NULL,US
+54,Ningbo Solar Electric Power,NULL,China
+55,Kyocera Solar,NULL,Japan
+56,Isofoton,NULL,Spain
+57,Kaneka,NULL,Japan
+59,Schott Solar,NULL,US
+60,Evergreen Solar,NULL,China
+61,First Solar,NULL,US
+62,SunWize Technologies,NULL,US
+63,Panasonic,NULL,Japan
+66,SolarWorld,NULL,Germany
+67,Mitsubishi Electric,NULL,Japan
+68,EPV SOLAR,NULL,US
+69,REC Solar,NULL,Norway
+70,Hanwha SolarOne (Qidong),NULL,South Korea
+71,REC ScanModule,NULL,Norway
+72,Shanghai JA Solar Technology,NULL,China
+73,Photowatt Ontario,NULL,Canada
+74,Zhongli Talesun Solar,NULL,Thailand
+75,Zhejiang Jiutai New Energy,NULL,China
+76,Yingli Green Energy,NULL,China
+77,Worldwide Energy & Manufacturing USA,NULL,US
+78,Westinghouse Solar,NULL,Australia
+79,Vina Solar Technology Co,NULL,Vietnam
+80,Vikram Solar,NULL,India
+81,USOL Energy,NULL,US
+82,Upsolar,NULL,Singapore
+83,Unicor Federal Prison Industries,NULL,US
+84,T-Solar Global,NULL,Spain
+85,TSMC Solar,NULL,Taiwan
+86,Trina Solar,NULL,China
+87,Topsun,NULL,India
+88,Titan Energy Systems,NULL,US
+89,Thaisun Green Energy,NULL,Thailand
+90,TenKsolar,NULL,US
+91,Talesun Solar,NULL,China
+92,Symphony Energy,NULL,India
+93,Sunspark Technology,NULL,US
+94,Sunpreme,NULL,US
+95,Sunperfect Solar,NULL,US
+96,Suniva,NULL,China
+97,SUNGEN International,NULL,China
+98,SunEdison,NULL,US
+99,Sun World Solar Energy Technology (Luoyang),NULL,China
+100,Sun Earth Solar Power,NULL,China
+101,Solon,Solon Fuer Solartechnik,Germany
+102,Stion,NULL,US
+103,Solyndra,NULL,US
+104,Lumos,NULL,Netherlands
+105,Solarzentrum Allgau,NULL,Germany
+106,Solartec,NULL,Argentina
+107,Solaria,NULL,Italy
+108,SolarCity,NULL,US
+109,Solar Power (SPI),NULL,US
+110,Solar Frontier,NULL,Japan
+111,Siliken,"Siliken Modules,Siliken Manufacturing USA,Siliken Canada",Spain
+112,Silevo,NULL,US
+113,Silfab,NULL,Canada
+114,Shanghai Chaori Solar Energy Science & Technology,NULL,China
+115,Shanghai Alex Solar Energy Science & Technology,NULL,China
+116,Shandong Linuo Photovoltaic Hi-Tech,NULL,China
+117,Seraphim Solar System,NULL,China
+118,S-Energy Co,S-ENERGY,South Korea
+119,Scheuten Solar USA,NULL,US
+120,Samsung SDI,NULL,South Korea
+121,Renogy,NULL,Canada
+122,Renesola,"Renesola Jiangsu,Renesola America",Hungary
+123,Recom,NULL,Germany
+124,Q-Cells,"Hanwha Q CELLS (Qidong),Hanwha Q-Cells",South Korea
+125,Prism Solar Technologies,NULL,US
+126,Phono Solar Technology,NULL,China
+127,Perlight Solar,NULL,China
+128,PEIMAR,NULL,Italy
+129,Ningbo Maxsolar,NULL,China
+130,Nexpower Technology,NULL,Taiwan
+131,Neo Solar Power,NULL,Taiwan
+132,Motech Industries,Motech Americas,Taiwan
+133,Mission Solar Energy,NULL,US
+134,MiaSole,NULL,China
+135,MEMC Singapore,NULL,Singapore
+136,Mage Solar,Mage Solar USA,US
+137,LONGi Green Energy Technology Co,NULL,China
+138,Lightway Green New Energy,NULL,China
+139,LG Electronics,NULL,South Korea
+140,LDK Solar,NULL,China
+141,Kenmec Mechanical Engineering Co,NULL,Taiwan
+142,Jiangyin Hareon Power,NULL,China
+143,Jiangsu Shunda PV-Tech,NULL,China
+144,Jumao Photonic (Xiamen),NULL,China
+145,Jinko Solar Co,Jinko Solar,China
+146,JA Solar Holding,"JA Solar,Jingao Solar",China
+147,Jetion Solar,Jiangyin Jetion Science and Technology,China
+148,Jiangsu Sainty Machinery,NULL,China
+149,Jiangsu Aide Solar Energy Technology,NULL,China
+150,Innotech Solar,NULL,Norway
+151,Hyundai Heavy Industries Green Energy,Hyundai Heavy Industries,South Korea
+152,Hengdian Group DMEGC Magnetics,NULL,China
+153,Helios USA,NULL,US
+154,Heliene,NULL,Canada
+155,Hanwha SolarOne Hong Kong,NULL,China
+156,Hansol Technics,NULL,South Korea
+157,Grape Solar,NULL,US
+158,Gloria Solar,NULL,Taiwan
+159,Gigawatt,NULL,Netherlands
+160,GE Energy,NULL,US
+161,GCL,"GCL-Poly (Suzhou) Energy,GCL System Integration Technology Co",China
+162,Freevolt,NULL,Poland
+163,Flextronics,NULL,Singapore
+164,ET Solar Industry,NULL,China
+165,E-solar,NULL,US
+166,Eoplly New Energy Technology,NULL,China
+167,ABB,NULL,Switzerland
+168,Advanced Energy Industries,NULL,US
+169,Advanced Solar Photonics,NULL,US
+170,AEG Power Solutions,NULL,Netherlands
+171,Altenergy Power Systems,"Altenergy Power System,Altenergy Power System Inc.",China
+172,Apparent,NULL,US
+173,Beacon Power,NULL,US
+174,Ballard Power Systems,NULL,Canada
+175,Chiconypower,NULL,Taiwan
+176,Chilicon,NULL,US
+177,Chint Power Systems America,Chint Solar (Zhejiang),US
+178,Delta Electronics,NULL,Taiwan
+179,Delta Energy Systems,NULL,Germany
+180,Diehl AKO Stiftung,NULL,Germany
+181,Direct Grid Technologies,NULL,US
+182,Eaton,NULL,US
+184,Exeltech,NULL,US
+185,Growatt New Energy Technology,NULL,China
+186,HiQ Solar,NULL,US
+187,Huawei,NULL,China
+188,Ideal Power,NULL,US
+189,Kaco,NULL,Germany
+190,KLNE,NULL,China
+191,Ningbo Ginlong Technologies,"Ningbo Ginlong Technologies Co.,Ltd.",China
+192,OutBack Power Systems,NULL,US
+193,Advanced Energy,PV Powered,US
+194,Pika Energy,NULL,US
+195,Power-One,NULL,Switzerland
+196,Renovo Power Systems,NULL,US
+197,Samil Power,NULL,South Korea
+198,SatCon Technology,NULL,US
+199,Sparq Systems,NULL,Canada
+200,SolarBridge Technologies,NULL,US
+201,SolarEdge Technologies,SolarEdge Technologies Ltd.,Israel
+202,Solarmax,NULL,US
+203,Sustainable Energy Technologies,NULL,US
+204,Sungrow Power Supply,NULL,China
+205,Tabuchi Electric,NULL,Japan
