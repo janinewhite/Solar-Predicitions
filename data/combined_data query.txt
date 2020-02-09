@@ -1,0 +1,29 @@
+ SELECT l.*,
+    inc.household_income AS income,
+    pop.population,
+    dp.name AS provider,
+    m1.name AS module_mfg_1,
+    m1.country AS module_country_1,
+    m1.region AS module_region_1,
+    m2.name AS module_mfg_2,
+    m2.country AS module_country_2,
+    m2.region AS module_region_2,
+    m3.name AS module_mfg_3,
+    m3.country AS module_country_3,
+    m3.region AS module_region_3,
+    m4.name AS inverter_mfg,
+    m4.country AS inverter_country,
+    m4.region AS inverter_region
+   FROM ( SELECT i.*,
+            date_part('year'::text, i.installation_date) AS install_yr,
+            c.lat AS latitude,
+            c.lng AS longitude
+           FROM installations i
+             LEFT JOIN city_geo c ON i.city = c.city) l
+     LEFT JOIN manufacturers m1 ON l.module_manufacturer_1 = m1.id
+     LEFT JOIN manufacturers m2 ON l.module_manufacturer_2 = m2.id
+     LEFT JOIN manufacturers m3 ON l.module_manufacturer_2 = m3.id
+     LEFT JOIN manufacturers m4 ON l.inverter_manufacturer = m4.id
+     LEFT JOIN data_providers dp ON l.data_provider = dp.id
+     LEFT JOIN income inc ON l.city = inc.location AND l.install_yr = inc.year::double precision
+     LEFT JOIN population pop ON l.city = pop.location AND l.install_yr = pop.year::double precision;
